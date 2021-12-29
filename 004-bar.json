@@ -1,0 +1,9 @@
+{
+	"##name": "004-bar.txt",
+	"##input_file_size": "45",
+	"a": "neg1",
+	"a|b": "neg2",
+	"a\\|b|c": "pos1",
+	"a\\\\\\|a|b|c": "pos2",
+	"": ""
+}
