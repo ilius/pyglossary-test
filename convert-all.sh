@@ -16,7 +16,7 @@ PG="$HOME/pyglossary/main.py"
 "$PG" 100-en-de.txt 100-en-de.json
 "$PG" 100-en-de.txt 100-en-de.info
 "$PG" 100-en-de.txt 100-en-de.sd/100-en-de.ifo --write-options=dictzip=False
-"$PG" 100-en-de.txt 100-en-de_remove_font_b.txt --remove-html 'font,b'
+"$PG" 100-en-de.txt 100-en-de-remove_font_b.txt --remove-html 'font,b'
 
 "$PG" 100-ja-en.txt 100-ja-en.csv
 "$PG" 100-ja-en.txt 100-ja-en.json

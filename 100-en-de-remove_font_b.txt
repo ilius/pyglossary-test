@@ -1,0 +1,109 @@
+##name	Sample: English-Deutsch FreeDict+WikDict dictionary
+##input_file_size	15117
+##edition	2020.02.08
+##copyright	Licensed under the <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode">Creative Commons Attribution-ShareAlike 3.0 Unported</a> license
+##publisher	Karl Bartel
+##creationTime	2020-02-08
+##description	Automatic creation of this bilingual dictionary by <a href="http://www.wikdict.com/">WikDict</a>.\nBase data from <a href="https://www.wiktionary.org/">Wiktionary.org</a> via <a href="http://kaiko.getalp.org/about-dbnary/">DBnary</a>.\nThis dictionary comes to you through nice people\nmaking it available for free and for good. It is part of\nthe FreeDict project, http://www.freedict.org/. This\nproject aims to make available many translating\ndictionaries for free. Your contributions are welcome!
+##sourceLang	English
+##targetLang	German
+&	<div>conjunction<br>abbreviation of and<br>u.</div>
+-'s	<div>/s/, /z/, /əz/, /ɪz/<br>\nparticle<br>possessive marker<br>-s, der, des, von</div>
+able	<div>/ə.bl̩/<br>\nsuffix<br><ol><li>bar</li><li>able to be done<br>bar, abel</li><li>expressing capacity or worthiness in a passive sense<br>wert</li></ol></div>
+aemia	<div>suffix<br>condition of the blood<br>ämie</div>
+amine	<div>suffix<br>an amine<br>amin</div>
+an	<div>suffix<br>of or pertaining to<br>isch</div>
+ane	<div>/eɪn/<br>\nsuffix<br>alkanes<br>an</div>
+ation	<div>suffix<br>-ation (suffix)<br>ation, ierung</div>
+caine	<div>suffix<br>a synthetic alkaloid used as an anesthetic<br>cain</div>
+centric	<div>suffix<br>having a specified number of centres<br>zentrisch</div>
+cide	<div>/-saɪd/<br>\nsuffix<br><ol><li>killer of<br>örder</li><li>killing of<br>zid, ord</li></ol></div>
+cracy	<div>/-kɹəsi/<br>\nsuffix<br>rule<br>kratie</div>
+cratic	<div>/ˈkɹætɪk/<br>\nsuffix<br>suffix forming adjectives related to -cracy/-crat<br>kratisch</div>
+cyte	<div>/-saɪt/<br>\nsuffix<br>cell names and classifications<br>zyt</div>
+diene	<div>suffix<br><ol><li>diene</li><li>polymer of a diene</li></ol>dien</div>
+ectomy	<div>/-ˈɛktəmi/<br>\nsuffix<br>surgical removal of<br>ektomie, [Amputation|-amputation]], [Entfernung|-entfernung]]</div>
+ene	<div>suffix<br>alkene<br>en</div>
+er	<div>/ə/, /ɚ/<br>\nsuffix<br><ol><li>(used to form agent nouns) person or thing that does...</li><li>used to form the comparative of adjectives</li><li>used to form the comparative of adverbs</li></ol>er</div>
+ese	<div>suffix<br>forming adjectives and nouns describing things characteristic of a particular place<br>isch</div>
+esque	<div>/-ɛsk/<br>\nsuffix<br>in the style of<br>esk</div>
+ess	<div>/-ɛs/<br>\nsuffix<br>female suffix<br>in, trix, öse</div>
+est	<div>/əst/, /ɪst/<br>\nsuffix<br><ol><li>superlative of adjectives and adverbs<br>ste, ster, m ...-sten</li><li>second-person singular present tense of verbs<br>st</li></ol></div>
+fold	<div>suffix<br><ol><li>used to make adjectives<br>fach, fache</li><li>used to make adverbs<br>fach, faltig</li></ol></div>
+free	<div>suffix<br>free from; without<br>frei</div>
+gate	<div>suffix<br>component in names of scandals<br>gate</div>
+gen	<div>suffix<br>producer of something<br>gen</div>
+gon	<div>suffix<br>plane figure<br>eck</div>
+gram	<div>suffix<br>something written<br>gramm</div>
+graph	<div>suffix<br>something related to writing etc.<br>graph</div>
+graphy	<div>/-ɡɹəfi/<br>\nsuffix<br>Suffix denoting a written or represented in the specified manner, or about a specified subject<br>graphie</div>
+hedron	<div>suffix<br>solid figure<br>eder</div>
+hood	<div>/hʊd/<br>\nsuffix<br><ol><li>condition or state<br>heit, keit, schaft</li><li>group<br>schaft</li></ol></div>
+hour-old	<div>suffix<br>suffix used to indicate the age of something or someone, in terms of hours<br>stündig</div>
+ian	<div>/iːən/<br>\nsuffix<br>related to<br>isch</div>
+iatry	<div>suffix<br>iatrie</div>
+ible	<div>suffix<br>able to be done<br>bar</div>
+ic	<div>suffix<br>Note: these translations are a guide only. For more precise translations, see individual words ending in -ic<br>isch</div>
+ics	<div>suffix<br>fields of knowledge or practice<br>ik</div>
+ide	<div>suffix<br><ol><li><ol><li>any of a group of related compounds</li><li>binary compound of a nonmetal</li></ol>id</li><li>any of a group of several elements<br>id, oid</li></ol></div>
+ify	<div>/ɪfaɪ/<br>\nsuffix<br>to produce verbs meaning to make<br>fizieren</div>
+-in-law	<div>adjective<br>related through marriage<br>schwieger-</div>
+ing	<div>/iːn/, /ɪŋ/, /ɪŋɡ/<br>\nsuffix<br><ol><li>act of doing something<br>ung</li><li>to form gerunds<br>u</li><li>to form present participles<br>end</li></ol></div>
+ish	<div>/ɪʃ/<br>\nsuffix<br><ol><li>appended to adjectives<br>lich</li><li>appended to roots denoting names of nations or regions<br>isch</li><li>appended to words<br>haft</li></ol></div>
+ism	<div>/ɪzəm/<br>\nsuffix<br>a principle, belief or movement<br>ismus</div>
+ist	<div>/-əst/, /-ɪst/<br>\nsuffix<br>One who follows a particular ideology, doctrine, belief system or theory<br>ist</div>
+ite	<div>/-aɪt/, /-ɪt/<br>\nsuffix<br>used to form names of minerals and rocks<br>it</div>
+itis	<div>/-ˈaɪtɪs/<br>\nsuffix<br>suffix denoting diseases characterized by inflammation<br>itis</div>
+itude	<div>suffix<br>suffix<br>itüde, tude</div>
+ity	<div>/[ɪti]/<br>\nsuffix<br>Used to form nouns from adjectives.<br>ität</div>
+ive	<div>/ɪv/<br>\nsuffix<br>adjectival suffix: of the nature of; tending to<br>iv</div>
+ization	<div>/-ˈaɪzeɪʃən/<br>\nsuffix<br>act, process, or result of doing something<br>isierung, isation</div>
+ize	<div>/-aɪz/<br>\nsuffix<br>suffix used to form verbs<br>ieren, isieren</div>
+land	<div>/lənd/<br>\nsuffix<br>territory, country or region (suffix)<br>land</div>
+less	<div>/ləs/<br>\nsuffix<br>lacking<br>los</div>
+like	<div>suffix<br>having some of the characteristics of (used to form adjectives from nouns)<br>artig, ähnlich</div>
+ling	<div>suffix<br>Diminutive<br>chen, erl, lein, ling</div>
+lite	<div>/lʌɪt/<br>\nsuffix<br>forms names of rocks or minerals<br>lith</div>
+logical	<div>suffix<br>used to form adjectival forms of nouns<br>ogisch</div>
+logist	<div>suffix<br>person who studies or is an expert in the related -logy<br>loge, login</div>
+logy	<div>/ləd͡ʒi/<br>\nsuffix<br><ol><li>branch of learning<br>logie, ik, kunde, ehre, issenschaft</li><li>something said<br>teiler</li></ol></div>
+ly	<div>/li/, /lɪ/<br>\nsuffix<br><ol><li>forming adjectives from nouns, in the sense "similar to, like, characteristic of"<br>haft, ig, isch, lich</li><li>used to form adverbs from adjectives<br>erweise, lich</li></ol></div>
+mancy	<div>suffix<br>specified forms of divination<br>mantie</div>
+mania	<div>suffix<br>indicating a compulsion or obsession<br>manie</div>
+meter	<div>suffix<br>used to form a measuring device<br>meter</div>
+metry	<div>suffix<br>forming nouns relating to measures and measurement<br>metrie</div>
+ness	<div>/nəs/, /nɛs/, /nɪs/<br>\nsuffix<br>appended to adjectives to form nouns meaning "the state of being...", "the quality of being...", or "the measure of being..."<br>heit, keit, nis</div>
+nomy	<div>suffix<br>system of rules, laws, or knowledge about a particular field<br>nomie</div>
+ol	<div>suffix<br>-OH group<br>ol</div>
+ologist	<div>suffix<br>alternative spelling of -logist<br>ologe</div>
+ology	<div>suffix<br>branch of learning<br>ologie</div>
+one	<div>suffix<br>ketone<br>on</div>
+osis	<div>suffix<br>suffix for functional disorders<br>ose</div>
+otic	<div>suffix<br>otisch</div>
+ous	<div>/əs/<br>\nsuffix<br>suffix to form adjectives<br>haft, ös</div>
+pathic	<div>/pæθɪk/<br>\nsuffix<br>pathisch</div>
+penia	<div>suffix<br>deficiency<br>penie</div>
+philia	<div>suffix<br>forming words denoting abnormal linking towards a given thing<br>philie</div>
+phobia	<div>/ˌfəʊbi.ə/<br>\nsuffix<br>used to form nouns meaning fear<br>phobie</div>
+proof	<div>suffix<br>denoting an impervious quality<br>fest, sicher</div>
+s	<div>/s/, /z/, /ɨz/<br>\nsuffix<br>regular plurals of nouns<br>en</div>
+scope	<div>suffix<br>suffix to name viewing instruments<br>skop</div>
+scopy	<div>/-skəpi/<br>\nsuffix<br>observation, viewing<br>skopie</div>
+ship	<div>suffix<br>Property or state of being<br>schaft</div>
+teen	<div>suffix<br>to form numbers 13 - 19<br>ehn</div>
+th	<div>/-θ/<br>\nsuffix<br>used to form the ordinal numeral<br>ste, te</div>
+tion	<div>/-ʃən/<br>\nsuffix<br>producing a noun meaning the action or effect of a verb<br>tion, ung</div>
+ty	<div>suffix<br>multiples of ten<br>ig</div>
+um	<div>/əm/<br>\nsuffix<br>Latinate singular grammatical number suffix<br>um</div>
+ward	<div>/wɔɹd/, /wɔːd/, /wəd/, /wɚd/<br>\nsuffix<br>forming adverbs<br>wärts</div>
+wards	<div>/wɔɹdz/, /wɔːdz/, /wədz/, /wɚdz/<br>\nsuffix<br>forming adverbs<br>wärts</div>
+worthy	<div>suffix<br>of sufficient worth for<br>wert, würdig</div>
+y	<div>suffix<br><ol><li>having the quality of<br>ig</li><li>forming diminutive nouns<br>chen, erl, i, lein</li><li>forming abstract nouns<br>heit, keit, nis</li></ol></div>
+yne	<div>suffix<br>hydrocarbon with triple bonds<br>in</div>
+zygous	<div>suffix<br>having a specified zygotic constitution<br>zygot</div>
+0th	<div>adjective<br>abbreviation of zeroth<br>0.</div>
+1 Chronicles	<div>pronoun<br>book of the Bible<br>1 Chronik</div>
+1 Samuel	<div>pronoun<br>book of the Bible<br>1 Samuel</div>
+1-up	<div>noun<br>An item that grants the player an extra life in the game, staving off game over by one more try.<br>1-Up</div>
+1000th	<div>adjective<br>abbreviation of thousandth<br>1000.</div>
+101	<div>/ˈwʌnˌoʊ̯ˈwʌn/<br>\nadjective<br>basic, beginner-<br>Anfänger, Einführung, Einmaleins</div>
