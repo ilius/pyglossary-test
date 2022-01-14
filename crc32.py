@@ -16,4 +16,4 @@ for fname in sorted(sys.argv[1:]):
 		continue
 	with open(fname, mode="rb") as _file:
 		data = _file.read()
-	print(f'\t"{fname}": "{crc32hex(data)}",')
+	print(f'\t\t\t"{fname}": "{crc32hex(data)}",')
