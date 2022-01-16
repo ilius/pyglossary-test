@@ -1,0 +1,55 @@
+##name	Flavours of Malaysia/ Malaysian delights
+##sourceLang	English
+##targetLang	English
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##bgl_utf8Encoding	False
+##bgl_spellingAlternatives	True
+##bgl_caseSensitive	False
+##email	victorng@mywebinc.com
+##copyright	<a href='http://www.myweb.com.my/webmaster/flavours/glossry/glossary.htm '></a>
+##description	A collection of terms of Malaysian herbs, spices and other ingredients.
+##creationTime	2000/06/13, 11:35
+##lastUpdated	2000/06/28, 12:12
+Asam jawa	Tamarind pulp/paste
+Bawang besar	Onion
+Bawang merah	Shallots
+Bawang putih	Garlic
+Belacan	Preserved prawn paste
+Biji sawi	Mustard seeds
+Buah berangan	Chestnuts
+Buah keras	Candlenuts
+Buah pala	Nutmeg
+Buah pelaga	Cardamoms
+Bunga cengkih	Cloves
+Bunga kantan	Ginger flower
+Bunga lawang	Star anise
+Daun Kemangi/selasih|daun-kemangi-selasih	Basil leaves
+Daun Kesum	Sweet basil leaves
+Daun Ketumbar	Coriander leaves
+Daun Kucai	Chives
+Daun Kunyit	Turmeric leaves
+Daun Limau Purut	Kaffir lime leaves
+Daun Pandan	Screwpine leaves
+Daun Pudina	Mint leaves
+Daun Salam	Bay leaves
+Daun Selasih	Balsam leaves
+Halia	Ginger
+Jintan manis	Anise seed
+Jintan putih	Cumin seed
+Kacang buncis	French beans
+Kacang dal	Lentils
+Kulit kayu manis	Cinnamon
+Lengkuas	Galanggal
+Lobak	Radish
+Minyak bijian	Sesame oil
+Pucuk rebung	Bamboo shoot
+Sawi	Mustard leaves/greens
+Serai	Lemon grass
+Serbuk kunyit	Turmeric powder
+Taucheong	Preserved bean paste
+Taukua	White soyabean cake(hard)
+Tempe	Fermented soyabean cake
