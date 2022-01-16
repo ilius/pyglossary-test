@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xdxf SYSTEM "http://xdxf.sourceforge.net/xdxf_lousy.dtd">
+<xdxf lang_from="ENG" lang_to="SPA" format="visual">
+<full_name>CyberLexicon(En-Es)</full_name>
+<description>------------------------------------------------------------------------------
+CyberLexicon for Lingvo 9.0
+-------------------------------------------------------------------------------
+The CyberLexicon is a compilation of English terminology peculiar to computer culture and technology and its equivalents in Spanish.
+The dictionary contains 861 entries.
+The dictionary was created from Comparative CyberLexicon of Telefonica
+http://www.telefonica.es/fat/elex.html
+
+Conversion to Lingvo 9.0 format by Slava (stuff@tut.by, Minsk, Belarus)
+Dictionary version 1.1
+14.06.2004
+
+-------------------------------------------------------------------------------
+CyberLexicon para Lingvo 9.0
+-------------------------------------------------------------------------------
+El CyberLexicon es una compilación de terminología inglesa relacionada con la informática y la tecnología y sus equivalentes en castellano.
+El diccionario incluye 861 artículos.
+
+El diccionario ha sido creado del Comparative CyberLexicon de Telefónica
+http://www.telefonica.es/fat/elex.html
+
+Conversión al formato de Lingvo 9.0 por Slava (stuff@tut.by, Minsk, Belarús)
+La versión número 1.1 del diccionario
+14.06.2004
+</description>
+<ar><k>3-D modelling</k>
+ <abr>expression</abr>
+ <dtrn>modelado <abr>m</abr> 3-D</dtrn></ar>
+<ar><k>3-D tracking system</k>
+ <abr>expression</abr>
+ <dtrn>sistema <abr>m</abr> de seguimiento en 3-D</dtrn></ar>
+<ar><k>@</k>
+ <abr>noun</abr>
+ <dtrn>arroba <abr>f</abr></dtrn></ar>
+<ar><k>ADSL</k>
+ See: <dtrn><kref>bword://asymmetrical digital subscriber line</kref></dtrn></ar>
+<ar><k>AGB</k>
+ See: <dtrn><kref>accelerated graphics board</kref></dtrn></ar>
+<ar><k>AI</k>
+ See: <dtrn><kref>artificial intelligence</kref></dtrn></ar>
+<ar><k>API</k>
+ See: <dtrn><kref>application program interface</kref></dtrn></ar>
+<ar><k>ASAP</k>
+ <abr>abbreviation</abr>
+ <dtrn>tan pronto como sea posible</dtrn></ar>
+<ar><k>ASCII</k>
+ <abr>abbreviation</abr>
+ <dtrn>ASCII (estándar americano de codificación para el intercambio de información)</dtrn></ar>
+<ar><k>ATM</k>
+ See: <dtrn><kref>asynchronous transfer mode</kref></dtrn></ar>
+<ar><k>AUP</k>
+ See: <dtrn><kref>acceptable use policy</kref></dtrn></ar>
+<ar><k>BBS</k>
+ See: <dtrn><kref>bulletin board system</kref></dtrn>
+ <abr>abbreviation</abr>
+ <dtrn>tablero <abr>m</abr> electrónico, sistema <abr>m</abr> de tablero de boletines, tablón <abr>m</abr> de anuncios electrónico, pizarra <abr>f</abr> electrónica</dtrn></ar>
+<ar><k>BPS</k>
+ See: <dtrn><kref>bits per second</kref></dtrn></ar>
+<ar><k>BPS bits per second</k>
+ <abr>expression</abr>
+ <dtrn>bits <abr>m</abr> por segundo</dtrn></ar>
+<ar><k>Bcc:</k>
+ <abr>noun</abr>
+ <dtrn>copia oculta</dtrn></ar>
+<ar><k>CAD</k>
+ <abr>abbreviation</abr>
+ <dtrn>CAD <abr>m</abr>, diseño <abr>m</abr> asistido por ordenador, diseño <abr>m</abr> con ayuda del computado</dtrn>
+ See: <dtrn><kref>computer-aided design</kref></dtrn></ar>
+<ar><k>CD-ROM</k>
+ <abr>noun</abr>
+ <dtrn>CD-ROM <abr>m</abr></dtrn></ar>
+<ar><k>CD-ROM drive</k>
+ <abr>expression</abr>
+ <dtrn>lector <abr>m</abr> de CD-ROM</dtrn></ar>
+<ar><k>CD-ROM reader</k>
+ <abr>expression</abr>
+ <dtrn>lector <abr>m</abr> de CD-ROM</dtrn></ar>
+<ar><k>CD-ROM recorder</k>
+ <abr>expression</abr>
+ <dtrn>grabador <abr>m</abr> de CD-ROM</dtrn></ar>
+<ar><k>CERN, Conseil Europeen pour la Recherche Nucleaire</k>
+ <abr>expression</abr>
+ <dtrn>CERN (Consejo Europeo para la Investigación Nuclear)</dtrn></ar>
+<ar><k>CGI</k>
+ See: <dtrn><kref>common gateway interface</kref></dtrn>
+ <abr>abbreviation</abr>
+ <dtrn>interfaz <abr>m/f</abr> común de pasarela</dtrn></ar>
+<ar><k>CMYK colour</k>
+ <abr>expression</abr>
+ <dtrn>color <abr>m</abr> CMAN</dtrn></ar>
+<ar><k>CNI</k>
+ <abr>abbreviation</abr>
+ <dtrn>coalición <abr>f</abr> para la información a través de redes</dtrn></ar>
+<ar><k>CPU</k>
+ See: <dtrn><kref>Central Processing Unit</kref></dtrn>
+ <abr>abbreviation</abr>
+ <dtrn>unidad <abr>f</abr> central de proceso</dtrn></ar>
+<ar><k>CU-SeeMee</k>
+ <abr>noun</abr>
+ <dtrn>teveo-meves</dtrn></ar>
+<ar><k>CWIS</k>
+ See: <dtrn><kref>Campus Wide Information System</kref></dtrn></ar>
+<ar><k>Campus Wide Information System</k>
+ <abr>expression</abr>
+ <dtrn>sistema <abr>m</abr> de información universitario</dtrn></ar>
+<ar><k>Cc:</k>
+ <abr>noun</abr>
+ <dtrn>copia <abr>f</abr></dtrn></ar>
+<ar><k>Central Processing Unit</k>
+ <abr>expression</abr>
+ <dtrn>unidad <abr>f</abr> central de proceso</dtrn></ar>
+<ar><k>Clipper Chip</k>
+ <abr>expression</abr>
+ <dtrn>Chip <abr>m</abr> Clipper</dtrn></ar>
+<ar><k>Coalition for Networked Information</k>
+ See: <dtrn><kref>CNI</kref></dtrn></ar>
+<ar><k>Common Gateway Interface</k>
+ See: <dtrn><kref>CGI</kref></dtrn></ar>
+<ar><k>Computer-Aided Design</k>
+ See: <dtrn><kref>CAD</kref></dtrn></ar>
+<ar><k>DARPA - Defense Advanced Research Projects Agency</k>
+ <abr>expression</abr>
+ <dtrn>Agencia de Proyectos de Investigación Avanzada para la Defensa</dtrn></ar>
+<ar><k>DNS</k>
+ <abr>abbreviation</abr>
+ <dtrn>sistema <abr>m</abr> de nombres de dominio</dtrn></ar>
+<ar><k>DRAM</k>
+ <abr>abbreviation</abr>
+ <dtrn>DRAM <abr>m</abr>, RAM <abr>m</abr> dinámico</dtrn></ar>
+<ar><k>Domain Name System</k>
+ See: <dtrn><kref>DNS</kref></dtrn></ar>
+<ar><k>Dynamic RAM</k>
+ See: <dtrn><kref>DRAM</kref></dtrn></ar>
+<ar><k>EDI</k>
+ <abr>abbreviation</abr>
+ <dtrn>intercambio <abr>m</abr> electrónico de datos</dtrn></ar>
+<ar><k>EPS</k>
+ See: <dtrn><kref>encapsulated postscript</kref></dtrn></ar>
+<ar><k>Ethernet</k>
+ See: <dtrn><kref>hub</kref></dtrn></ar>
+<ar><k>External Command</k>
+ See: <dtrn><kref>XCMD</kref></dtrn></ar>
+<ar><k>FAQ</k>
+ <abr>abbreviation</abr>
+ <dtrn>preguntas <abr>f</abr> más frecuentes, preguntas <abr>f</abr> formuladas frecuentemente</dtrn></ar>
+<ar><k>FAX</k>
+ See: <dtrn><kref>facsimile</kref></dtrn></ar>
+<ar><k>FQDN</k>
+ <abr>abbreviation</abr>
+ <dtrn>nombre <abr>m</abr> de dominio totalmente cualificado</dtrn></ar>
+<ar><k>FTF</k>
+ See: <dtrn><kref>face-to-face</kref></dtrn>
+ <abr>abbreviation</abr>
+ <dtrn>CYH (carne y hueso)</dtrn></ar>
+<ar><k>FTP</k>
+ <abr>abbreviation</abr>
+ <dtrn>protocolo <abr>m</abr> de transferencia de ficheros/archivos</dtrn></ar>
+<ar><k>FYI</k>
+ <abr>abbreviation</abr>
+ <dtrn>para su información</dtrn></ar>
+<ar><k>GIF</k>
+ <abr>abbreviation</abr>
+ <dtrn>GIF <abr>m</abr>, formato <abr>m</abr> de intercambio de gráficos</dtrn></ar>
+<ar><k>GII</k>
+ <abr>abbreviation</abr>
+ <dtrn>infraestructura <abr>f</abr> global de información</dtrn></ar>
+<ar><k>GPL</k>
+ <abr>abbreviation</abr>
+ <dtrn>Licencia Pública General <abr>f</abr></dtrn></ar>
+<ar><k>GPRS</k>
+ <abr>abbreviation</abr>
+ <dtrn>Servicio General de Radio por Paquetes <abr>m</abr></dtrn></ar>
+<ar><k>GSM</k>
+ <abr>abbreviation</abr>
+ <dtrn>sistema <abr>m</abr> global para comunicaciones móviles</dtrn></ar>
+<ar><k>GT</k>
+ <abr>abbreviation</abr>
+ <dtrn>Tiempo <abr>m</abr> Global</dtrn></ar>
+<ar><k>GUI</k>
+ <abr>abbreviation</abr>
+ <dtrn>interfaz <abr>m/f</abr> gráfico de usuario, GUI</dtrn></ar>
+<ar><k>General Packet Radio Service</k>
+ See: <dtrn><kref>GPRS</kref></dtrn></ar>
+<ar><k>General Public License</k>
+ See: <dtrn><kref>GPL</kref></dtrn></ar>
+<ar><k>Global System for Mobile Communication</k>
+ See: <dtrn><kref>GSM</kref></dtrn></ar>
+<ar><k>Global Time</k>
+ See: <dtrn><kref>GT</kref></dtrn></ar>
+<ar><k>Graphics Interchange Format</k>
+ See: <dtrn><kref>GIF</kref></dtrn></ar>
+<ar><k>HTML</k>
+ <abr>abbreviation</abr>
+ <dtrn>lenguaje <abr>m</abr> de marcado de hipertexto, HTML</dtrn></ar>
+<ar><k>HTTP</k>
+ <abr>abbreviation</abr>
+ <dtrn>protocolo <abr>m</abr> de transmisión de hipertexto, HTTP</dtrn></ar>
+<ar><k>Hypertext Markup Language</k>
+ See: <dtrn><kref>HTML</kref></dtrn></ar>
+<ar><k>Hypertext Transfer Protocol</k>
+ See: <dtrn><kref>HTTP</kref></dtrn></ar>
+<ar><k>IAB</k>
+ <abr>abbreviation</abr>
+ <dtrn>comité <abr>m</abr> de arquitectura de internet</dtrn></ar>
+<ar><k>IANA</k>
+ <abr>abbreviation</abr>
+ <dtrn>agencia <abr>f</abr> de asignación de números internet</dtrn></ar>
+<ar><k>IAP</k>
+ <abr>abbreviation</abr>
+ <dtrn>proveedor <abr>m</abr> de acceso a internet</dtrn></ar>
+<ar><k>ICAAN</k>
+ <abr>abbreviation</abr>
+ <dtrn>coorporación <abr>f</abr> de asignación de númerosy nombres internet</dtrn></ar>
+<ar><k>IMHO</k>
+ <abr>abbreviation</abr>
+ <dtrn>en mi humilde opinión, IMHO</dtrn></ar>
+<ar><k>IMO</k>
+ <abr>abbreviation</abr>
+ <dtrn>en mi opinión, IMO</dtrn></ar>
+<ar><k>IP</k>
+ <abr>abbreviation</abr>
+ <dtrn>protocolo <abr>m</abr> Internet (IP)</dtrn></ar>
+<ar><k>IP address</k>
+ <abr>expression</abr>
+ <dtrn>dirección <abr>f</abr> IP</dtrn></ar>
+<ar><k>IP number</k>
+ <abr>expression</abr>
+ <dtrn>número <abr>m</abr> IP</dtrn></ar>
+<ar><k>IRC</k>
+ <abr>abbreviation</abr>
+ <dtrn>charla <abr>f</abr> interactiva Internet</dtrn></ar>
+<ar><k>ISDN</k>
+ <abr>abbreviation</abr>
+ <dtrn>RDSI (red <abr>f</abr> digital de servicios integrados)</dtrn></ar>
+<ar><k>ISO</k>
+ <abr>abbreviation</abr>
+ <dtrn>organización <abr>f</abr> internacional para la normalización (ISO)</dtrn></ar>
+<ar><k>ISOC</k>
+ <abr>abbreviation</abr>
+ <dtrn>sociedad <abr>f</abr> Internet (ISOC)</dtrn></ar>
+<ar><k>ISP</k>
+ <abr>abbreviation</abr>
+ <dtrn>proveedor de servicios internet</dtrn></ar>
+<ar><k>ITU</k>
+ <abr>abbreviation</abr>
+ <dtrn>unión internacional de telecomunicaciones</dtrn></ar>
+<ar><k>Integrated Services Digital Network</k>
+ See: <dtrn><kref>ISDN</kref></dtrn></ar>
+<ar><k>International Standards Organization</k>
+ See: <dtrn><kref>ISO</kref></dtrn></ar>
+<ar><k>International Telecommunications Union</k>
+ See: <dtrn><kref>ITU</kref></dtrn></ar>
+<ar><k>Internet</k>
+ <abr>noun</abr>
+ <dtrn>el (la) Internet <abr>m/f</abr>, la Red <abr>f</abr></dtrn></ar>
+<ar><k>Internet Access Provider</k>
+ See: <dtrn><kref>IAP</kref></dtrn></ar>
+<ar><k>Internet Architecture Board</k>
+ See: <dtrn><kref>IAB</kref></dtrn></ar>
+<ar><k>Internet Assigned Number Authority</k>
+ See: <dtrn><kref>IANA</kref></dtrn></ar>
+<ar><k>Internet Corporation for Assigned Names and Numbers</k>
+ See: <dtrn><kref>ICAAN</kref></dtrn></ar>
+<ar><k>Internet Explorer</k>
+ <abr>expression</abr>
+ <dtrn>explorador de internet <abr>m</abr></dtrn></ar>
+<ar><k>Internet Protocol</k>
+ See: <dtrn><kref>IP</kref></dtrn></ar>
+<ar><k>Internet Relay Chat</k>
+ See: <dtrn><kref>IRC</kref></dtrn></ar>
+<ar><k>Internet Service Provider</k>
+ See: <dtrn><kref>ISP</kref></dtrn></ar>
+<ar><k>Internet Society</k>
+ See: <dtrn><kref>ISOC</kref></dtrn></ar>
+<ar><k>Internet address</k>
+ <abr>expression</abr>
+ <dtrn>dirección <abr>f</abr> Internet</dtrn></ar>
+<ar><k>Internet number</k>
+ <abr>expression</abr>
+ <dtrn>número <abr>m</abr> Internet</dtrn></ar>
+<ar><k>Internet phone</k>
+ <abr>expression</abr>
+ <dtrn>teléfono <abr>m</abr> por Internet</dtrn></ar>
+<ar><k>Internet service provider</k>
+ <abr>expression</abr>
+ <dtrn>proveedor <abr>m</abr> de servicios Internet</dtrn></ar>
+<ar><k>Internet systems administrator</k>
+ <abr>expression</abr>
+ <dtrn>administrador <abr>m</abr> de web, webmaster <abr>m</abr></dtrn></ar>
+<ar><k>JPEG</k>
+ See: <dtrn><kref>JPG</kref></dtrn></ar>
+<ar><k>JPG</k>
+ <abr>abbreviation</abr>
+ <dtrn>JPEG <abr>m</abr>, Grupo <abr>m</abr> de expertos fotográficos</dtrn>
+ <abr>abbreviation</abr>
+ <dtrn>JPEG <abr>m</abr>, Grupo <abr>m</abr> de expertos fotográficos</dtrn></ar>
+</xdxf>
