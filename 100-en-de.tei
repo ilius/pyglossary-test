@@ -1,0 +1,1914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="freedict-dictionary.css"?>
+<?oxygen RNGSchema="freedict-P5.rng" type="xml"?>
+<!DOCTYPE TEI SYSTEM "freedict-P5.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Sample: English-Deutsch FreeDict+WikDict dictionary</title>
+        <respStmt>
+          <resp>Maintainer</resp>
+          <name xml:id="karlb">Karl Bartel</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>2020.02.08</edition>
+      </editionStmt>
+      <extent>100 headwords</extent>
+      <publicationStmt>
+        <publisher>Karl Bartel</publisher>
+        <availability status="free">
+          <p>Licensed under the <ref target="https://creativecommons.org/licenses/by-sa/3.0/legalcode">Creative Commons Attribution-ShareAlike 3.0 Unported</ref> license</p>
+        </availability>
+        <date>2020-02-08</date>
+      </publicationStmt>
+      <notesStmt>
+        <note type="status">big enough to be useful</note>
+      </notesStmt>
+      <sourceDesc>
+        <p>Automatic creation of this bilingual dictionary by <ref target="http://www.wikdict.com/">WikDict</ref>.</p>
+        <p>Base data from <ref target="https://www.wiktionary.org/">Wiktionary.org</ref> via <ref target="http://kaiko.getalp.org/about-dbnary/">DBnary</ref>.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          This dictionary comes to you through nice people
+          making it available for free and for good. It is part of
+          the FreeDict project, http://www.freedict.org/. This
+          project aims to make available many translating
+          dictionaries for free. Your contributions are welcome!
+        </p>
+      </projectDesc>
+      <tagsDecl>
+        <namespace name="http://www.tei-c.org/ns/1.0" xml:base="../shared/">
+          <tagUsage gi="pos">
+            <list n="values" type="bulleted">
+              <item ana="FreeDict_ontology.xml#f_pos_adj">adj</item>
+              <item ana="FreeDict_ontology.xml#f_pos_adv">adv</item>
+              <item ana="FreeDict_ontology.xml#f_pos_noun">n</item>
+              <item ana="FreeDict_ontology.xml#f_pos_noun">pn</item>
+              <item ana="FreeDict_ontology.xml#f_pos_verb">v</item>
+            </list>
+          </tagUsage>
+          <tagUsage gi="gen">
+            <list>
+              <item ana="FreeDict_ontology.xml#f_gen_fem">fem</item>
+              <item ana="FreeDict_ontology.xml#f_gen_masc">masc</item>
+              <item ana="FreeDict_ontology.xml#f_gen_neut">neut</item>
+            </list>
+          </tagUsage>
+        </namespace>
+      </tagsDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2018-09-12" who="#karlb">
+        Change numbering scheme from YYYY-MM-DD to YYYY.MM.DD
+      </change>
+      <change when="2018-05-15" who="#karlb">
+        Add links to sourceDesc
+      </change>
+      <change when="2017-12-15" who="#karlb">
+        Add changelog
+      </change>
+      <change when="2017-11-22" who="#karlb">
+        Use ref tag to encode license URL
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xml:lang="en">
+      <entry>
+      <form>
+        <orth>&amp;</orth>
+      </form>
+      <gramGrp>
+        <pos>conjunction</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>u.</quote>
+        </cit>
+        <sense>
+          <def>abbreviation of and</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>-'s</orth>
+        <pron>/s/</pron>
+        <pron>/z/</pron>
+        <pron>/əz/</pron>
+        <pron>/ɪz/</pron>
+      </form>
+      <gramGrp>
+        <pos>particle</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>-s</quote>
+          <quote>der</quote>
+          <quote>des</quote>
+          <quote>von</quote>
+        </cit>
+        <sense>
+          <def>possessive marker</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>able</orth>
+        <pron>/ə.bl̩/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>bar</quote>
+        </cit>
+      </sense>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>bar</quote>
+          <quote>abel</quote>
+        </cit>
+        <sense>
+          <def>able to be done</def>
+        </sense>
+      </sense>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>wert</quote>
+        </cit>
+        <sense>
+          <def>expressing capacity or worthiness in a passive sense</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>aemia</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ämie</quote>
+        </cit>
+        <sense>
+          <def>condition of the blood</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>amine</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>amin</quote>
+        </cit>
+        <sense>
+          <def>an amine</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>an</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>isch</quote>
+        </cit>
+        <sense>
+          <def>of or pertaining to</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ane</orth>
+        <pron>/eɪn/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>an</quote>
+        </cit>
+        <sense>
+          <def>alkanes</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ation</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ation</quote>
+          <quote>ierung</quote>
+        </cit>
+        <sense>
+          <def>-ation (suffix)</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>caine</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>cain</quote>
+        </cit>
+        <sense>
+          <def>a synthetic alkaloid used as an anesthetic</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>centric</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>zentrisch</quote>
+        </cit>
+        <sense>
+          <def>having a specified number of centres</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>cide</orth>
+        <pron>/-saɪd/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>örder</quote>
+        </cit>
+        <sense>
+          <def>killer of</def>
+        </sense>
+      </sense>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>zid</quote>
+          <quote>ord</quote>
+        </cit>
+        <sense>
+          <def>killing of</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>cracy</orth>
+        <pron>/-kɹəsi/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>kratie</quote>
+        </cit>
+        <sense>
+          <def>rule</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>cratic</orth>
+        <pron>/ˈkɹætɪk/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>kratisch</quote>
+        </cit>
+        <sense>
+          <def>suffix forming adjectives related to -cracy/-crat</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>cyte</orth>
+        <pron>/-saɪt/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>zyt</quote>
+        </cit>
+        <sense>
+          <def>cell names and classifications</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>diene</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>dien</quote>
+        </cit>
+        <sense>
+          <def>diene</def>
+        </sense>
+        <sense>
+          <def>polymer of a diene</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ectomy</orth>
+        <pron>/-ˈɛktəmi/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ektomie</quote>
+          <quote>[Amputation|-amputation]]</quote>
+          <quote>[Entfernung|-entfernung]]</quote>
+        </cit>
+        <sense>
+          <def>surgical removal of</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ene</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>en</quote>
+        </cit>
+        <sense>
+          <def>alkene</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>er</orth>
+        <pron>/ə/</pron>
+        <pron>/ɚ/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>er</quote>
+        </cit>
+        <sense>
+          <def>(used to form agent nouns) person or thing that does...</def>
+        </sense>
+        <sense>
+          <def>used to form the comparative of adjectives</def>
+        </sense>
+        <sense>
+          <def>used to form the comparative of adverbs</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ese</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>isch</quote>
+        </cit>
+        <sense>
+          <def>forming adjectives and nouns describing things characteristic of a particular place</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>esque</orth>
+        <pron>/-ɛsk/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>esk</quote>
+        </cit>
+        <sense>
+          <def>in the style of</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ess</orth>
+        <pron>/-ɛs/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>in</quote>
+          <quote>trix</quote>
+          <quote>öse</quote>
+        </cit>
+        <sense>
+          <def>female suffix</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>est</orth>
+        <pron>/əst/</pron>
+        <pron>/ɪst/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ste</quote>
+          <quote>ster</quote>
+          <quote>m ...-sten</quote>
+        </cit>
+        <sense>
+          <def>superlative of adjectives and adverbs</def>
+        </sense>
+      </sense>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>st</quote>
+        </cit>
+        <sense>
+          <def>second-person singular present tense of verbs</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>fold</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>fach</quote>
+          <quote>fache</quote>
+        </cit>
+        <sense>
+          <def>used to make adjectives</def>
+        </sense>
+      </sense>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>fach</quote>
+          <quote>faltig</quote>
+        </cit>
+        <sense>
+          <def>used to make adverbs</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>free</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>frei</quote>
+        </cit>
+        <sense>
+          <def>free from; without</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>gate</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>gate</quote>
+        </cit>
+        <sense>
+          <def>component in names of scandals</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>gen</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>gen</quote>
+        </cit>
+        <sense>
+          <def>producer of something</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>gon</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>eck</quote>
+        </cit>
+        <sense>
+          <def>plane figure</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>gram</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>gramm</quote>
+        </cit>
+        <sense>
+          <def>something written</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>graph</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>graph</quote>
+        </cit>
+        <sense>
+          <def>something related to writing etc.</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>graphy</orth>
+        <pron>/-ɡɹəfi/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>graphie</quote>
+        </cit>
+        <sense>
+          <def>Suffix denoting a written or represented in the specified manner, or about a specified subject</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>hedron</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>eder</quote>
+        </cit>
+        <sense>
+          <def>solid figure</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>hood</orth>
+        <pron>/hʊd/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>heit</quote>
+          <quote>keit</quote>
+          <quote>schaft</quote>
+        </cit>
+        <sense>
+          <def>condition or state</def>
+        </sense>
+      </sense>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>schaft</quote>
+        </cit>
+        <sense>
+          <def>group</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>hour-old</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>stündig</quote>
+        </cit>
+        <sense>
+          <def>suffix used to indicate the age of something or someone, in terms of hours</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ian</orth>
+        <pron>/iːən/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>isch</quote>
+        </cit>
+        <sense>
+          <def>related to</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>iatry</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>iatrie</quote>
+        </cit>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ible</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>bar</quote>
+        </cit>
+        <sense>
+          <def>able to be done</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ic</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>isch</quote>
+        </cit>
+        <sense>
+          <def>Note: these translations are a guide only. For more precise translations, see individual words ending in -ic</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ics</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ik</quote>
+        </cit>
+        <sense>
+          <def>fields of knowledge or practice</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ide</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>id</quote>
+        </cit>
+        <sense>
+          <def>any of a group of related compounds</def>
+        </sense>
+        <sense>
+          <def>binary compound of a nonmetal</def>
+        </sense>
+      </sense>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>id</quote>
+          <quote>oid</quote>
+        </cit>
+        <sense>
+          <def>any of a group of several elements</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ify</orth>
+        <pron>/ɪfaɪ/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>fizieren</quote>
+        </cit>
+        <sense>
+          <def>to produce verbs meaning to make</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>-in-law</orth>
+      </form>
+      <gramGrp>
+        <pos>adj</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>schwieger-</quote>
+        </cit>
+        <sense>
+          <def>related through marriage</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ing</orth>
+        <pron>/iːn/</pron>
+        <pron>/ɪŋ/</pron>
+        <pron>/ɪŋɡ/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ung</quote>
+        </cit>
+        <sense>
+          <def>act of doing something</def>
+        </sense>
+      </sense>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>u</quote>
+        </cit>
+        <sense>
+          <def>to form gerunds</def>
+        </sense>
+      </sense>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>end</quote>
+        </cit>
+        <sense>
+          <def>to form present participles</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ish</orth>
+        <pron>/ɪʃ/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>lich</quote>
+        </cit>
+        <sense>
+          <def>appended to adjectives</def>
+        </sense>
+      </sense>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>isch</quote>
+        </cit>
+        <sense>
+          <def>appended to roots denoting names of nations or regions</def>
+        </sense>
+      </sense>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>haft</quote>
+        </cit>
+        <sense>
+          <def>appended to words</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ism</orth>
+        <pron>/ɪzəm/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ismus</quote>
+        </cit>
+        <sense>
+          <def>a principle, belief or movement</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ist</orth>
+        <pron>/-əst/</pron>
+        <pron>/-ɪst/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ist</quote>
+        </cit>
+        <sense>
+          <def>One who follows a particular ideology, doctrine, belief system or theory</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ite</orth>
+        <pron>/-aɪt/</pron>
+        <pron>/-ɪt/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>it</quote>
+        </cit>
+        <sense>
+          <def>used to form names of minerals and rocks</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>itis</orth>
+        <pron>/-ˈaɪtɪs/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>itis</quote>
+        </cit>
+        <sense>
+          <def>suffix denoting diseases characterized by inflammation</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>itude</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>itüde</quote>
+          <quote>tude</quote>
+        </cit>
+        <sense>
+          <def>suffix</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ity</orth>
+        <pron>[ɪti]</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ität</quote>
+        </cit>
+        <sense>
+          <def>Used to form nouns from adjectives.</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ive</orth>
+        <pron>/ɪv/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>iv</quote>
+        </cit>
+        <sense>
+          <def>adjectival suffix: of the nature of; tending to</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ization</orth>
+        <pron>/-ˈaɪzeɪʃən/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>isierung</quote>
+          <quote>isation</quote>
+        </cit>
+        <sense>
+          <def>act, process, or result of doing something</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ize</orth>
+        <pron>/-aɪz/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ieren</quote>
+          <quote>isieren</quote>
+        </cit>
+        <sense>
+          <def>suffix used to form verbs</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>land</orth>
+        <pron>/lənd/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>land</quote>
+        </cit>
+        <sense>
+          <def>territory, country or region (suffix)</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>less</orth>
+        <pron>/ləs/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>los</quote>
+        </cit>
+        <sense>
+          <def>lacking</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>like</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>artig</quote>
+          <quote>ähnlich</quote>
+        </cit>
+        <sense>
+          <def>having some of the characteristics of (used to form adjectives from nouns)</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ling</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>chen</quote>
+          <quote>erl</quote>
+          <quote>lein</quote>
+          <quote>ling</quote>
+        </cit>
+        <sense>
+          <def>Diminutive</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>lite</orth>
+        <pron>/lʌɪt/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>lith</quote>
+        </cit>
+        <sense>
+          <def>forms names of rocks or minerals</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>logical</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ogisch</quote>
+        </cit>
+        <sense>
+          <def>used to form adjectival forms of nouns</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>logist</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>loge</quote>
+          <quote>login</quote>
+        </cit>
+        <sense>
+          <def>person who studies or is an expert in the related -logy</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>logy</orth>
+        <pron>/ləd͡ʒi/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>logie</quote>
+          <quote>ik</quote>
+          <quote>kunde</quote>
+          <quote>ehre</quote>
+          <quote>issenschaft</quote>
+        </cit>
+        <sense>
+          <def>branch of learning</def>
+        </sense>
+      </sense>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>teiler</quote>
+        </cit>
+        <sense>
+          <def>something said</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ly</orth>
+        <pron>/li/</pron>
+        <pron>/lɪ/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>haft</quote>
+          <quote>ig</quote>
+          <quote>isch</quote>
+          <quote>lich</quote>
+        </cit>
+        <sense>
+          <def>forming adjectives from nouns, in the sense "similar to, like, characteristic of"</def>
+        </sense>
+      </sense>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>erweise</quote>
+          <quote>lich</quote>
+        </cit>
+        <sense>
+          <def>used to form adverbs from adjectives</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>mancy</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>mantie</quote>
+        </cit>
+        <sense>
+          <def>specified forms of divination</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>mania</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>manie</quote>
+        </cit>
+        <sense>
+          <def>indicating a compulsion or obsession</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>meter</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>meter</quote>
+        </cit>
+        <sense>
+          <def>used to form a measuring device</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>metry</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>metrie</quote>
+        </cit>
+        <sense>
+          <def>forming nouns relating to measures and measurement</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ness</orth>
+        <pron>/nəs/</pron>
+        <pron>/nɛs/</pron>
+        <pron>/nɪs/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>heit</quote>
+          <quote>keit</quote>
+          <quote>nis</quote>
+        </cit>
+        <sense>
+          <def>appended to adjectives to form nouns meaning "the state of being...", "the quality of being...", or "the measure of being..."</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>nomy</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>nomie</quote>
+        </cit>
+        <sense>
+          <def>system of rules, laws, or knowledge about a particular field</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ol</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ol</quote>
+        </cit>
+        <sense>
+          <def>-OH group</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ologist</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ologe</quote>
+        </cit>
+        <sense>
+          <def>alternative spelling of -logist</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ology</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ologie</quote>
+        </cit>
+        <sense>
+          <def>branch of learning</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>one</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>on</quote>
+        </cit>
+        <sense>
+          <def>ketone</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>osis</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ose</quote>
+        </cit>
+        <sense>
+          <def>suffix for functional disorders</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>otic</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>otisch</quote>
+        </cit>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ous</orth>
+        <pron>/əs/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>haft</quote>
+          <quote>ös</quote>
+        </cit>
+        <sense>
+          <def>suffix to form adjectives</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>pathic</orth>
+        <pron>/pæθɪk/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>pathisch</quote>
+        </cit>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>penia</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>penie</quote>
+        </cit>
+        <sense>
+          <def>deficiency</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>philia</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>philie</quote>
+        </cit>
+        <sense>
+          <def>forming words denoting abnormal linking towards a given thing</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>phobia</orth>
+        <pron>/ˌfəʊbi.ə/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>phobie</quote>
+        </cit>
+        <sense>
+          <def>used to form nouns meaning fear</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>proof</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>fest</quote>
+          <quote>sicher</quote>
+        </cit>
+        <sense>
+          <def>denoting an impervious quality</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>s</orth>
+        <pron>/s/</pron>
+        <pron>/z/</pron>
+        <pron>/ɨz/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>en</quote>
+        </cit>
+        <sense>
+          <def>regular plurals of nouns</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>scope</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>skop</quote>
+        </cit>
+        <sense>
+          <def>suffix to name viewing instruments</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>scopy</orth>
+        <pron>/-skəpi/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>skopie</quote>
+        </cit>
+        <sense>
+          <def>observation, viewing</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ship</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>schaft</quote>
+        </cit>
+        <sense>
+          <def>Property or state of being</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>teen</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ehn</quote>
+        </cit>
+        <sense>
+          <def>to form numbers 13 - 19</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>th</orth>
+        <pron>/-θ/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ste</quote>
+          <quote>te</quote>
+        </cit>
+        <sense>
+          <def>used to form the ordinal numeral</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>tion</orth>
+        <pron>/-ʃən/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>tion</quote>
+          <quote>ung</quote>
+        </cit>
+        <sense>
+          <def>producing a noun meaning the action or effect of a verb</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ty</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ig</quote>
+        </cit>
+        <sense>
+          <def>multiples of ten</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>um</orth>
+        <pron>/əm/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>um</quote>
+        </cit>
+        <sense>
+          <def>Latinate singular grammatical number suffix</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>ward</orth>
+        <pron>/wɔɹd/</pron>
+        <pron>/wɔːd/</pron>
+        <pron>/wəd/</pron>
+        <pron>/wɚd/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>wärts</quote>
+        </cit>
+        <sense>
+          <def>forming adverbs</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>wards</orth>
+        <pron>/wɔɹdz/</pron>
+        <pron>/wɔːdz/</pron>
+        <pron>/wədz/</pron>
+        <pron>/wɚdz/</pron>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>wärts</quote>
+        </cit>
+        <sense>
+          <def>forming adverbs</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>worthy</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>wert</quote>
+          <quote>würdig</quote>
+        </cit>
+        <sense>
+          <def>of sufficient worth for</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>y</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>ig</quote>
+        </cit>
+        <sense>
+          <def>having the quality of</def>
+        </sense>
+      </sense>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>chen</quote>
+          <quote>erl</quote>
+          <quote>i</quote>
+          <quote>lein</quote>
+        </cit>
+        <sense>
+          <def>forming diminutive nouns</def>
+        </sense>
+      </sense>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>heit</quote>
+          <quote>keit</quote>
+          <quote>nis</quote>
+        </cit>
+        <sense>
+          <def>forming abstract nouns</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>yne</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>in</quote>
+        </cit>
+        <sense>
+          <def>hydrocarbon with triple bonds</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>zygous</orth>
+      </form>
+      <gramGrp>
+        <pos>suffix</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>zygot</quote>
+        </cit>
+        <sense>
+          <def>having a specified zygotic constitution</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>0th</orth>
+      </form>
+      <gramGrp>
+        <pos>adj</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>0.</quote>
+        </cit>
+        <sense>
+          <def>abbreviation of zeroth</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>1 Chronicles</orth>
+      </form>
+      <gramGrp>
+        <pos>pn</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>1 Chronik</quote>
+        </cit>
+        <sense>
+          <def>book of the Bible</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>1 Samuel</orth>
+      </form>
+      <gramGrp>
+        <pos>pn</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>1 Samuel</quote>
+        </cit>
+        <sense>
+          <def>book of the Bible</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>1-up</orth>
+      </form>
+      <gramGrp>
+        <pos>n</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>1-Up</quote>
+        </cit>
+        <sense>
+          <def>An item that grants the player an extra life in the game, staving off game over by one more try.</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>1000th</orth>
+      </form>
+      <gramGrp>
+        <pos>adj</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>1000.</quote>
+        </cit>
+        <sense>
+          <def>abbreviation of thousandth</def>
+        </sense>
+      </sense>
+    </entry>
+    <entry>
+      <form>
+        <orth>101</orth>
+        <pron>/ˈwʌnˌoʊ̯ˈwʌn/</pron>
+      </form>
+      <gramGrp>
+        <pos>adj</pos>
+      </gramGrp>
+      <sense>
+        <cit type="trans" xml:lang="de">
+          <quote>Anfänger</quote>
+          <quote>Einführung</quote>
+          <quote>Einmaleins</quote>
+        </cit>
+        <sense>
+          <def>basic, beginner-</def>
+        </sense>
+      </sense>
+    </entry>
+    </body>
+  </text>
+</TEI>
