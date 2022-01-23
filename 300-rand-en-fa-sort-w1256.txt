@@ -1,0 +1,308 @@
+##name	300 random entrie from Aryanpour (2021) (en-fa, fa-en)
+##input_file_size	63187
+##edition	2021.01.02
+##copyright	Licensed under the <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode">Creative Commons Attribution-ShareAlike 3.0 Unported</a> license
+##publisher	Saeed Rasooli
+##creationTime	2020-12-07
+##sourceLang	English
+##targetLang	Persian
+-carpic|carpic	<div>/<font color="gray">kär´pik</font>/<br>\n<div dir="rtl"><font color="green">پسوند</font><br>برچه‌دار، برچه‌ای (مشابه monocarpic] (-carpous]</div></div>
+-stichous|stichous	<div>/<font color="gray">stik´ǝs</font>/<br>\n<div dir="rtl"><font color="green">پسوند</font><br>پسوند (صفت ساز): دارای ردیف یا رج به تعداد یا نوع معین</div></div>
+accompanist	<div>/<font color="gray">ǝ kum´pǝ nist</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>(موسیقی) کسی که با نواختن ساز موسیقی (به ویژه پیانو) نوازنده یا خواننده را همراهی می‌کند، همنواز، هم‌نوازگر (accompanyist هم می‌نویسند)</div></div>
+ambrosia	<div>/<font color="gray">am brō´zhǝ</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br><ol><li>(اسطوره‌های یونان و روم) خوراک خدایان</li><li>خوردنی لذیذ و خوشبو، شهد</li><li>رجوع شود به:<a href="bword://ragweed">ragweed</a></li></ol></div></div>
+amphitropous	<div>/<font color="gray">am fi´trǝ pǝs</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br>(گیاه شناسی) دارای تخمک معکوس</div></div>
+aplacental	<div>/<font color="gray">ā´plǝ sent´'l</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br>(جانورشناسی) فاقد جفت جنین (مانند کیسه داران)، بی جفت</div></div>
+applied	<div>/<font color="gray">ǝ plīd´</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br>کاربردی، عملی (در مقابل: نظری یا ناکاربردی (theoretic(al)، کاربستهapplied sciencesعلوم کاربردی</div></div>
+atherosclerosis	<div>/<font color="gray">ath´ǝr ō´sklǝ rō´sis</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>(پزشکی) آترواسکلروز، سخت شدن شاهرگ‌ها (تصلب شرایین)، ناکشسانی سرخرگ‌ها، اسکلروز</div></div>
+autogenous	<div>/<font color="gray">ô täj´ǝ nǝs</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br><ol><li>خودزاد، خودزاینده</li><li>(در مورد واکسن یا پیوند نسج و پوست در جراحی) به دست آمده از بدن خود شخص (autogenic هم می‌نویسند)</li></ol></div></div>
+automation	<div>/<font color="gray">ôt´ǝ mā´shǝn</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br><ol><li>خودکاری، خودکارسازی، مجهز سازی به دستگاه‌های خودکار، اتوماتیک کردن، اتوماسیونthe automation of the automotive industryخودکار کردن صنعت اتومبیل سازی</li><li>جایگزینی دستگاه‌های خودکار که کردارهای تکراری انسان را انجام می‌دهند (در امور غیر صنعتی)automation in teachingکاربرد دستگاه‌های خودکار در آموزش</li></ol></div></div>
+bandage	<div>/<font color="gray">ban´dij</font>/<br>\n<div dir="rtl"><font color="green">اسم،  فعل متعدی</font><br><ol><li>نوار زخم بندی، باند، زخم‌بند، تنزیب</li><li>(زخم را) نوارپیچی کردن، زخم‌بند بستن، نواربندی کردنa man with a bandaged armمردی با بازوی نوارپیچی شده</li></ol></div></div>
+baroscope	<div>/<font color="gray">bar´ǝ skōp´</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>(دستگاه سنجش فشار جو و تغییرات آن) باروسکپ</div></div>
+Bergson	<div>/<font color="gray">berk sōn´</font>/<br>\n<div dir="rtl">هنری برگسون (فیلسوف فرانسوی)</div></div>
+bier	<div>/<font color="gray">bir</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br><ol><li>تابوت و پایه‌ها و زیرسازی آن</li><li>چارچوب یا سکوی متحرکی که تابوت را بر آن قرار می‌دهند</li></ol></div></div>
+bister|bistre	<div>/<font color="gray">bis´tǝr</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>(رنگدانهٔ قهوه‌ای پررنگ که از خاکهٔ زغال چوب به دست می‌آید) رنگ قهوه‌ای تند، بیستر</div></div>
+bone white	<div><div dir="rtl">انواع رنگ‌های سفید کمی مایل به خاکستری یا زرد، سفید استخوانی</div></div>
+bullate	<div>/<font color="gray">bool´it</font>/,  /<font color="gray">-āt´</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br><ol><li>تاول زده، تاول دار</li><li>دارای ظاهر تاول زده یا چروکیده (مانند برخی برگ‌ها)</li><li>برآمده (مثل تاول)</li></ol></div></div>
+bushwa	<div>/<font color="gray">boosh´wä</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>(امریکا - خودمانی) چرند، بی‌معنی، چرت وپرت، یاوه</div></div>
+Cheops	<div>/<font color="gray">kē´äps´</font>/<br>\n<div dir="rtl">نام یونانی: Khufu</div></div>
+commodity	<div>/<font color="gray">kǝ mäd´ǝ tē</font>/<br>\n<div dir="rtl"><font color="green">اسم،  جمع</font><br><ol><li>کالا، مال (یا مال التجاره)، جنس، متاعlabor is bought and sold like any other commodityکار مانند هر کالای دیگری خرید و فروش می‌شود.</li><li>(جمع) محصول (به ویژه کشاورزی)، فرآورده‌های اصلی (مانند گندم و غیره)، لوازم</li><li>هر چیز سودمند، چیز به درد خور</li><li>(قدیمی) مزیت فردی، بهره‌وری شخصی</li></ol></div></div>
+concertina	<div>/<font color="gray">kän´sǝr tē´nǝ</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>(موسیقی) کنسرتینا (سازی مانند اکاردئون ولی ساده‌تر از آن)</div></div>
+cozy	<div>/<font color="gray">kō´zē</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br><ol><li>گرم و نرم، راحت، دنج، آسودبخشa cozy little roomاتاق جمع و جور و راحتan extra blanket will make you feel cozierیک پتوی اضافی احساس راحتی بیشتری به شما خواهد داد.</li><li>گرم و دوستانهa cozy chatیک درد دل گرم و دوستانه</li><li>3 - روقوری (پارچه‌ای که برای گرم نگه‌داشتن روی قوری یا کتری و غیره می‌گذارند)، رو کتری، رو دیگ، دم‌کن (در انگلیس cosy هم می‌نویسند)* cozy up to(امریکا - عامیانه) خود را جا کردن، تحبیب کردن* play it cozy(امریکا - خودمانی) با احتیاط عمل کردن</li></ol></div></div>
+Curie	<div>/<font color="gray">kyoo rē´</font>/<br>\n<div dir="rtl">نام خانوادگی ماری کوری (1867-1934) و شوهرش پیر کوری (1859-1906) یابندگان رادیم و پلونیم</div></div>
+demean	<div>/<font color="gray">dē mēn´</font>/,  /<font color="gray">di-</font>/<br>\n<div dir="rtl"><ul><li><font color="green">فعل متعدی</font><br>(خود را) پست کردن، خوار کردن، خفیف کردن، دون کردن، سبک کردنto demean oneself by taking a bribeبا گرفتن رشوه خود را خوار و خفیف کردنwhat he did demeaned his family tooآنچه او کرد خانوادهٔ او را نیز بی‌عزت کرد.</li><li><font color="green">فعل متعدی</font><br>رفتار کردنhe demeaned himself like a rich manاو مثل یک پولدار رفتار کرد.</li></ul></div></div>
+deprecate	<div>/<font color="gray">dep´rǝ kāt´</font>/<br>\n<div dir="rtl"><font color="green">فعل متعدی</font><br><ol><li>مذموم دانستن، نکوهیده دانستن، بد دانستن، زشت خواندن، قبیح خواندن، ناروا دانستن، نهی کردنthey deprecated church music and songsآنان موسیقی و آواز کلیسایی را نهی می‌کردند.</li><li>ناچیز شمردن، کوچک شمردن، خوار کردنhe used to deprecate his own achievementsاو موفقیت‌های خود را ناچیز می‌شمرد.</li><li>(قدیمی) از طریق دعا در رفع شر کوشیدن</li></ol></div></div>
+DFA	<div><div dir="rtl"><font color="green">مخفف</font><br>دکتر در هنرهای زیبا</div></div>
+dinner	<div>/<font color="gray">din´ǝr</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br><ol><li>شام، نهارtonight, we are having guests for dinnerامشب برای شام مهمان داریم.what's for dinner?شام چی داریم‌؟a dinner for twoشام دو نفرهwhen she called, we were at dinnerوقتی تلفن زد داشتیم شام می‌خوردیم.dinner is served between five and eightشام بین ساعت پنج و هشت سرو می‌شود.</li><li>مهمانی شام یا نهار، ضیافت، سورa dinner honoring the new ambassadorضیافتی به افتخار سفیر جدید</li><li>(رستوران) شام (یا نهار) با مخلفات به قیمت مقطوع (table d'hote هم می‌گویند)</li></ol></div></div>
+disaccustom	<div>/<font color="gray">dis´ǝ kus´tǝm</font>/,  /<font color="gray">dis´-</font>/<br>\n<div dir="rtl"><font color="green">فعل متعدی</font><br>رفع اعتیاد کردن، از عادت انداختن، ناخویمند کردن</div></div>
+disruptive	<div>/<font color="gray">-rup´tiv</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br>مختل کننده، به هم زننده، مخل، مزاحمbecause of disruptive remarks, he was asked to leave the meetingبه خاطر حرف‌های مختل کننده‌اش از او خواستند که جلسه را ترک کند.</div></div>
+dysprosium	<div>/<font color="gray">dis prō´zē ǝm</font>/,  /<font color="gray">-sē-</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>(شیمی) دیسپروزیم (عنصر شیمیایی نقره‌فام، نشان آن: Dy، وزن اتمی: 162/50، شمارهٔ اتمی: 66، نقطهٔ گداز: 1412c)</div></div>
+elapse	<div>/<font color="gray">ē laps´</font>/,  /<font color="gray">i-</font>/<br>\n<div dir="rtl"><font color="green">فعل لازم</font><br>(زمان) منقضی شدن، سرآمدن، سپری شدن، گذشتنfive years elapsed before I heard from him againپنج سال گذشت تا دوباره از او خبر یافتم.</div></div>
+Es	<div><div dir="rtl"><font color="green">مخفف</font><br><ol><li>(شیمی) انشتینیم</li><li>(انجیل) استر</li></ol></div></div>
+evanesce	<div>/<font color="gray">ev´ǝ nes´</font>/<br>\n<div dir="rtl"><font color="green">فعل لازم</font><br>محو شدن، ناپدید شدن (مثلا دود یا مه یا نور)، ستردن، زایل شدنan apparition evanescing into darknessشبحی که در تاریکی محو شد</div></div>
+excuse	<div>/<font color="gray">ek skyōōz´</font>/<br>\n<div dir="rtl"><font color="green">فعل متعدی</font><br><ol><li>بخشیدن، پوزش (کسی را) پذیرفتن، پوزشمند دانستن، عفو کردن، معذرت خواستنexcuse me!پوزش می‌خواهم‌!، ببخشید!excuse me, may I open the window?ببخشید، اجازه می‌دهید پنجره را باز کنم‌؟I can never excuse his rudenessهرگز نمی توانم بی ادبی او را ببخشم.she kept coughing and sneezing in my face and did not even excuse herselfاو مرتب در صورتم سرفه و عطسه می‌کرد و معذرت هم نمی‌خواست.excuse my having interrupted youاز این که حرف شما را قطع کردم ببخشید.she excused herself and left the meetingاو با عرض معذرت جلسه را ترک کرد.</li><li>بی تقصیر دانستن، مقصر نشناختن، (گناه یا قصور و غیره) نادیده گرفتن، موجه دانستن، چشم پوشی کردنit is easy to excuse one's own faultsتوجیه عیوب خویشتن آسان است.an excused absenceغیبت موجه</li><li>(از اجرای تعهد یا قول یا وظیفه و غیره) معذور داشتن، عذر کسی را پذیرفتن، بهانه آوردنhe excused religious minorities from taking part in school prayerاو اقلیت‌های مذهبی را از شرکت در دعای مدرسه معاف کرد.the judge excused the young man's fineقاضی مرد جوان را از پرداخت جریمه معذور داشت.</li><li>(به ویژه در کلاس یا دادگاه و غیره) اذن خروج دادن، اجازهٔ بیرون رفتن دادن، مرخص کردنclass is excused!کلاس مرخص است‌!</li><li>توجیه کردن، شناساندنa selfish act which nothing will excuseعملی خودپسندانه که هیچ چیز آن را توجیه نمی‌کند</li><li>پوزش، معذرت، عذرخواهی، عذر تراشیplease give them my excusesلطفا از سوی من از آنها پوزش بخواه.she is always making excuses for being lateاو همیشه از دیر آمدن خودش عذرخواهی می‌کند.</li><li>معذوریت، عذر، بهانه، دلیل (عدم انجام و غیره)، دستاویزto offer excusesبهانه آوردنthere's no excuse for what you didکاری که شما کردید قابل بخشش نیست.lazy people have many excusesاشخاص تنبل خیلی بهانه می‌آورند.what is your excuse this time?این دفعه بهانه‌ات چیست‌؟* a poor (or bad or lame) excuse forنمونهٔ بدی از (چیزی یا کسی)he is a poor excuse for a teacherاو معلم بدی است.* excuse oneselfپوزش خواستن، معذرت خواستن* make one's excuses(به خاطر عدم شرکت در چیزی یا قصور و غیره) پوزش خواستن</li></ol></div></div>
+expressly	<div>/<font color="gray">eks pres´lē</font>/,  /<font color="gray">ik spres´-</font>/<br>\n<div dir="rtl"><font color="green">قید</font><br><ol><li>صریحا، آشکارا، بی پرده، رک و راستhe told us expressly to refrain from smokingاو صریحا از ما خواست که از سیگار کشیدن خودداری کنیم.</li><li>مخصوص، محض خاطرthe house was bought expressly for herخانه را مخصوصا برای او خریده بودند.</li></ol></div></div>
+fall guy	<div><div dir="rtl">(امریکا ـ خودمانی ـ کسی که تقصیر را به گردن او می‌اندازند) تقصیر گیر، سپر بلا</div></div>
+fast break	<div><div dir="rtl">(بسکتبال) یورش تند به حلقهٔ حریف (پیش از آنکه حریف فرصت دفاع داشته باشد)</div></div>
+ferriferous	<div>/<font color="gray">fǝ rif´ǝr ǝs</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br>آهن دار، آهن زا، آهن آور، آهن خیز</div></div>
+finishing school	<div><div dir="rtl">(مدرسهٔ دخترانه که علاوه بر دروس معمولی به آنان آداب زندگی و معاشرت و خانه داری می آموختند) مدرسهٔ تکمیل ساز، مدرسهٔ معرفت آموز</div></div>
+Glendower	<div>/<font color="gray">glen´dou ǝr</font>/,  /<font color="gray">glen dou´ǝr</font>/<br>\n<div dir="rtl">اوئن گلنداور (سردار ایالت ولز در انگلیس که بر هانری چهارم شورید)</div></div>
+grogram	<div>/<font color="gray">gräg´rǝm</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>صوف ابریشمی، پارچهٔ ضخیم و زبر که سابقا از پشم و ابریشم می‌بافتند و به آن صمغ و آهار می‌زدند، لباس دوخته شده از این پارچه، پارچهٔ خورجینی</div></div>
+Hall of Fame	<div><div dir="rtl">(امریکا) تالار افتخار (تالاری که در آن مجسمه یا نام مشاهیر رشتهٔ ویژه‌ای را قرار می‌دهند)Basketball Hall of Fameتالار افتخار بسکتبالیست‌های امریکا</div></div>
+handspike	<div>/<font color="gray">hand´spīk´</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>(میلهٔ فلزی که برای چرخاندن سرپیچ‌های بزرگ یا گردونهٔ لنگر و غیره در داخل سوراخ قرار می‌گیرد و اهرم‌وار آن را می‌چرخاند) میله، میل دستی</div></div>
+heavy spar	<div><div dir="rtl">رجوع شود به:<a href="bword://barite">barite</a></div></div>
+Hercules	<div>/<font color="gray">hu_r´kyōō lēz´</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br><ol><li>(اسطوره‌های یونان و روم) هرکول، هرکولس (فرزند غول پیکر و نیرومند و چماق‌دار زوس یا زاوش)</li><li>(نجوم) استارگان (مجمع‌الکواکب) هرکول</li><li>(H کوچک) مرد غول پیکر، تهمتن</li></ol></div></div>
+hexenbesen	<div>/<font color="gray">hek´sǝn bā´zǝn</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>رجوع شود به:<a href="bword://witches'-broom">witches'-broom</a></div></div>
+humongous	<div>/<font color="gray">hyōō mäŋ´gǝs</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br>(امریکا - خودمانی) عظیم، گنده، خرس، قد فیل</div></div>
+iceskate	<div><div dir="rtl"><font color="green">فعل لازم</font><br>روی یخ اسکی کردن، یخسکی (یخ اسکی) کردن، پاتیناژ کردن ice skater</div></div>
+if	<div>/<font color="gray">if</font>/<br>\n<div dir="rtl"><ul><li><font color="green">حرف ربط،  اسم</font><br><ol><li>اگر، چنانچه، درصورتی کهif he comes, I'll talk to himاگر بیاید با او حرف خواهم زد.if I were you, I would not do thatاگر به جای شما بودم آن کار را نمی‌کردم.even if she was there, I didn't see herاگر هم آنجا بود من او را ندیدم.</li><li>آیا، که آیاask Hassan if he knows Javadاز حسن بپرس که آیا جواد را می‌شناسد.</li><li>(عامیانه - به نشان شگفتی یا آزردگی و غیره)well, if that isn't the limit!خب دیگه چی‌!if I had only known!افسوس که نمی‌دانستم‌!، چه حیف شد!</li><li>فرض، حدس، هر آینه، شرطa contract that is full of ifsقراردادی که پر از شرط است* as ifچنانچه گوییhe talks loud as if I am deafبلند حرف می‌زند مثل اینکه من کرم.* ifs and butsشرط و فرض، تردید و تاـخیر، اگر و اماها* if a pig had wings it could flyاگر را کاشتند سبز نشد* if it ain't broke, don't fix itسری که درد نمی‌کند دستمال نبند</li></ol></li><li><font color="green">مخفف</font><br><ol><li>(بیس‌بال) حاشیهٔ زمین</li><li>بسامد متوسط، فرکانس میانی</li></ol></li></ul></div></div>
+initiative	<div>/<font color="gray">i nish´ǝ tiv</font>/,  /<font color="gray">-ē ǝ tiv</font>/<br>\n<div dir="rtl"><font color="green">صفت،  اسم</font><br><ol><li>آغازگرانه، پیشقدمانه، مقدماتی، اولیه</li><li>آغازگری، پیشقدمی، پیشگامی، ابتکار، تازه‌آوری، نوآوریa new Russian initative must now be anticipatedاکنون باید در انتظار پیشگامی جدید روس‌ها بود.through his initiative the project was put into effectطرح به ابتکار او به اجرا درآمد.</li><li>حق بردن لایحه به پارلمان</li></ol></div></div>
+intercollegiate	<div>/<font color="gray">in´tǝr kǝ lē´jit</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br>میان دانشگاهیintercollegiate athleticsورزش‌های میان دانشگاهی</div></div>
+iron curtain	<div><div dir="rtl">(اشاره به شوروی سابق و کشورهای زیر سلطهٔ آن) پردهٔ آهنین</div></div>
+irresponsive	<div>/<font color="gray">-siv</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br>غیرراغب، ناپذیرا، ناپاسخگوی، ناواکنشگر</div></div>
+jaunting car	<div><div dir="rtl">(به ویژه در ایرلند - سدهٔ نوزدهم) درشگهٔ دوچرخه (سبک و بی‌سقف)</div></div>
+jour	<div><div dir="rtl"><font color="green">مخفف</font><br><ol><li>ژورنال، روزانه</li><li>کارگر ورزیده، اوستاکار</li></ol></div></div>
+knotted	<div>/<font color="gray">-id</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br><ol><li>بسته شده یا محکم شده با گره، گره‌زده</li><li>پر گره، قلمبه‌دار، گره‌دار</li><li>گیردار، گیرکرده، گوریده، درهم ژولیده</li><li>پیچیده، غامض، پرجزئیات، دشوارa knotted situationوضعیت گره خورده (یا دشوار)</li><li>گیج کننده</li></ol></div></div>
+labradorite	<div>/<font color="gray">lab´rǝ dôr īt´</font>/,  /<font color="gray">lab´rǝ dôr´-</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>(سنگ شناسی) لابرادوریت (نوعی فلدسپار رنگین)</div></div>
+lateral	<div>/<font color="gray">lat´ǝr ǝl</font>/<br>\n<div dir="rtl"><font color="green">صفت،  اسم،  فعل لازم</font><br><ol><li>(به یک سوی یا طرف) پهلو سوی، پهلویی، جانبی، جنبی، کنارین، کنارگین، برکران، جناحی، یک وریlateral movementحرکت پهلو سویthe lateral branches of a treeشاخه‌های کناری درختlateral deviationانحراف کنارینa lateral viewمنظرهٔ جانبی</li><li>(زبان شناسی و آواشناسی) کناریlateral-fricativeکناری - سایشی</li><li>بخش کنارین، عضو کنارین، شاخهٔ پهلویی</li><li>(فوتبال امریکایی) رجوع شود به:<a href="bword://lateral pass">lateral pass</a></li><li>(معدن) دالان فرعی (در راستای دالان اصلی)</li><li>(فوتبال امریکایی) پاس دادن به کنار</li></ol></div></div>
+liquidation	<div>/<font color="gray">lik´wi dā´shǝn</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br><ol><li>واریز، تسویه، پرداخت</li><li>نقد سازی، نقدینه سازی، واریز</li><li>انحلال، تصفیه، برچیدن</li><li>نابودی، براندازی* go into liquidation(شرکت یاموسسهٔ بازرگانی) دارایی‌ها را نقد کردن و قروض را دادن و شرکت را منحل کردن</li></ol></div></div>
+lithium	<div>/<font color="gray">lith´ē ǝm</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>(شیمی) لیتیم (مادهٔ شیمیایی فلزی و نرم و سیمین فام که سبکترین فلز شناخته شده است - نشان آن: Li، وزن اتمی: 6/941، عدد اتمی: 3، نقطهٔ گداز:180/5 c، نقطهٔ جوش: 1336c)</div></div>
+llano	<div>/<font color="gray">lä´nō</font>/<br>\n<div dir="rtl"><font color="green">اسم،  جمع</font><br>(امریکای لاتین) دشت، چمن‌زار</div></div>
+logomachy	<div>/<font color="gray">lō gäm´ǝ kē</font>/<br>\n<div dir="rtl"><font color="green">اسم،  جمع</font><br>دعوای لفظی، جنگ زبانی، واژپیکار، لغت جنگی</div></div>
+lowbrow	<div>/<font color="gray">-brou´</font>/<br>\n<div dir="rtl"><font color="green">اسم،  صفت</font><br><ol><li>(تحقیر آمیز)</li><li>کسی که از نظر سلیقه و فکر در سطح پایین است، آدم پست اندیش، بی معرفت، عامی</li><li>وابسته به پست اندیشیa lowbrow bookکتاب عامی پسند</li></ol></div></div>
+Marine Corps	<div><div dir="rtl">رجوع شود به:<a href="bword://United States Marine Corps">United States Marine Corps</a></div></div>
+merbromin	<div>/<font color="gray">mǝr brō´min</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>رجوع شود به:<a href="bword://Mercurochrome">Mercurochrome</a></div></div>
+mettle	<div>/<font color="gray">met´'l</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>خمیره، طینت، غیرت، جوهر، جربزهa soldier of mettleسرباز باغیرتour team members proved their mettleافراد تیم ما جوهر خود را بروز دادند.he wanted to try his mettle against the seaاو می‌خواست طاقت خود را در برابر دریا بیازماید.* on one's mettleآمادهٔ کوشش، سرغیرت</div></div>
+musette	<div>/<font color="gray">myōō zet´</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br><ol><li>(فرانسه - سده های 17 و 18 - سازبادی شبیه bagpipe) موزت، نی انبان</li><li>رجوع شود به:<a href="bword://musette bag">musette bag</a></li><li>آهنگ آرام روستایی</li></ol></div></div>
+nonstop	<div>/<font color="gray">nän´stäp´</font>/<br>\n<div dir="rtl"><font color="green">صفت،  قید</font><br><ol><li>(ترن و اتوبوس و غیره) یکسره، بی‌توقفa nonstop flightپرواز مستقیم (بدون فرود آمدن در راه)</li><li>یک ریز، مدام، بی‌وقفه، پایسته، پیوستهit rained nonstopلاینقطع باران آمد.</li></ol></div></div>
+November	<div>/<font color="gray">nō vem´bǝr</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>ماه نوامبر (یازدهمین ماه تقویم فرنگی)</div></div>
+NY	<div><div dir="rtl"><font color="green">مخفف</font><br>نیویورک</div></div>
+orthodox	<div>/<font color="gray">ôr´thǝ däks´</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br><ol><li>(مذهب یا سیاست و غیره) پذیرفته، هماهنگ با اصول معمول، ارتاخش، به روال، معمول، عادیorthodox ideasعقاید به روال (معمولی)her behavior was not at all orthodoxرفتار او اصلا عادی نبود.</li><li>(مطابق با اصول پذیرفتهٔ مذهبی به ویژه مسیحیت سنتی) حنیف، درست آیین، ارتاکیش، راستینan orthodox Christianیک مسیحی راستین</li><li>(O بزرگ) یهودی ارتدکس (که شدیدا از تورات و تلمود و رسوم شنبه و کوشر پیروی می‌کند)</li><li>(O بزرگ) وابسته به کلیسای ارتدکس یا کلیسای شرقی</li><li>رسمی، قشری، مورد تایید دولت (یا مقامات رسمی)، متعارفیorthodox Marxismمارکسیسم متعارفی (پذیرفته)</li></ol></div></div>
+peg-top	<div>/<font color="gray">peg´täp´</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br><ol><li>گلابی شکل، گلابی سان</li><li>وابسته به تنبان گلابی شکل</li></ol></div></div>
+perforce	<div>/<font color="gray">pǝr fôrs´</font>/<br>\n<div dir="rtl"><font color="green">قید</font><br>اجبارا، الزاما، به ناچار، ناگزیر، بزور</div></div>
+photodynamic	<div>/<font color="gray">fōt´ō dī nam´ik</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br>(وابسته به انرژی نور) نور پویا، شید پویا</div></div>
+Pittsburgh	<div>/<font color="gray">pits´bu_rg´</font>/<br>\n<div dir="rtl">شهر پیتزبورگ (ایالت پنسیلوانیا - امریکا)</div></div>
+presently	<div>/<font color="gray">prez´ǝnt lē</font>/<br>\n<div dir="rtl"><font color="green">قید</font><br><ol><li>به زودی، در مدتی کم، زود، تندshe went and returned presentlyاو رفت و زود برگشت.</li><li>اکنون، ایدون، حالا، حال، فعلاpresently he is unemployedفعلا بیکار است.</li><li>(قدیمی) فورا، بلافاصله</li></ol></div></div>
+prolonge	<div>/<font color="gray">prō länj´</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>طناب قلابدار</div></div>
+psilocin	<div>/<font color="gray">sī´lō sin</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>(داروی هذیان آور) سیلوسین</div></div>
+Pushtu	<div>/<font color="gray">push´tōō</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>رجوع شود به:<a href="bword://Pashto">Pashto</a></div></div>
+quadruplicate	<div>/<font color="gray">kwä drōō´pli kāt´</font>/<br>\n<div dir="rtl"><font color="green">صفت،  اسم،  فعل متعدی</font><br><ol><li>چهار نسخه (از چیزی) برداشتن، چهار نسخه‌ای کردن</li><li>چهار برابر</li><li>چهارمین نسخه، چهارمین روگرفت</li><li>هر یک از چهار نسخه</li><li>(ریاضی) به توان چهار* in quadruplicateدر چهار نسخه، در چهار روگرفت</li></ol></div></div>
+quaking aspen	<div><div dir="rtl">(گیاه شناسی) سپیدار لرزان (Populus tremuloides)</div></div>
+RA	<div><div dir="rtl"><font color="green">مخفف</font><br><ol><li>دریادار</li><li>عضو فرهنگستان انگلیس</li><li>فرهنگستان سلطنتی انگلیس</li></ol></div></div>
+radio astronomy	<div><div dir="rtl">نجوم رادیویی، اخترشناسی رادیویی</div></div>
+red grouse	<div><div dir="rtl">(جانورشناسی) با قرقره سرخ، سرخ مرغ (نوعی سیاه مرغ بومی انگلیس: Lagopus lagopus scoticus)</div></div>
+redware	<div>/<font color="gray">red´wer´</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>(گیاه شناسی) کتانجک سرخ (جنس Laminaria)</div></div>
+reges	<div>/<font color="gray">rē´jēz´</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>جمع واژهٔ: Rex</div></div>
+resile	<div>/<font color="gray">ri zīl´</font>/<br>\n<div dir="rtl"><font color="green">فعل متعدی</font><br>(به ویژه در مورد چیزهای لاستیکی یا کش‌مانند) کشسان بودن، واجهیدن، واپریدن، خاصیت فنری یا کشسانی داشتن، ورجه کردن</div></div>
+Rio de Janeiro	<div>/<font color="gray">rē´ō dā´zhǝ ner´ō</font>/<br>\n<div dir="rtl">شهر ریودوژانیرو (مرکز استان ریودوژانیرو - برزیل)</div></div>
+rivulet	<div>/<font color="gray">riv´yoo lit</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>رود کوچک، رودچه، رودک، نهر، (اصفهانی) مادی</div></div>
+road	<div>/<font color="gray">rōd</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br><ol><li>راه، جاده، ره، صراطa dirt roadجادهٔ خاکیa paved roadجادهٔ آسفالته (یا سنگفرش شده)the Chaloos roadراه چالوس</li><li>(معمولا در خارج از شهر) خیابان</li><li>(مخفف) رجوع شود به:<a href="bword://rail road">rail road</a></li><li>(معمولا جمع) رجوع شود به:<a href="bword://roadstead">roadstead</a></li><li>رجوع شود به:<a href="bword://roadway">roadway</a></li><li>(مجازی) دستیابی، راه طریق، طریقه، طریقت، شیوه، وسیلهthe road to fortuneراه دستیابی به ثروتeducation is the road to successتحصیل راه موفقیت است.* by roadبا ماشین، از طریق جادهthe trip takes four hours by train and five by roadاین مسافرت با ترن‌چهار ساعت و با ماشین پنج ساعت طول می‌کشد.* get (something) on the road(چیزی را) آغاز کردن، راه انداختن* one for the roadآخرین مشروب قبل از عزیمت* on the roadدر سفر، در حرکت، در تحرکher father is on the road most of the timeپدرش بیشتر اوقات در سفر است.* road safetyایمنی در راه‌ها، (اتومبیلرانی با) رعایت احتیاط* take a high roadخود را بالاتر از دیگری دانستن، دست بالا را گرفتن، بزرگواری کردن* take to the roadولگرد شدن، ولگردی کردن، خانه به دوشی کردن* the road to hell is paved with good intentionsراه جهنم با نیت‌های خوب سنگفرش شده است</li></ol></div></div>
+rock rabbit	<div><div dir="rtl"><ol><li>رجوع شود به:</li><li>hyrax</li><li>pika</li></ol></div></div>
+Sartre	<div>/<font color="gray">sår´tr'</font>/<br>\n<div dir="rtl">ژان پل سارتر (فیلسوف و نویسندهٔ فرانسوی)</div></div>
+saturnine	<div>/<font color="gray">sat´ǝr nīn´</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br><ol><li>(ستاره خوانی) زاییده شده تحت تاثیر کیوان</li><li>کم حرف، عبوس، گرفته، کج‌خلق</li><li>دچار مسمومیت سربی</li></ol></div></div>
+self-sown	<div>/<font color="gray">-sōn´</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br>(تخم گیاه) خودافشانده (توسط باد یا آب ولی نه توسط انسان)</div></div>
+shinsplints	<div>/<font color="gray">-splints´</font>/<br>\n<div dir="rtl"><font color="green">اسم،  جمع</font><br>(با فعل مفرد) گرفتگی و درد عضلات پا (در اثر دویدن زیاد و غیره)، درد ساق پا</div></div>
+sightseeing	<div>/<font color="gray">-sē´iŋ</font>/<br>\n<div dir="rtl"><font color="green">اسم،  صفت</font><br>تماشای دیدنی‌ها(ی محل)، بازدید از جاهای دیدنی، گردش و بازدید وابسته به تماشای جاهای دیدنی، گردشیa sightseeing busاتوبوس گردشی</div></div>
+silver standard	<div><div dir="rtl">نظام پولی بر مبنای نقره (نه طلا)، پایهٔ نقره</div></div>
+sinuosity	<div>/<font color="gray">sin´yōō äs´ǝ tē</font>/<br>\n<div dir="rtl"><font color="green">اسم،  جمع</font><br><ol><li>کوهه‌داری، موج‌داری</li><li>حرکت موجی، تموج، کوهگی، خیزابگی</li></ol></div></div>
+skag	<div>/<font color="gray">skag</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>رجوع شود به:<a href="bword://scag">scag</a></div></div>
+snapshot	<div>/<font color="gray">snap´shät´</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br><ol><li>(تیراندازی یا پرتاپ گوی و غیره) پرتاب با شتاب (و بدون نشانه گیری)</li><li>عکس فوری، (با دوربین کوچک) عکس</li></ol></div></div>
+soil bank	<div><div dir="rtl">(برنامهٔ دولت فدرال: کمک به کشاورزان جهت حفظ زمین‌های کشاورزی از فرسودگی و کشت بی‌رویه) بانک خاک</div></div>
+spend	<div>/<font color="gray">spend</font>/<br>\n<div dir="rtl"><font color="green">فعل لازم،  فعل متعدی</font><br><ol><li>به پایان رساندن، تمام کردن، مصرف کردن، گساردن، تحلیل رفتن، فدا کردنhis patience was spentصبرش تمام شد.gradually his energy was spentکم کم رمق او تحلیل رفت.the strom spent itselfتوفان خود بخود فروکش کرد.he spent himself in the service of humanityخودش را وقف خدمت به بشریت کرد.</li><li>(پول) خرج کردنhe spent all of his moneyهمهٔ پولش را خرج کرد.how much did you spend?چقدر خرج کردی‌؟Zarry spends more than she earnsزری بیش از درآمدش خرج می‌کند.</li><li>(وقت) صرف کردن، گذراندن، سپری کردنI have spent five years on this bookپنج سال صرف نوشتن این کتاب کرده‌ام.Hossein spends his summers in Ghamsarحسین تابستان های خود را در قمصر می‌گذراند.to spend an evening with friendsشبی را با دوستان سپری کردن</li><li>(پول یا وقت) حرام کردن، هدر دادن</li><li>(مهجور) نحیف و رنجور شدن</li></ol></div></div>
+strong-minded	<div>/<font color="gray">-mīn´did</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br>مصمم، پر اراده</div></div>
+syconium	<div>/<font color="gray">sī kō´nē ǝm</font>/<br>\n<div dir="rtl"><font color="green">اسم،  جمع</font><br>(گیاه شناسی) میوهٔ انجیر مانند، میوهٔ انجیری، انجیرواره</div></div>
+taproot	<div>/<font color="gray">tap´rōōt´</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>ریشهٔ اصلی گیاه، راست ریشه، کلان‌ریشه</div></div>
+teak	<div>/<font color="gray">tēk</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br><ol><li>(گیاه شناسی) درخت ساج، پیچ اناری هندی (Tectona grandis از خانوادهٔ verbena)</li><li>چوب ساج (که محکم و به رنگ قهوه‌ای مایل به زرد است - teakwood هم می‌گویند)</li></ol></div></div>
+terrestrial	<div>/<font color="gray">tǝ res´trē ǝl</font>/<br>\n<div dir="rtl"><font color="green">صفت،  اسم</font><br><ol><li>این‌جهانی، دنیوی</li><li>خاکی، خشکی، زمینی (در برابر: آبی یا هوایی)، زمین‌زی، خاکزیterrestrial animalsجانوران زمینی</li><li>وابسته به کرهٔ زمینthis terrestrial ballاین گوی خاکی (کرهٔ زمین)</li><li>وابسته به نخستین چهار سیارهٔ منظومهٔ شمسی (عطارد و زهره و مریخ و زمین)</li><li>ساکن کره‌زمین، اهل این دنیا</li></ol></div></div>
+title role|title part|title character	<div><div dir="rtl">(نمایش و فیلم و غیره) شخصیتی که نام او با نام فیلم یا نمایش یکی است، نقش اول، نقش اصلی</div></div>
+toluyl	<div>/<font color="gray">täl´yōō il</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>(بنیان CH3C6H5CO) تلوئیل</div></div>
+TRIP	<div>/<font color="gray">trip</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br>(وابسته به انواع آلیاژهای پولاد که بسیار خم‌پذیر و محکم هستند) تریپ</div></div>
+tumultuary	<div>/<font color="gray">tōō mul´chōō er´ē</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br><ol><li>نامرتب، در هم ریخته، نامنظم، بی‌سامان</li><li>رجوع شود به:<a href="bword://tumultuous">tumultuous</a></li></ol></div></div>
+turncoat	<div>/<font color="gray">tu_rn´kōt´</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>خائن، عهد شکن، دشمن گرای</div></div>
+unconnected	<div>/<font color="gray">-kǝ nekt´id</font>/<br>\n<div dir="rtl"><font color="green">صفت</font><br><ol><li>جدا، نامتصل، وصل نشده، ناهمبند، ناهمبسته، نامرتبط</li><li>نامربوط، جفنگ، بی سر و ته، نامنسجم</li></ol></div></div>
+urticaria	<div>/<font color="gray">u_rt´i ker´ēǝ</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>(پزشکی) کهیر</div></div>
+uveitis	<div>/<font color="gray">yōō´vē īt´is</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>(پزشکی) تورم رنگینهٔ چشم، رنگینه‌تبسی، التهاب مشیمیه</div></div>
+whipping	<div>/<font color="gray">hwip´iŋ</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br><ol><li>شلاق‌زنی، چوب‌کاری</li><li>طناب تابیده (برای بسته‌بندی یا ساختن شلاق)</li></ol></div></div>
+womb	<div>/<font color="gray">wōōm</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br><ol><li>(در اصل) شکم</li><li>زهدان، رحم، گویک، بوگان، آبسته، بچه‌دان</li><li>(مجازی) زادگاه، رستنگاه، بطن، منشاthat university become the womb of new scientific ideasآن دانشگاه زادگاه عقاید نوین علمی شد.* from the womb to the tombاز بطن مادر تا دل خاک، از تولد تا مرگ، از آغاز تا پایان</li></ol></div></div>
+yellowthroat	<div>/<font color="gray">-thrōt´</font>/<br>\n<div dir="rtl"><font color="green">اسم</font><br>(جانورشناسی) زرد گردن (چکاوک بومی امریکا از جنس Geothlypis)</div></div>
+پیچیدن‌ دور چوب‌	<div><div><a href="bword://furl">furl</a></div></div>
+پایانه‌	<div><ol><li><div><a href="bword://depot">depot</a></div></li><li><div><a href="bword://destination">destination</a></div></li><li><div><a href="bword://extremity">extremity</a></div></li></ol></div>
+پاسوری‌ کردن‌	<div><div><a href="bword://cordon">cordon</a></div></div>
+پانسیون‌	<div><div><a href="bword://boardinghouse">boardinghouse</a></div></div>
+پرواز کردن‌ (عامیانه‌)	<div><div><a href="bword://skip">skip</a></div></div>
+پس‌ و پیش‌ روی‌	<div><div><a href="bword://oscillation">oscillation</a></div></div>
+پستوی‌ تورات‌ در کنیسه‌	<div><div><a href="bword://ark">ark</a></div></div>
+چیزخاستگر	<div><div><a href="bword://riser">riser</a></div></div>
+چاشتخواب‌	<div><div><a href="bword://catnap">catnap</a></div></div>
+چتر کندساز	<div><div><a href="bword://drogue">drogue</a></div></div>
+چتر دفاعی‌	<div><div><a href="bword://umbrella">umbrella</a></div></div>
+چشم‌ بد	<div><ol><li><div><a href="bword://evil eye">evil eye</a></div></li><li><div><a href="bword://hex">hex</a></div></li></ol></div>
+چندپاری‌	<div><div><a href="bword://segmentation">segmentation</a></div></div>
+ژاژستان‌	<div><div><a href="bword://chaparral">chaparral</a></div></div>
+گیل‌ (واحد اندازه‌ گیری‌ آبگونه‌ ها)	<div><div><a href="bword://gill">gill</a></div></div>
+گالوانومتر	<div><div><a href="bword://galvanometer">galvanometer</a></div></div>
+گام‌ زنی‌ فضایی‌	<div><div><a href="bword://spacewalk">spacewalk</a></div></div>
+گاو	<div><div><a href="bword://beef">beef</a></div></div>
+گدا (عامیانه‌)	<div><div><a href="bword://panhandler">panhandler</a></div></div>
+گزاف‌ (عامیانه‌)	<div><div><a href="bword://stiff">stiff</a></div></div>
+گویشی‌	<div><ol><li><div>dialectal</div></li><li><div><a href="bword://lingual">lingual</a></div></li></ol></div>
+کار دشوار (خودمانی‌)	<div><div><a href="bword://stinker">stinker</a></div></div>
+کار را برای‌ کسی‌ آسان‌ کردن‌	<div><div><a href="bword://spoon-feed">spoon-feed</a></div></div>
+کشیده‌ شده‌ (خوب‌)	<div><div><a href="bword://fast">fast</a></div></div>
+کشتیار شدن‌ با فروتنی‌	<div><div><a href="bword://beg">beg</a></div></div>
+کم‌ (احتمال‌)	<div><div><a href="bword://outside">outside</a></div></div>
+کنتور گاز	<div><div><a href="bword://gas meter">gas meter</a></div></div>
+کوچک‌ (عامیانه‌)	<div><ol><li><div><a href="bword://jerkwater">jerkwater</a></div></li><li><div><a href="bword://pipsqueak">pipsqueak</a></div></li><li><div><a href="bword://small-time">small-time</a></div></li></ol></div>
+آب‌ طلا زدن‌	<div><div><a href="bword://gild">gild</a></div></div>
+آدم‌ بی‌ ارزش‌	<div><div><a href="bword://nothing">nothing</a></div></div>
+آرا	<div><div><a href="bword://vote">vote</a></div></div>
+آزرده‌ شدن‌	<div><div><a href="bword://resent">resent</a></div></div>
+آشوب‌ آفرین‌	<div><div><a href="bword://firebrand">firebrand</a></div></div>
+آمار شناس‌	<div><div><a href="bword://statistician">statistician</a></div></div>
+آماسش‌	<div><div><a href="bword://excrescence">excrescence</a></div></div>
+ایلچی‌ گری‌	<div><div><a href="bword://embassy">embassy</a></div></div>
+از بیخ‌ کندن‌	<div><div><a href="bword://extirpate">extirpate</a></div></div>
+اسب‌ نر	<div><div><a href="bword://stallion">stallion</a></div></div>
+استان‌ کبک‌	<div><div><a href="bword://Quebec">Quebec</a></div></div>
+اصل‌ سرمایه‌	<div><div><a href="bword://principal">principal</a></div></div>
+اعتراف‌ کننده‌	<div><div><a href="bword://confessor">confessor</a></div></div>
+افزایش‌ مزد	<div><div><a href="bword://hike">hike</a></div></div>
+الکلی‌ (خودمانی‌)	<div><ol><li><div><a href="bword://lush">lush</a></div></li><li><div><a href="bword://juicer">juicer</a></div></li><li><div><a href="bword://soak">soak</a></div></li></ol></div>
+انگیزنده‌	<div><div><a href="bword://intriguing">intriguing</a></div></div>
+انگشت‌ کوچک‌ دست‌	<div><ol><li><div><a href="bword://little finger">little finger</a></div></li><li><div><a href="bword://pinkie">pinkie</a></div></li></ol></div>
+اندخسواره‌	<div><div><a href="bword://shelter">shelter</a></div></div>
+اهل‌ چرت‌ وپرت‌ گفتن‌	<div><div><a href="bword://rambler">rambler</a></div></div>
+اولین‌ روز کار بعد از عید کریسمس‌	<div><div><a href="bword://Boxing Day">Boxing Day</a></div></div>
+بی‌ تقوا	<div><div><a href="bword://impious">impious</a></div></div>
+بیان‌ کردن‌	<div><ol><li><div><a href="bword://bid">bid</a></div></li><li><div><a href="bword://conceive">conceive</a></div></li><li><div><a href="bword://convey">convey</a></div></li><li><div><a href="bword://depict">depict</a></div></li><li><div><a href="bword://explain">explain</a></div></li><li><div><a href="bword://explicate">explicate</a></div></li><li><div><a href="bword://express">express</a></div></li><li><div><a href="bword://illustrate">illustrate</a></div></li><li><div><a href="bword://indicate">indicate</a></div></li><li><div><a href="bword://limn">limn</a></div></li><li><div><a href="bword://paint">paint</a></div></li><li><div><a href="bword://phrase">phrase</a></div></li><li><div><a href="bword://put">put</a></div></li><li><div><a href="bword://qualify">qualify</a></div></li><li><div><a href="bword://represent">represent</a></div></li><li><div><a href="bword://say">say</a></div></li><li><div><a href="bword://speak">speak</a></div></li><li><div><a href="bword://state">state</a></div></li><li><div><a href="bword://talk">talk</a></div></li><li><div><a href="bword://tell">tell</a></div></li><li><div><a href="bword://vent">vent</a></div></li><li><div><a href="bword://verbalize">verbalize</a></div></li><li><div><a href="bword://vocalize">vocalize</a></div></li><li><div><a href="bword://word">word</a></div></li></ol></div>
+بیزار از دوربین‌	<div><div><a href="bword://camera-shy">camera-shy</a></div></div>
+بیش‌ از حد انتظار	<div><div><a href="bword://supererogatory">supererogatory</a></div></div>
+بیمارانه‌	<div><div><a href="bword://sick">sick</a></div></div>
+با پای‌ خشک‌ (قدیمی‌)	<div><div><a href="bword://dry-shod">dry-shod</a></div></div>
+با صدای‌ زیر و گوشخراش‌	<div><div>screechy</div></div>
+باد و بروت‌	<div><div><a href="bword://vanity">vanity</a></div></div>
+بدل‌ چینی‌	<div><div><a href="bword://faience">faience</a></div></div>
+برخوردن‌ به‌	<div><ol><li><div><a href="bword://hit">hit</a></div></li><li><div><a href="bword://meet">meet</a></div></li><li><div><a href="bword://receive">receive</a></div></li></ol></div>
+برزن‌	<div><ol><li><div><a href="bword://district">district</a></div></li><li><div><a href="bword://neighborhood">neighborhood</a></div></li><li><div><a href="bword://parish">parish</a></div></li><li><div><a href="bword://ward">ward</a></div></li></ol></div>
+برنامه‌ چاپ‌ شده‌ نمایش‌ و غیره‌	<div><div><a href="bword://bill">bill</a></div></div>
+به‌ جهت‌	<div><ol><li><div><a href="bword://for">for</a></div></li><li><div><a href="bword://to">to</a></div></li></ol></div>
+به‌ شوخی‌ گرفتن‌	<div><div><a href="bword://trifle">trifle</a></div></div>
+به‌ صورت‌ یدک‌	<div><div><a href="bword://tandem">tandem</a></div></div>
+به‌ طور دستی‌	<div><div>manually</div></div>
+به‌ طور نابرابر	<div><div>unevenly</div></div>
+به‌ هم‌ زنجیر کردن‌	<div><div><a href="bword://interlink">interlink</a></div></div>
+تیر ریزی‌ کردن‌	<div><div><a href="bword://frame">frame</a></div></div>
+تیره‌ پشت‌ و دنده‌ های‌ شاه‌ ماهی‌	<div><div><a href="bword://herringbone">herringbone</a></div></div>
+تاج‌ گل‌ به‌ نشان‌ افتخار	<div><div><a href="bword://crown">crown</a></div></div>
+تارها و الیاف‌ کنف‌ (گیاه‌ شناسی‌)	<div><div><a href="bword://hemp">hemp</a></div></div>
+تعیین‌	<div><ol><li><div><a href="bword://assignment">assignment</a></div></li><li><div><a href="bword://designation">designation</a></div></li><li><div><a href="bword://determination">determination</a></div></li></ol></div>
+تمایل‌ طبیعی‌	<div><div><a href="bword://aptitude">aptitude</a></div></div>
+تندیس‌ مانند	<div><div><a href="bword://statuesque">statuesque</a></div></div>
+تهمت‌ بی‌ جا	<div><div><a href="bword://defamation">defamation</a></div></div>
+جیمز مونرو	<div><div><a href="bword://Monroe">Monroe</a></div></div>
+جاگیری‌ (کامپیوتر)	<div><div><a href="bword://footprint">footprint</a></div></div>
+جدایی‌ طلبانه‌	<div><div><a href="bword://separatist">separatist</a></div></div>
+جفت‌ شدن‌ (نجاری‌)	<div><div><a href="bword://rabbet">rabbet</a></div></div>
+حسابدار مجاز	<div><div><a href="bword://chartered accountant">chartered accountant</a></div></div>
+خشمگین‌ کردن‌	<div><ol><li><div><a href="bword://anger">anger</a></div></li><li><div><a href="bword://enrage">enrage</a></div></li><li><div><a href="bword://exasperate">exasperate</a></div></li><li><div><a href="bword://incense">incense</a></div></li><li><div><a href="bword://irritate">irritate</a></div></li><li><div><a href="bword://madden">madden</a></div></li><li><div><a href="bword://offend">offend</a></div></li><li><div><a href="bword://overcloud">overcloud</a></div></li><li><div><a href="bword://provoke">provoke</a></div></li><li><div><a href="bword://roil">roil</a></div></li></ol></div>
+خم‌	<div><ol><li><div><a href="bword://atilt">atilt</a></div></li><li><div><a href="bword://bend">bend</a></div></li><li><div><a href="bword://bent">bent</a></div></li><li><div><a href="bword://cask">cask</a></div></li><li><div><a href="bword://inclined">inclined</a></div></li><li><div><a href="bword://vat">vat</a></div></li></ol></div>
+خنک‌	<div><ol><li><div><a href="bword://cool">cool</a></div></li><li><div><a href="bword://flat">flat</a></div></li><li><div><a href="bword://vapid">vapid</a></div></li></ol></div>
+خنده‌ داری‌	<div><ol><li><div>funniness</div></li><li><div><a href="bword://humor">humor</a></div></li></ol></div>
+دیوسانی‌	<div><div>giantess</div></div>
+دچار ناراحتی‌ وجدان‌	<div><div><a href="bword://conscience-stricken">conscience-stricken</a></div></div>
+دارای‌ محاسن‌ بیشتر	<div><div><a href="bword://favored">favored</a></div></div>
+در پایین‌	<div><div><a href="bword://inferior">inferior</a></div></div>
+در رفتن‌ (بافندگی‌)	<div><div><a href="bword://unravel">unravel</a></div></div>
+دریافت‌ کننده‌ حقوق‌ بازنشستگی‌	<div><div><a href="bword://pensioner">pensioner</a></div></div>
+درآوردن‌ هسته‌ میوه‌	<div><div><a href="bword://core">core</a></div></div>
+دنبال‌ خود کشیدن‌ و بردن‌ چیز سنگین‌	<div><div><a href="bword://lug">lug</a></div></div>
+دورین‌ گاه‌	<div><div><a href="bword://aphelion">aphelion</a></div></div>
+دورافتاده‌ ترین‌	<div><div><a href="bword://outmost">outmost</a></div></div>
+ریزچه‌ ای‌	<div><div><a href="bword://particulate">particulate</a></div></div>
+ریش‌ سپید	<div><ol><li><div><a href="bword://doyen">doyen</a></div></li><li><div><a href="bword://sage">sage</a></div></li></ol></div>
+ریش‌دار شدن‌	<div><div><a href="bword://beard">beard</a></div></div>
+راننده‌ قایق‌	<div><ol><li><div><a href="bword://helmsman">helmsman</a></div></li><li><div><a href="bword://punter">punter</a></div></li></ol></div>
+رخپوشی‌ کردن‌	<div><div><a href="bword://veil">veil</a></div></div>
+رسیدن‌ به‌ و گذشتن‌ از (رانندگی‌ یا مسابقه‌ و غیره‌)	<div><div><a href="bword://overtake">overtake</a></div></div>
+رستم‌	<div><div><a href="bword://robust">robust</a></div></div>
+رشک‌	<div><ol><li><div><a href="bword://envy">envy</a></div></li><li><div><a href="bword://jealousy">jealousy</a></div></li></ol></div>
+رشکمندی‌	<div><div><a href="bword://jealousy">jealousy</a></div></div>
+رفتار منصفانه‌	<div><div><a href="bword://plain dealing">plain dealing</a></div></div>
+رفع‌ تکلیف‌ کردن‌	<div><div><a href="bword://soldier">soldier</a></div></div>
+رنگ‌ گیری‌	<div><div><a href="bword://tattoo">tattoo</a></div></div>
+روی‌ هم‌ افتادن‌ دو خط‌ (رادیو و تلفن‌)	<div><div><a href="bword://cross talk">cross talk</a></div></div>
+زیبندگی‌ (عامیانه‌)	<div><div><a href="bword://flair">flair</a></div></div>
+زبر مو (گربه‌ و شیر و غیره‌)	<div><div><a href="bword://whisker">whisker</a></div></div>
+زمین‌ - ساکن‌	<div><div><a href="bword://geostationary">geostationary</a></div></div>
+زوک‌ زوک‌	<div><ol><li><div><a href="bword://prick">prick</a></div></li><li><div><a href="bword://shoot">shoot</a></div></li><li><div><a href="bword://throb">throb</a></div></li></ol></div>
+سیاست‌ بازی‌	<div><div><a href="bword://politics">politics</a></div></div>
+سیم‌ مهار	<div><div><a href="bword://stay">stay</a></div></div>
+سگ‌ کالی‌	<div><div><a href="bword://collie">collie</a></div></div>
+ساس‌ (جانور شناسی‌)	<div><ol><li><div><a href="bword://tick">tick</a></div></li><li><div><a href="bword://bedbug">bedbug</a></div></li></ol></div>
+ساوانا	<div><ol><li><div><a href="bword://savanna">savanna</a></div></li><li><div><a href="bword://savannah">savannah</a></div></li></ol></div>
+سخنران‌ اصلی‌	<div><div>keynoter</div></div>
+سربازگیری‌	<div><div>recruitment</div></div>
+سرش‌	<div><ol><li><div><a href="bword://coast">coast</a></div></li><li><div><a href="bword://skid">skid</a></div></li><li><div><a href="bword://slippage">slippage</a></div></li></ol></div>
+سنجاقک‌ رنگین‌ (جانورشناسی‌)	<div><div><a href="bword://damselfly">damselfly</a></div></div>
+شیار روی‌ صفحه‌ گرامافون‌	<div><div><a href="bword://track">track</a></div></div>
+شیمه‌ جنین‌ (کالبد شناسی‌)	<div><div><a href="bword://amnion">amnion</a></div></div>
+شگفت‌آفرینی‌	<div><div><a href="bword://dazzle">dazzle</a></div></div>
+شاد نامه‌ ای‌	<div><div><a href="bword://comic">comic</a></div></div>
+شجره‌ نامه‌	<div><ol><li><div><a href="bword://family tree">family tree</a></div></li><li><div><a href="bword://genealogy">genealogy</a></div></li><li><div><a href="bword://pedigree">pedigree</a></div></li><li><div><a href="bword://tree">tree</a></div></li></ol></div>
+شن‌ مرد	<div><div><a href="bword://sandman">sandman</a></div></div>
+ضبط‌ کردن‌ روی‌ نوار ویدئو	<div><ol><li><div><a href="bword://tape">tape</a></div></li><li><div><a href="bword://videotape">videotape</a></div></li></ol></div>
+ضربه‌ آغاز (تنیس‌ و والیبال‌)	<div><div><a href="bword://serve">serve</a></div></div>
+طرح‌ ساختمانی‌ هر چیز	<div><div><a href="bword://architectonics">architectonics</a></div></div>
+ظرف‌ فشاری‌	<div><div><a href="bword://siphon">siphon</a></div></div>
+عار	<div><ol><li><div><a href="bword://disdain">disdain</a></div></li><li><div><a href="bword://shame">shame</a></div></li></ol></div>
+عضو با سابقه‌ و مسئول‌ (کلیسا)	<div><div><a href="bword://presbyter">presbyter</a></div></div>
+عقیم‌ بودن‌	<div><ol><li><div>barrennees</div></li><li><div>effeteness</div></li></ol></div>
+غریو	<div><ol><li><div><a href="bword://applause">applause</a></div></li><li><div><a href="bword://clamor">clamor</a></div></li><li><div><a href="bword://ejaculation">ejaculation</a></div></li><li><div><a href="bword://hubbub">hubbub</a></div></li><li><div><a href="bword://roaring">roaring</a></div></li><li><div><a href="bword://shout">shout</a></div></li><li><div><a href="bword://uproar">uproar</a></div></li><li><div><a href="bword://whoop">whoop</a></div></li></ol></div>
+غریویدن‌ با کف‌ زدن‌	<div><div><a href="bword://applaud">applaud</a></div></div>
+غضروفی‌	<div><div><a href="bword://cartilaginous">cartilaginous</a></div></div>
+غمض‌ عین‌	<div><div><a href="bword://condonation">condonation</a></div></div>
+فکر کردن‌ با حدث‌ و قیاس‌	<div><div><a href="bword://speculate">speculate</a></div></div>
+فراکافت‌ چونی‌ (شیمی‌)	<div><div><a href="bword://qualitative analysis">qualitative analysis</a></div></div>
+فرمان‌ کشتن‌	<div><ol><li><div>death sentence</div></li><li><div><a href="bword://death warrant">death warrant</a></div></li></ol></div>
+فلسفه‌ جبری‌ (الهیات‌)	<div><div><a href="bword://predestination">predestination</a></div></div>
+قابل‌ تفکر	<div><div><a href="bword://thinkable">thinkable</a></div></div>
+قبول‌ شدن‌ در امتحان‌	<div><div><a href="bword://pass">pass</a></div></div>
+قشنگ‌ کردن‌	<div><div><a href="bword://prettify">prettify</a></div></div>
+قطره‌	<div><ol><li><div>beads</div></li><li><div><a href="bword://drop">drop</a></div></li><li><div><a href="bword://globule">globule</a></div></li></ol></div>
+قلپ‌ در نوشیدن‌ (عامیانه‌)	<div><div><a href="bword://swig">swig</a></div></div>
+قوز کرده‌	<div><ol><li><div><a href="bword://slouchy">slouchy</a></div></li><li><div><a href="bword://squat">squat</a></div></li></ol></div>
+قوم‌ شناس‌	<div><ol><li><div>ethnographer</div></li><li><div>ethnologist</div></li></ol></div>
+لیوان‌ پر	<div><div><a href="bword://glassful">glassful</a></div></div>
+لاما (جانور شناسی‌)	<div><div><a href="bword://llama">llama</a></div></div>
+لب‌ زننده‌	<div><div>nibbler</div></div>
+لم‌ یزرع‌	<div><ol><li><div><a href="bword://arid">arid</a></div></li><li><div><a href="bword://barren">barren</a></div></li></ol></div>
+میکروب‌ (عامیانه‌)	<div><div><a href="bword://bug">bug</a></div></div>
+میزکار	<div><div><a href="bword://worktable">worktable</a></div></div>
+ماده‌ سگ‌ و گربه‌	<div><div><a href="bword://bitch">bitch</a></div></div>
+متظاهرانه‌ در موعظه‌	<div><div><a href="bword://unctuous">unctuous</a></div></div>
+مجبور (قدیمی‌)	<div><div><a href="bword://bounden">bounden</a></div></div>
+محکم‌ کشیدن‌ طناب‌	<div><div><a href="bword://draw">draw</a></div></div>
+محوطه‌ی‌ بزرگ‌	<div><div><a href="bword://galleria">galleria</a></div></div>
+مرده‌ پوش‌	<div><div><a href="bword://body bag">body bag</a></div></div>
+مزد پایه‌	<div><div><a href="bword://base pay">base pay</a></div></div>
+مست‌ و خراب‌ (عامیانه‌)	<div><div><a href="bword://sozzled">sozzled</a></div></div>
+مسطوره‌ گرفتن‌	<div><div><a href="bword://sample">sample</a></div></div>
+مصدق‌	<div><div><a href="bword://voucher">voucher</a></div></div>
+معلق‌ شدن‌	<div><ol><li><div><a href="bword://poise">poise</a></div></li><li><div><a href="bword://tumble">tumble</a></div></li></ol></div>
+معلوم‌ و مشخص‌	<div><div><a href="bword://express">express</a></div></div>
+ملیله‌ دوزی‌ کردن‌	<div><div><a href="bword://filigree">filigree</a></div></div>
+منتشر کردن‌ اوراق‌ قرضه‌	<div><div><a href="bword://float">float</a></div></div>
+مورد (گیاه‌ شناسی‌)	<div><div><a href="bword://myrtle">myrtle</a></div></div>
+ناکاستنی‌	<div><div><a href="bword://irreducible">irreducible</a></div></div>
+ناب‌ گرایی‌ (زبان‌ و ادبیات‌ و هنر)	<div><div><a href="bword://purism">purism</a></div></div>
+نامبارکی‌	<div><div><a href="bword://infelicity">infelicity</a></div></div>
+نسبتا پیر	<div><div><a href="bword://oldish">oldish</a></div></div>
+نسبتا مسطح‌	<div><div><a href="bword://flattish">flattish</a></div></div>
+نقاهت‌	<div><div><a href="bword://convalescence">convalescence</a></div></div>
+هیچ‌ وقت‌	<div><div><a href="bword://never">never</a></div></div>
+ویژگی‌ فکری‌	<div><div><a href="bword://kink">kink</a></div></div>
+واچیدن‌	<div><ol><li><div><a href="bword://undoing">undoing</a></div></li><li><div><a href="bword://ravel">ravel</a></div></li></ol></div>
+واژه‌ ی‌ یونانی‌	<div><div><a href="bword://Hellenism">Hellenism</a></div></div>
+وابسته‌ به‌ پیشدانی‌	<div><div>precognitive</div></div>
+وابسته‌ به‌ کانون‌	<div><div><a href="bword://focal">focal</a></div></div>
+وابسته‌ به‌ ارائه‌	<div><div>presentational</div></div>
+وابسته‌ به‌ شهردار	<div><div>mayoral</div></div>
