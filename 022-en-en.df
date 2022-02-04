@@ -1,0 +1,75 @@
+@ Abel polynomial
+<html><p>Named after the Norwegian mathematician Niels Henrik Abel.</p><br />
+<ol><li><i>(mathematics)</i> Any member of a certain polynomial sequence whose <i>n</i>th term is of the form <img style="height:100%;max-height:0.8em;width:auto;vertical-align:bottom" src="data:image/gif;base64,R0lGODdh5wAcAIEAAAAAAP///wAAAAAAACwAAAAA5wAcAEAI/wADCBxIsKDBgwgTKlzIsKHDhxAjSpxIUSKAixUVYqx4EUDGjwY3ghxJ8mDHgiJFPjwpkOVAlw1hopQ5syTDjh5Dqpy50yZBmT1h0nyZ0yfPm0Vp9lxZ1CjFpU6jxmwq1ehQjVCrTqWqtStRqjjDWkyJs+VVhFdZQs0aIKxbtwvVgl27kS1JoXXNkuVKtOvboEm5Lt0L2CvhpoMDnx35t6zen2Jrep1MubLlyx8XZ7SLFXNnz5MLmx2bsyzciIBVKuXr0/HjvjwRcwb592tp1ybn2oboEujsrwlx66Qs/HXu35l3+pbNum3zkr5fOo8MGa3Hs2wb1+48lO50v8oFq/3OipwjZ7LDNz+3XB407fWM28eFL9l9cPr2J8rPz7+/f/fUOdUefp7t9x9aVWlm3lMEEtfggVOhNF1xSD3okIGj+YchhPel55xejUFmYYTqaTgih/PVJ592b6E2l2PdncgUjOHFVteGF27HInm6GZejYkfNeB92z+0YoHWrNXdkVOG9KGKHWi3HW3ZUVhZjkXYZSaGP3z0JnHXgOTnhkUQSiZWW8C1ZJo5b1fcll9VFOV6PH7r55Uk1hvkYejrddp2M8xEW5J55Jtiih6J5CWedhjJnZ5eL2gQXbqnxxWaFSO0Wp36ACtgpips2Ct2Al1pV6oEK3nUqqKy2ClJAADs="/>.</li></ol>
+
+@ Abel sum
+<html><p>After Norwegian mathematician Niels Henrik Abel (1802-1829).</p><br />
+<ol><li><i>(mathematical analysis)</i> Given a power series <img style="height:100%;max-height:0.8em;width:auto;vertical-align:bottom" src="data:image/gif;base64,R0lGODdhvgAcAIEAAAAAAP///wAAAAAAACwAAAAAvgAcAEAI/wADCBxIsKDBgwgTKlzIsKHDhxAjSpw4EIDFgxcLWswocKNBjhQnegxJ8uHGkwBMjuzIsWVKgithvvyYMqbGmQhR6tQJ0WZJhz4rggzgcidNokN/soyYVKnCnVCNCp0K1KXTqzlRUhWJE2vWpg27npTptSxRpFpv0uwqE+xSswzHwqVoM+hCuVfdVp37VWJUlWRDWuWLUW9htoSjKsapGCbhx2qPCjbsFW/PmRfHUoa8923gtn2RZr27OG1Yu5wTxkQdemhR0DcRs9S7eS7r1ELFyiZdO3bh37OT9sZ6u2xGt6U9u8ZsmeTwyKmLq2aeG6rorVyr494+ufTfrc2nh8vnrvT5bvKXV3p8jp7p6vNP4Rv3zrNiW93tVUoFPZiu/MrsdRRbf/mdhp1nn/m33Xhx4VVfgZ1dh5ZpEgZ3XFMBlsQghBNSGJ9c72l3IFriIQcffdLlxqFkKrqXImwwHhZfexuSV1eAL8Y4W4m7GYaieRnathxXOe7IImzr4WfjfwDa5eBINT1oZJJVISYcSEEF2R13F8rG05PYvcekgQouOKZj+y1WoZYEclZkkT/B+VlvWJ7JopwrJvYjhf2pKaGdeQZqZoun4clZQAA7"/> that is convergent for real <i>x</i> in the open interval (0, 1), the value <img style="height:100%;max-height:0.8em;width:auto;vertical-align:bottom" src="data:image/gif;base64,R0lGODdhyAAcAIEAAAAAAP///wAAAAAAACwAAAAAyAAcAEAI/wADCBxIsKDBgwgTKlzIsKHDhxAjSpzIEIBFihgzagxgEcDGjwo7ivToUCTBjgMvClS5kiVHlyhTwiRp8mVJkiddaowJ8iZOgzxbyhyp02bQnkiTPiTKtOlPlkUT8oyqFGPQo1WzSsVasmBNoVpBemSa8+lMs2azcqX4NSzEo2tDxnW79WdDnXN9SnS6NK1VnFTpCnbrtDBasikH082rmDDjg1DHogzc+KbMspiHAo75uDLkzpWvUv5M027kzWgzt/SrFLRez3W92vU5u+JZ1S9Z564tVzbvvaNbl67L1ybYy6uDO979OydQ5XKbL4ysmezMjKelw95O23BT58m7a9LnTr7836kXoZuPfnt9T+/fE2uW7Z79SNzq69/Nf9I3df1bIbcagFq11Rd6BhIInnEDMpccUQ8q+Bx/jRVnW02izZcbfu0dJ+FQCuJF4X1vdbghiAK+lyB2ri0m4ngTApcaig16yNZsCEJ4IIBwweifjzWeGGSGuzF4V4xiAZnkWl9hyNyLA44G35PWkWgklRYKyaKSH6nE5H1NbsYhl1Wt2BtuN04kmZWGGUnhgm/C5iV0RbXoG4spTqcbcDR+SCB8Wf6HJWeA+Wnon6gdGOdgAQEAOw=="/>, which is assigned to <img style="height:100%;max-height:0.8em;width:auto;vertical-align:bottom" src="data:image/gif;base64,R0lGODdhpAAcAIEAAAAAAP///wAAAAAAACwAAAAApAAcAEAI/wADCBxIsKDBgwgTKlzIsKHDhxAjOgRA8WDFhBQBYNQosSPBjB5DSsxIkuPEiwVRWlSZ0iTCkjBhQgQpsiPNlS4DoIzJsmFPhT9rLuRJtORHk0FxDkwqdKlRgT1lrmz6kKTHnFadUhUalelNg0y34swp9irLryLDDiVbFqxatzGruny7UevMn2h10t1atOhRnh/bhsTL1mnhvIINF16r1erexEfhAk0atq9Un4ghy537OG9mqJQXazY8OiLax3rZeg1dWmlru6H96rV70uxr0rZBK46rEnVLxbdbW+4bGTTdy8F/V03ON2vq2cwn91btvPjt4XGX/sUqOjjInaIz+5Gu+Xloy5vjBROWXtd7+Y3on0bf/XX14vRp3883jhyzZPjtwYfdXd3Nd1ZnXYXHmoH6ucddgX/999KCAg5nGn6JnQZhhG6xNyGDzMl3HlI0aZQdbspNeN+GYjVY1kXiGeUceHfl5p5Nqc3o13T50XYSi8852KNutfk4EolA7nchdsjRyF92OykpZYhIbobhQgEBADs="/> by the Abel summation method (or <i>A-method</i>).</li></ol>
+
+@ Abel test
+: \ˈeɪ.bəl tɜst\ 
+<html><p>Derived from the surname of Sir Frederick Abel, English chemist.</p><br />
+<ol><li><i>(chemistry, usually capitalized)</i> A test to determine the flash point of a volatile oil.</li><li><i>(chemistry, usually capitalized)</i> A test for the stability of smokeless powder and similar explosives.</li></ol>
+
+@ Abelam
+: \əˈbə.ləm\ 
+<html><p>Native name in New Guinea.</p><br />
+<ol><li>The Ambulas language of Papua New Guinea.</li><li>A member of a Papuan people from New Guinea.</li></ol>
+
+@ Abelard
+: \ˈæb.ə.ˌlɑɹd\ 
+<html><p>From French <i>Abélard</i>, an extension of the <i>Abel</i> with an Germanic suffix <i>-(h)ard</i>. Possibly also regarded a variant of the German <i>Eberhard</i> "boar" + "hard", equivalent to English <b>Everett</b>.</p><br />
+<ol><li><i>(rare)</i> <i>A male given name from the Germanic languages</i>.</li><li><i>A surname, from French.</i></li></ol>
+
+@ Abelian
+<html><p><i>Abel</i>&nbsp;+&nbsp;<i>-ian</i></p><br />
+<ol><li><i>(mathematics, group theory, dated)</i> <i>Alternative letter-case form of</i> <b>abelian</b></li><li><i>(Roman Catholicism, historical)</i> A member of a sect in fourth-century Africa mentioned by St. Augustine, who states that they married but lived in continence after the manner, as they claimed, of Abel.</li></ol>
+
+@ Abelian algebra
+<html><p>From Niels Henrik Abel, Norwegian mathematician.</p><br />
+<ol><li><i>(mathematics)</i> Any algebra in which multiplication (or its equivalent) is commutative.</li></ol>
+
+@ Abelian group
+<html>
+<ol><li><i>Alternative form of</i> <b>abelian group</b></li></ol>
+
+@ Abelite
+<html><p><i>Abel</i>&nbsp;+&nbsp;<i>-ite</i></p><br />
+<ol><li><i>(historical, ecclesiastical)</i> Abelian.</li></ol>
+
+@ Abell
+<html><p>Variation of Abel</p><br />
+<ol><li><i>A surname.</i></li></ol>
+
+@ Abellen Ayta
+<html>
+<ol><li>A language of the Philippines.</li></ol>
+
+@ Abello
+<html>
+<ol><li><i>A surname.</i></li></ol>
+
+@ Abelmann
+<html><p>Borrowed from German <i>Abelmann</i>.</p><br />
+<ol><li><i>A surname, from German.</i></li></ol>
+
+@ Abeln
+<html><p>Borrowed from German <i>Abeln</i>.</p><br />
+<ol><li><i>A surname, from German.</i></li></ol>
+
+@ Abelonian
+<html>
+<ol><li><i>(historical, ecclesiastical)</i> An Abelian.</li></ol>
+
+@ Abelson
+<html><p>From <i>Abel</i>&nbsp;+&nbsp;<i>-son</i>.</p><br />
+<ol><li><i>A Hebrew patronymic surname, from given names.</i></li></ol>
+
+@ Abenaki
+: \ˌæbəˈnæ.ki\ 
+<html><p>From French <i>abénaqui</i>, either from Montagnais <i>ouabanākionek</i> (“people of the eastern country”) or from the Western Abenaki autonym <i>Wôbanaki</i> or an Eastern Abenaki/Penobscot cognate of the same, from Algonquin. Ultimately a compound word meaning "people of the east" or "people of the dawn-land", from Proto-Algonquian <i>*wa·panki</i> (“dawn”) + <i>*askyi</i> (“land”).</p><br />
+<ol><li>An Algonquian First People from northeastern North America, mainly Maine and Quebec. <small>[early 18th century]</small></li><li>A complex of Eastern Algonquian lects, originally spoken in what is now Maine, and Quebec, divided into Western Abenaki and Eastern Abenaki (Penobscot). <small>[early 20th century]</small></li><li><i>(in particular)</i> The Western Abenaki language.</li><li>A member of this Algonquian First People. <small>[early 18th century]</small></li><li>Related or pertaining to the Abenaki people or language. <small>[early 19th century]</small></li></ol>
+
+@ Abenakian
+<html><p><i>Abenaki</i>&nbsp;+&nbsp;<i>-an</i></p><br />
+<ol><li>Of or relating to the Abenaki people or their language.</li></ol>
