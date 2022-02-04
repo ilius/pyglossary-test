@@ -1,5 +1,7 @@
 ##name	022-en-en.df
 ##input_file_size	7208
+##sourceLang	English
+##targetLang	English
 Abel polynomial	<p>Named after the Norwegian mathematician Niels Henrik Abel.</p>\n<ol><li><i>(mathematics)</i> Any member of a certain polynomial sequence whose <i>n</i>th term is of the form <img style="height:100%;max-height:0.8em;width:auto;vertical-align:bottom" src="./6684158d.gif"/>.</li></ol>
 Abel sum	<p>After Norwegian mathematician Niels Henrik Abel (1802-1829).</p>\n<ol><li><i>(mathematical analysis)</i> Given a power series <img style="height:100%;max-height:0.8em;width:auto;vertical-align:bottom" src="./01cf5b41.gif"/> that is convergent for real <i>x</i> in the open interval (0, 1), the value <img style="height:100%;max-height:0.8em;width:auto;vertical-align:bottom" src="./3af9fd5d.gif"/>, which is assigned to <img style="height:100%;max-height:0.8em;width:auto;vertical-align:bottom" src="./1f3c1a36.gif"/> by the Abel summation method (or <i>A-method</i>).</li></ol>
 Abel test	\\ˈeɪ.bəl tɜst\\ \n<p>Derived from the surname of Sir Frederick Abel, English chemist.</p>\n<ol><li><i>(chemistry, usually capitalized)</i> A test to determine the flash point of a volatile oil.</li><li><i>(chemistry, usually capitalized)</i> A test for the stability of smokeless powder and similar explosives.</li></ol>
