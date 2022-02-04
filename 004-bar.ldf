@@ -1,0 +1,18 @@
+###Title: 004-bar.txt
+###Description: 
+###Author: 
+###Email: 
+###Website: 
+###Copyright: 
+a
+neg1
+
+a|b
+neg2
+
+a\|b|c
+pos1
+
+a\\\|a|b|c
+pos2
+
