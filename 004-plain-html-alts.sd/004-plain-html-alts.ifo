@@ -1,0 +1,10 @@
+StarDict's dict ifo file
+version=3.0.0
+bookname=004-plain-html-alts
+wordcount=4
+idxfilesize=64
+synwordcount=2
+author=Saeed
+email=test@test
+website=test.com
+description=Test glossary with 2 entries: html and plaintext
