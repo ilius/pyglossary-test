@@ -1,0 +1,2 @@
+##name	test1
+Entry 1: one XDXF	<k>XDXF text</k>\n<abr>expression</abr>\n<dtrn>modelado <abr>m</abr> 3-D</dtrn>
