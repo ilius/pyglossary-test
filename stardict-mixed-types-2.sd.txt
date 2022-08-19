@@ -1,0 +1,8 @@
+##name	test1
+##version	3.0.0
+##wordcount	3
+##idxfilesize	91
+##sametypesequence	h
+Entry 1: mixed of 3 types	HTML text: <b>bold</b>, <i>italic</i>\n<hr>\n<pre>Plain text: line 1<br/>Plain text: line 2</pre>\n<hr>\n<div class="article"><div class="k"><b>XDXF text</b></div>modelado <span class="abr"><font color="green"><i>m</i></font></span>  3-D</div>
+Entry 2: two html	<i>HTML text 1</i>\n<hr><i>HTML text 2</i>
+Entry 3: two plaintext	Line 1\nLine 2\nLine 3\nLine 4

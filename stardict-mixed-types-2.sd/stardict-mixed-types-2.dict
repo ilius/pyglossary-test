@@ -1,0 +1,9 @@
+HTML text: <b>bold</b>, <i>italic</i>
+<hr>
+<pre>Plain text: line 1<br/>Plain text: line 2</pre>
+<hr>
+<div class="article"><div class="k"><b>XDXF text</b></div>modelado <span class="abr"><font color="green"><i>m</i></font></span>  3-D</div><i>HTML text 1</i>
+<hr><i>HTML text 2</i>Line 1
+Line 2
+Line 3
+Line 4

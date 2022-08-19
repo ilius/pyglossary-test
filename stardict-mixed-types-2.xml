@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<stardict xmlns:xi="http://www.w3.org/2003/XInclude">
+<info>
+<version>2.4.2</version>
+<bookname>test1</bookname>
+<author></author>
+<email></email>
+<website></website>
+<description></description>
+<date></date>
+<dicttype></dicttype>
+</info>
+
+<article>
+<key>Entry 1: mixed of 3 types</key>
+<definition type="h">
+<![CDATA[HTML text: <b>bold</b>, <i>italic</i>]]>
+</definition>
+
+<definition type="m">
+<![CDATA[Plain text: line 1
+Plain text: line 2]]>
+</definition>
+
+<definition type="x">
+<![CDATA[<k>XDXF text</k>
+<dtrn>modelado <abr>m</abr> 3-D</dtrn>]]>
+</definition>
+</article>
+
+<article>
+<key>Entry 2: two html</key>
+<definition type="h">
+<![CDATA[<i>HTML text 1</i>]]>
+</definition>
+<definition type="h">
+<![CDATA[<i>HTML text 2</i>]]>
+</definition>
+</article>
+
+<article>
+<key>Entry 3: two plaintext</key>
+<definition type="m">
+<![CDATA[Line 1
+Line 2]]>
+</definition>
+<definition type="m">
+<![CDATA[Line 3
+Line 4]]>
+</definition>
+</article>
+
+</stardict>
