@@ -23,6 +23,9 @@ PG="$HOME/pyglossary/main.py"
 "$PG" 100-ja-en.txt 100-ja-en.info
 "$PG" 100-ja-en.txt 100-ja-en.sd/100-ja-en.ifo --write-options=dictzip=False
 
+"$PG" stardict-xdxf-2.xml stardict-xdxf-2.xml-h.txt --read-format StardictTextual --read-options=xdxf_to_html=true
+"$PG" stardict-xdxf-2.xml stardict-xdxf-2.xml-x.txt --read-format StardictTextual --read-options=xdxf_to_html=false
+
 "$PG" stardict-mixed-types-2.xml stardict-mixed-types-2.xml.txt --read-format StardictTextual
 mkdir -p stardict-mixed-types-2.sd/
 "$PG" stardict-mixed-types-2.xml stardict-mixed-types-2.sd/stardict-mixed-types-2.ifo \
