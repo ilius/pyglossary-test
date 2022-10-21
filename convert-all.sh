@@ -10,7 +10,7 @@ PG="$HOME/pyglossary/main.py"
 "$PG" 100-en-fa.txt 100-en-fa.sd/100-en-fa.ifo --write-options=dictzip=False
 "$PG" 100-en-fa.txt 100-en-fa-lower.txt --lower
 "$PG" 100-en-fa.txt 100-en-fa-rtl.txt --rtl
-"$PG" 100-en-fa.txt 100-en-fa-remove_html_all.txt --remove-html-all
+"$PG" 100-en-fa.txt 100-en-fa-remove_html_all-v2.txt --remove-html-all
 
 "$PG" 100-en-de.txt 100-en-de.csv
 "$PG" 100-en-de.txt 100-en-de.json
