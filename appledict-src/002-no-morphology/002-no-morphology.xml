@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
+<d:entry id="_1" d:title="Dictionary application">
+<d:index d:value="Dictionary application" d:title="Dictionary application"/><d:entry d:title="Dictionary application" id="dictionary_application" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
+<div d:priority="2"><h1>Dictionary application </h1></div>
+<p>
+		An application to look up dictionary on Mac OS X.<br/>
+		It's application icon looks like below.
+	</p>
+<img alt="Dictionary.app Icon" src="Images/dictionary.png"/>
+</d:entry>
+</d:entry>
+<d:entry id="_2" d:title="make">
+<d:index d:value="make" d:title="make"/><d:entry d:priority="8" d:title="make" id="make_1" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
+<div d:priority="2"><h1>make</h1></div><span class="syntax"><span d:pr="US">| māk |</span></span>
+<div>
+<ol>
+<li>
+				Form by putting parts together or combining substances; construct; create; produce 
+				<span d:priority="2"> : <i>Mother made her a beautiful dress</i>
+</span>
+				.
+			</li>
+<li>
+				Cause to be or become
+				<span d:priority="2"> : <i>The news made me happy</i>
+</span>
+				.
+			</li>
+</ol>
+</div>
+<div d:parental-control="1" d:priority="2">
+<h3>PHRASES</h3>
+<div id="make_it"><b>make it</b> : succeed in something; survive.</div>
+<h4><a href="x-dictionary:d:x-dictionary:r:make_up_ones_mind"><b>make up one's mind</b></a></h4>
+</div>
+</d:entry>
+</d:entry>
+<d:entry id="_3" d:title="make up one's mind">
+<d:index d:value="make up one's mind" d:title="make up one's mind"/><d:entry d:parental-control="1" d:title="make up one's mind" id="make_up_ones_mind" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
+<div d:priority="2"><h1>make up one's mind</h1></div>
+<ul>
+<li>
+		make a decision.
+		</li>
+</ul>
+</d:entry>
+</d:entry>
+</d:dictionary>
