@@ -1,0 +1,3287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="freedict-dictionary.css"?>
+<?oxygen RNGSchema="freedict-P5.rng" type="xml"?>
+<!DOCTYPE TEI SYSTEM "freedict-P5.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>Aryanpour Dictionary 2023 (en-fa, fa-en)</title>
+				<respStmt>
+					<resp>Maintainer</resp>
+					<name xml:id="ilius">Saeed Rasooli</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>2023.01.14</edition>
+			</editionStmt>
+			<extent>181165 headwords</extent>
+			<publicationStmt>
+				<publisher>Saeed Rasooli</publisher>
+				<availability status="free">
+					<p>Licensed under the <ref target="https://creativecommons.org/licenses/by-sa/3.0/legalcode">Creative Commons Attribution-ShareAlike 3.0 Unported</ref> license</p>
+				</availability>
+				<date>2023-01-14</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>
+				</p>
+			</projectDesc>
+			<tagsDecl>
+				<namespace name="http://www.tei-c.org/ns/1.0" xml:base="../shared/">
+					<tagUsage gi="pos">
+						<list n="values" type="bulleted">
+						</list>
+					</tagUsage>
+				</namespace>
+			</tagsDecl>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<body xml:lang="en">
+
+			<entry>
+				<form xml:lang="en">
+					<orth>a</orth>
+					<pron>ə</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="adjective">صفت</pos>
+						<pos norm="indefinite article">indefinite article</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<note>(پیش از واژه‌هایی که با حرف صدادار آغاز می‌شوند تبدیل به an می‌شود)</note>
+						<cit type="trans">
+							<quote>یک، یک عدد، - ی (یای نکره یا وحدت)</quote>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">I see a man</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>مردی را می‌بینم.</quote>
+							</cit>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">once a day</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>روزی یکبار</quote>
+							</cit>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">a Mr. Smith called you yesterday</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>مردی به نام آقای اسمیت دیروز به شما تلفن زد.</quote>
+							</cit>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">an apple</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>یک سیب</quote>
+							</cit>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">a city</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>یک شهر</quote>
+							</cit>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">a hundred and fifty thousand</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>یکصد و پنجاه هزار</quote>
+							</cit>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>هر، هر یک</quote>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">* a few</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>معدودی، چندتا، چند عدد</quote>
+							</cit>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">* a good (or great) many</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>بسیار، خیلی، زیاد</quote>
+							</cit>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">a good many of them were sick</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>تعداد کثیری از آنها بیمار بودند.</quote>
+							</cit>
+						</cit>
+					</sense>
+				</sense>
+				<sense n="2" xml:lang="fa">
+					<gramGrp>
+						<pos norm="prefix">پیشوند</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>در، به، درون</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>در حال، مشغول</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>بدون، فاقد، ابی -، بی -، نا [amoral]</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>A</orth>
+					<pron>ā</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+						<pos norm="adjective">صفت</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>گروه خونی آ (رجوع شود به: <ref>ABO system</ref>)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>نمرهٔ الف</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(موسیقی) نت ششم در گام لا ماژور C</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>درجهٔ یک، عالی، سرحال، معرکه، قبراق، سالم</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>à bon marché</orth>
+					<pron>å bōn mår shā´</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(فرانسه) به قیمت خوب، ارزان، مناسب</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>-ability</orth>
+					<pron>ə bil´ə tē</pron>
+				</form>
+				<form>
+					<orth>ability</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="suffix">پسوند</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>پسوند (اسم‌ساز): توانایی، تمایل، قابلیت، ظرفیت</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>B</orth>
+					<pron>bē</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+						<pos norm="adjective">صفت</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>گروه خون B (رجوع شود به: <ref>ABO system</ref>)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(آموزش) نمرهٔ ب یا B</quote>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">she got a "B" in English literature</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>در ادبیات انگلیسی ((ب)) گرفت.</quote>
+							</cit>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(موسیقی) نت هفتم در دستگاه سی ماژور، آهنگی که نت کلیدی آن نت B باشد، تار B (در آلات زهی) و کلید B (در پیانو و غیره)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>درجه دو</quote>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">a class B motion picture</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>فیلم سینمایی درجهٔ دو</quote>
+							</cit>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>b</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>بولیویانو (واحد پول کشور بولیوی)</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>C</orth>
+					<pron>sē</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+						<pos norm="adjective">صفت</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(در شمارگان رومی) نشان عدد صد</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(آموزش) نمرهٔ جیم، نمرهٔ متوسط</quote>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">he got a C in history</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>او در تاریخ جیم گرفت.</quote>
+							</cit>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(موسیقی) اولین نت در کلید سی‌ماژور، تار یا کلید پیانو و غیره که این صدا را تولید کند</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(از نظر خوبی یا نمرات درسی) متوسط</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>c</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(داروسازی - مخفف لاتین: cum) با، همراه با</quote>
+						</cit>
+					</sense>
+				</sense>
+				<sense n="2" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(فیزیک) سرعت نور</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>سانتی –</quote>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">centigrade</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>سانتی گراد</quote>
+							</cit>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>D</orth>
+					<pron>dē</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+						<pos norm="adjective">صفت</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(شماره‌نویسی رومی) پانصد</quote>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">DXXIV</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>پانصد و بیست و چهار</quote>
+							</cit>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(آموزش) نمرهٔ ((دال)) یا ((د))</quote>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">he got a "D" in history</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>او در تاریخ ((د)) گرفت.</quote>
+							</cit>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(موسیقی) کلید ((دی)) در میزان ((سی‌ماژور))، (سازها) تار یا کلیدی که این صدا را بدهد، (نت) ر</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(از نظر چگونگی) زیر متوسط، زیر میانگین</quote>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">D-grade rice</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>برنج غیرمرغوب</quote>
+							</cit>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">a D student</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>شاگرد زیر میانگین</quote>
+							</cit>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>'d</orth>
+				</form>
+				<form>
+					<orth>d</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>شکل کوتاه شدهٔ واژه‌های: had و would</quote>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">I'd seen (I had seen)</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>دیده بودم.</quote>
+							</cit>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">I'd (I would) like to go</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>دوست دارم بروم.</quote>
+							</cit>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>املای قدیمی -ed که نشان زمان گذشته است: (foster'd (fostered</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>d</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(دودمان نامهٔ حیوانات) مادر</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>تاریخ</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>دختر</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>روز(ها)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>مرده</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>درجه، رتبه</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(فیزیک) چگالی</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>عازم است</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>عزیمت</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(دایره) قطر</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>مرد، فوت کرد</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>بخش، لشکر</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>دلار</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>پشتی، عقبی</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>میزان دارو، دز</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(داروسازی) بدهید</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>شاهی، غاز، پنی</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>E</orth>
+					<pron>ē</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(آموزش و پرورش) نمرهٔ بد، نمرهٔ بدتر از متوسط</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(موسیقی - نت) می</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>e pluribus unum</orth>
+					<pron>ē´ ploor´ē boos´ ōō´noom</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(یکی از شعارهای ایالت متحده - لاتین) از چندتا یکی، یکپارچگی علیرغم داشتن ملیت‌های مختلف</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>éclair</orth>
+					<pron>ā kler´</pron>
+					<pron>i-</pron>
+					<pron>ē-</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(شیرینی‌سازی) نان خامه‌ای دراز</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>F</orth>
+					<pron>ef</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(آموزش) نمرهٔ اف، نمرهٔ ردی، نمرهٔ 0</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(موسیقی) نت ((فا))، نت چهارم در میزان ((سی‌ماژور))</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>f</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>فاراد (farad)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(موسیقی) بلند، بلند بنوازید</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>فرلانگ (واحد طول)</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>g</orth>
+					<pron>jē</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>شتاب جاذبه</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>نیروی جاذبه، نیروی گرانشی، نیروی جی (G-force)</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>G</orth>
+					<pron>jē</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(عامیانه) هزار دلار</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(آموزش و پرورش) نمرهٔ خوب</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(موسیقی) نت پنجم در سی ماژور، کلید یا تاری که این نت را می‌زند</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(سینما) فیلمی که برای هر سنی مناسب است</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(فیزیک) نیروی گرانشی، نیروی جاذبه، نیروی جی (G-force)</quote>
+						</cit>
+					</sense>
+				</sense>
+				<sense n="2" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>رسانایی</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>بازی</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>اندازه، درجه</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(فیزیک) گوس</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>آلمانی</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>H</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(مردم‌شناسی) انسان</quote>
+						</cit>
+					</sense>
+				</sense>
+				<sense n="2" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>بندر</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>سخت</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>سختی</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>بلندی</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(خودمانی) هروئین</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>بلند</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(روی شیر آب) گرم</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>ساعت(ها)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>شوهر</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>صد(ها)</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>h</orth>
+					<pron>āch</pron>
+				</form>
+				<form>
+					<orth>H</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+						<number norm="plural">جمع</number>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>هشتمین حرف وات‌های (الفبای) انگلیسی (که صدای آن برابر با ((ح)) و یا ((ه')) فارسی است مانند: h در واژهٔ hat)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>هر چیز به شکل:H</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>نفر یا چیز هشتم</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>وابسته به H</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>i</orth>
+					<pron>ī</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(در شماره‌نویسی رومی) یک (مثلا III = 3)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(نجوم) میل مدار</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>نشان این عدد: (ریشهٔ دوم یا جذر منهای یک)</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>I</orth>
+					<pron>ī</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="pronoun">ضمیر</pos>
+						<pos norm="noun">اسم</pos>
+						<number norm="plural">جمع</number>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(ضمیر فاعلی اول شخص مفرد) من (ضمیر مفعولی اول شخص مفرد: me)</quote>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">I have two brothers</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>من دو برادر دارم.</quote>
+							</cit>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">I love her and she loves me</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>من او را دوست دارم و او مرا دوست دارد.</quote>
+							</cit>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">I love my children</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>من فرزندان خود را دوست دارم.</quote>
+							</cit>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">I will take what is mine</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>آنچه را که به‌من تعلق دارد برخواهم داشت.</quote>
+							</cit>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">I think therefore I am</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>(دکارت) فکر می‌کنم، لذا وجود دارم.</quote>
+							</cit>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">I would rather die on my feet than live on my knees</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>ایستاده (مردانه) مردن را به زانو زده زندگی کردن ترجیح می‌دهم.</quote>
+							</cit>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>خود، خودیت، خویشتن</quote>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">the "we" is more important than the "I"</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>((ما)) از ((من)) مهمتر است.</quote>
+							</cit>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>J</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>ژانویه</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(فیزیک) ژول (3 (joule - قاضی -4 ژوئیه -5 عدالت</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>j</orth>
+					<pron>jā</pron>
+				</form>
+				<form>
+					<orth>J</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="adjective">صفت</pos>
+						<pos norm="noun">اسم</pos>
+						<number norm="plural">جمع</number>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>دهمین وات الفبای انگلیسی (صدای آن برابر با ((ج)) است)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>صدای این حرف (مثلا آوای ((ج)) در واژهٔ joy )</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(در فهرست یا رده بندی و غیره) دهمین، دهم</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>هر چیز به این شکل:J</quote>
+						</cit>
+					</sense>
+				</sense>
+				<sense n="2" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(فیزیک) شمارهٔ فرضی مثل عدد منفی زیر رادیکال</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>K</orth>
+					<pron>kā</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(کامپیوتر) این شماره: 2 به توان 10 یا این شماره: 1024 (مثلا 8192 = 8k)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(عامیانه) هزار دلار</quote>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">she earns 40K now</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>درآمد او حالا 40 هزار دلار است.</quote>
+							</cit>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>k</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>قیراط</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>کیلو</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>کیلوگرم</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>کیلومتر</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>L</orth>
+					<pron>el</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+						<number norm="plural">جمع</number>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(معماری) ضمیمهٔ ساختمان که آن را به شکل "L" در می‌آورد</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(اعداد رومی) پنجاه</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>راه‌آهن هوایی</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>l</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>زمین</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>عرض جغرافیایی</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>بزرگ</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>حقوق</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>برگ</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>چپ</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>درازا</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>خط</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>لیره</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>لیتر</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>زیان</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>M</orth>
+					<pron>em</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(عدد نویسی رومی) هزار</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>m</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>مذکر</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>کتاب راهنما</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>متاهل</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(فیزیک) جرم، مدول</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>میانگین، حد وسط</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>متر</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>میل</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>میلیون</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>دقیقه</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>ماه</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>صبح</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>n</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(لاتین) متولد</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(ریاضی) شمارهٔ نامشخص</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>میخ، ناخن</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>نام</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>ملی</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(فیزیک) نوترون</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>نو</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>ظهر</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>شمال</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>اسم</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>عدد</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>N</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(شطرنج) اسب</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>ملی</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>نیروی دریایی</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(شیمی) نیتروژن</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>نوامبر</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>O</orth>
+					<pron>ō</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+						<number norm="plural">جمع</number>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>صفر</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>گروه خونی "o"</quote>
+						</cit>
+					</sense>
+				</sense>
+				<sense n="2" xml:lang="fa">
+					<gramGrp>
+						<pos norm="interjection">حرف ندا</pos>
+						<pos norm="noun">اسم</pos>
+						<number norm="plural">جمع</number>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(حرف ندا به نشان شگفتی یا ترس یا درد یا تاسف و غیره) آه‌!، وه‌!، ای‌!، آخ‌!، واه‌! (oh هم می‌نویسند)</quote>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">o, what a wonderful morning!</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>آه‌!چه بامداد خوبی‌!</quote>
+							</cit>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>o</orth>
+					<pron>ō</pron>
+				</form>
+				<form>
+					<orth>O</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+						<number norm="plural">جمع</number>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>حرف پانزدهم الفبای انگلیسی</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>صدای "o" در واژهٔ boat یا hot یا wrong</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>حرف چاپی به شکل "o"، هر چیز به شکل "o"، گرد، مدور</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(در فهرست‌ها و ردیف‌ها) رقم یا قلم پانزدهم، پانزدهمین</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>Öre</orth>
+					<pron>ö´rə</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+						<number norm="plural">جمع</number>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(واحد پولی کشورهای نروژ و دانمارک برابر با یک صدم کرون) اره</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>öre</orth>
+					<pron>ö´rə</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+						<number norm="plural">جمع</number>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(واحد پولی کشور سوئد برابر با یک صدم کرونا) اره</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>p</orth>
+					<pron>pē</pron>
+				</form>
+				<form>
+					<orth>P</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+						<number norm="plural">جمع</number>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>شانزدهمین حرف الفبای انگلیسی برابر با ((پ)) در فارسی، پی</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>صدای ((پ)) (مانند P در واژه‌های peace یا map)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(در فهرست یا ردیف بندی و غیره) شانزدهم، شانزدهمین</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>به شکلp</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>وابسته به حرف p</quote>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">* mind (or watch) one's p's and g's</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>مواظب حرف‌ها و اعمال خود بودن</quote>
+							</cit>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>P &amp; L</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>سود و زیان</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>Q</orth>
+					<pron>kyōō</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(مخفف: quality factor - الکترونیک)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>سازهٔ چونی، عامل کیفیت، سازهٔ کیو (Q factor هم می‌گویند)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(واحد انرژی حرارتی برابر با 10 به توان Btu 18 ) واحد کیو (Q unit هم می‌گویند)</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>q</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>کوارت</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>ربع، یک چهارم</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>هر سه ماه یک بار، سه ماهه</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>R</orth>
+					<pron>är</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(مخفف: restricted - آمریکا - طبقه بندی فیلم‌ها از نظراخلاقی و خشونت) ممنوع برای نوجوانان زیر 17 سال (مگر به اتفاق یک سرپرست)</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>r</orth>
+					<pron>är</pron>
+				</form>
+				<form>
+					<orth>R</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+						<number norm="plural">جمع</number>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>هیجدهمین حرف الفبای انگلیسی (برابر با ((ر)) در فارسی)، آر</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>صدای این حرف (مثلا در واژهٔ rude)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(در فهرست‌ها و ردیف‌ها و غیره) هیجدهمین</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>هر چیز به این شکل:R</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>s</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>مدرسه</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>ثانیه(ها)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>بخش</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>دیدن، ببینید</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>نیمه</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>سری</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>شیلینگ</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>نشان</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>نقره</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>مفرد، تک</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>جد</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>جامعه</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(فرزند) پسر</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>سوپرانو</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>جنوب</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>جنوبی</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>S</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>یوم سبت</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>مقدس</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>شنبه</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>ساکسون</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>دریانورد</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>سنا</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>سپتامبر</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>جنوب</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>یکشنبه</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>t</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>قاشق چایخوری</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>تلفن</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>دما</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>زمان</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(فعل) متعدی</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>T</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>رجوع شود به: <ref>absolute temperature</ref></quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(فیزیک) رجوع شود به: <ref>half-life</ref></quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>دما</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>پنج‌شنبه</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>تن</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>سه شنبه</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>قاشق سوپ خوری</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>U</orth>
+					<pron>yōō</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="adjective">صفت</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(عامیانه) وابسته به طبقات بالای اجتماع، فوقانی، بالایی</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>u</orth>
+					<pron>yōō</pron>
+				</form>
+				<form>
+					<orth>U</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+						<number norm="plural">جمع</number>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>بیست و یکمین حرف الفبای انگلیسی، یو</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>هر چیز به این شکل:U</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(در فهرست‌ها و غیره) بیست و یکم</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>صدای این حرف</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>übermensch</orth>
+					<pron>ü´bər mensh´</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+						<number norm="plural">جمع</number>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(آلمانی) سوپرمن، ابرمرد</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>V</orth>
+					<pron>vē</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(اعداد رومی) پنج</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(امریکا - عامیانه) اسکناس پنج‌دلاری</quote>
+						</cit>
+					</sense>
+				</sense>
+				<sense n="2" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(شیمی) نشان وانادیم (vanadium)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>ولت</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>پیروزی</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>v</orth>
+					<pron>vē</pron>
+				</form>
+				<form>
+					<orth>V</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+						<number norm="plural">جمع</number>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>بیست و دومین حرف الفبای انگلیسی (برابر با: ((و)))</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>صدای این حرف (مثلا "v" در vote یا very)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(فهرست و غیره) بیست و دومین</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>این شکل: v، هرچیز به این شکل</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>w</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>waist</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(watt(s</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(week(s</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>weight</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>west</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>western</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>wide</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>wife</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>with</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(فیزیک) work</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>width</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(win(s</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>W</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(شیمی) نشان تنگستن (tungsten)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>Wales</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>Washington</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(watt(s</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>Wednesday</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>West</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>western</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(win(s</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>X</orth>
+					<pron>eks</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(کسانی که نمی‌توانستند نام خود را امضا کنند) ضربدر</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(در پایین نامه‌ها) نشان بوسه</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(عدد نویسی رومی) ده</quote>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">twenty = xx</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>بیست = xx</quote>
+							</cit>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">thirty = xxx</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>سی = xxx</quote>
+							</cit>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>نشان مجهول، نشان گم</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(امریکا - رده بندی فیلم‌های سینما) ورود اشخاص زیر هفده سال ممنوع است</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(اشعه) ایکس، مجهول</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>x</orth>
+					<pron>eks</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(نشان اندازه نمایی) در</quote>
+						</cit>
+						<cit type="example">
+							<quote xml:lang="en">a 3*4 (meter) carpet</quote>
+							<cit type="trans" xml:lang="fa">
+								<quote>فرش سه در چهار (متر)</quote>
+							</cit>
+						</cit>
+					</sense>
+				</sense>
+				<sense n="2" xml:lang="fa">
+					<gramGrp>
+						<pos norm="transitive verb">فعل متعدی</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(با نوشتن x یا ضربدر جلو چیزی آن را)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>مشخص کردن، برگزیدن</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>حذف کردن، زدن</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(تعرفهٔ رای یا ورقه امتحان و غیره) گزینش، پاسخ، نام شخص گزیده شده (که جلو آن x می‌گذارند)</quote>
+						</cit>
+					</sense>
+				</sense>
+				<sense n="3" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(ریاضی)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>مجهول، نادانسته، گم (معمولا مجهول اول x و مجهول دوم y است)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>متغیر، جزان، ورتناک</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>رجوع شود به: <ref>abscissa</ref></quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>نشان ضربدر، علامت ضربدر</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>y</orth>
+					<pron>wī</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(ریاضی)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>دومین عامل مجهول (به اولین مجهول می‌گویند: x)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>متغیر، ورتناک، جزان</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>Y</orth>
+					<pron>wī</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+						<pos norm="noun">اسم</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>YMCA</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>YWCA</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>YMHA</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>YWHA</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>z</orth>
+					<pron>zē</pron>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="noun">اسم</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(ریاضی)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>سومین عامل ناشناخته (اولی x و دومی y است)</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>متغیر، دگرگون‌پذیر</quote>
+						</cit>
+					</sense>
+				</sense>
+				<sense n="2" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>zero</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>zone</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="en">
+					<orth>Z</orth>
+				</form>
+				<sense n="1" xml:lang="fa">
+					<gramGrp>
+						<pos norm="abbreviation">مخفف</pos>
+					</gramGrp>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(شیمی) شمارهٔ اتمی</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(برق) مقاومت</quote>
+						</cit>
+					</sense>
+					<sense xml:lang="fa">
+						<cit type="trans">
+							<quote>(نجوم) فاصلهٔ سمت‌الراس</quote>
+						</cit>
+					</sense>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>آ</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>uh</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>ا !</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>eh</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>ب‌ ب‌</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>tot</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>پ‌ هاش‌ (شیمی‌)</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>pH</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>تا</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>doublet</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>double</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>fellow</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>fold</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>immediate</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>lest</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>till</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>twin</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>match</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>mate</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>until</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>odd</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>once</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>pending</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>replication</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>to</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>tuck</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>when</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>within</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>ثابت‌</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>changeless</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>constant</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>firm</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>fixed</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>flat</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>immobile</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>immovable</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>incessant</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>indissoluble</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>indissolubly</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>inflexible</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>invariable</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>regular</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>rigid</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>set</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>stable</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>static</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>stationary</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>steadfast</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>steady</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>unchangeable</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>uniform</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>جا</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>accommodations</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>capacity</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>compartment</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>ery _</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>lieu</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>locale</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>locality</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>location</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>locus</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>place</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>point</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>position</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>print</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>quarters</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>rack</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>room</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>site</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>situation</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>space</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>spot</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>stand</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>station</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>stead</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>void</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>where</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>whereabouts</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>zone</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>lot</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>چاب‌ (جانورشناسی‌)</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>chub</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>حائل‌</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>bulkhead</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>divide</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>separation</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>خائن‌</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>betrayer</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>collaborationist</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>disloyal</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>faithless</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>false</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>falsehearted</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>foul</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>recreant</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>insidious</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>Judas</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>perfidious</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>quisling</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>sneaky</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>traitor</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>traitorous</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>treacherous</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>turncoat</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>two-faced</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>د!</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>eh</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>pooh</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>ذائقه‌</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>palate</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>relish</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>taste</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>ر (موسیقی‌)</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>re</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>زا</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>bearing</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>gen _</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>ژابو (پوشاک‌)</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>jabot</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>س‌! (ندا برای‌ جلب‌ توجه‌ یا صدا زدن‌)</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>psst</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>ش‌! (حرف‌ ندا)</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>hist</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>صابون‌</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>soap</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>ضابطه‌</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>criterion</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>norm</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>standard</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>طابق‌ النعل‌ بالنعل‌</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>textual</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>verbatim</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>ظالم‌</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>barbarian</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>atrociousness</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>barbaric</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>barbarous</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>cruel</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>fell</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>ferocious</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>heavy-handed</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>inclemency</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>inclement</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>inhuman</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>iniquitous</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>merciless</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>oppressive</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>pitiless</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>remorseless</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>savage</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>truculent</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>tyrannical</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>tyrant</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>unfeeling</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>unmerciful</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>unsparing</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>عائله‌</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>dependent</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>غائله‌</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>rebellion</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>tumult</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>unrest</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>فا (موسیقی‌ – سلفژ)</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>fa</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>قائد</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>chief</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>leader</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>کائنات‌</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>cosmos</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>creation</ref>
+						</quote>
+					</cit>
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>universe</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>گائیدن‌ (خودمانی‌)</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>screw</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>لآب‌</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>enamel</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>م‌ م‌ (حرف‌ ندا)</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>hmm</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>نا</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>sap</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>و</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>and</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>ها (حرف‌ ندا حاکی‌ از شگفتی‌ یا خشم‌)</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>ha</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form xml:lang="fa">
+					<orth>یا</orth>
+				</form>
+				<sense n="1" xml:lang="en">
+					<cit type="trans" xml:lang="en">
+						<quote>
+							<ref>or</ref>
+						</quote>
+					</cit>
+				</sense>
+			</entry>
+        </body>
+    </text>
+</TEI>
+

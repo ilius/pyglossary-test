@@ -1,0 +1,98 @@
+##name	Sample for all alphabets from Aryanpour Dictionary (en-fa, fa-en)
+##input_file_size	33941
+##edition	2023.02.17
+##copyright	Licensed under the <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode">Creative Commons Attribution-ShareAlike 3.0 Unported</a> license
+##publisher	Saeed Rasooli
+##creationTime	2023-02-17
+##sourceLang	English
+##targetLang	Persian
+-ability|ability	<div>/<font color="gray">ə bil´ə tē</font>/<br><div dir="rtl"><font color="green">پسوند</font><br><div>پسوند (اسم‌ساز): توانایی، تمایل، قابلیت، ظرفیت</div></div></div>
+'sblood|sblood	<div>/<font color="gray">zblud</font>/<br><div dir="rtl"><font color="green">حرف ندا</font><br><div>(مهجور) به خدا قسم‌!، مرگ تو!</div></div></div>
+à bon marché	<div>/<font color="gray">å bōn mår shā´</font>/<br><div dir="rtl"><div>(فرانسه) به قیمت خوب، ارزان، مناسب</div></div></div>
+a cappella	<div>/<font color="gray">ä´kə pel´ə</font>/<br><div dir="rtl"><div>آواز بدون همراهی موسیقی (به ویژه آواز کلیسایی)</div></div></div>
+A level	<div><div dir="rtl"><div>(انگلیس) مرحلهٔ دوم و پیشرفته‌تر امتحانات دورهٔ متوسطه (که معمولا دو سال بعد از امتحان اول انجام می‌شود) (رجوع شود به: <a href="bword://O level">O level</a>)، قبولی در این امتحانات (A-level هم می‌نویسند)</div></div></div>
+B & B|B andB	<div><div dir="rtl"><font color="green">مخفف</font><br><ol><li><div>(مسافرخانه‌ها) بستر و صبحانه، اتاق و صبحانه</div></li><li><div>(مشروب) براندی و بندیکتین</div></li></ol></div></div>
+baaskaap	<div>/<font color="gray">bäs´käp´</font>/<br><div dir="rtl"><font color="green">اسم</font><br><div>(افریقای جنوبی) سیاست تسلط کامل سفیدپوستان بر سیاهان (مقایسه شود با: apartheid)</div></div></div>
+C & W	<div><div dir="rtl"><font color="green">مخفف</font><br><div>(موسیقی) کانتری (ویژهٔ ایالات جنوبی ایالات متحده) و غربی (ویژهٔ جنوب باختری ایالات متحده)</div></div></div>
+ca' canny	<div><div dir="rtl"><div>رجوع شود به: <a href="bword://canny">canny</a></div></div></div>
+D layer	<div><div dir="rtl"><div>(جغرافی و نجوم) لایهٔ دی، لایهٔ دال (زیرین‌ترین لایه یون سپهر)</div></div></div>
+d'Arblay	<div>/<font color="gray">där´blā</font>/<br><div dir="rtl"><div>رجوع شود به: <a href="bword://Fanny Burney">Fanny Burney</a></div></div></div>
+E & OE	<div><div dir="rtl"><font color="green">مخفف</font><br><div>به استثنای اشتباهات و حذفیات، به جز لغزش‌ها و افتادگی‌ها</div></div></div>
+e pluribus unum	<div>/<font color="gray">ē´ ploor´ē boos´ ōō´noom</font>/<br><div dir="rtl"><div>(یکی از شعارهای ایالت متحده - لاتین) از چندتا یکی، یکپارچگی علیرغم داشتن ملیت‌های مختلف</div></div></div>
+éclair	<div>/<font color="gray">ā kler´</font>/,  /<font color="gray">i-</font>/,  /<font color="gray">ē-</font>/<br><div dir="rtl"><font color="green">اسم</font><br><div>(شیرینی‌سازی) نان خامه‌ای دراز</div></div></div>
+F & WS	<div><div dir="rtl"><div>مخفف : (امریکا) ادارهٔ کل شیلات و جانورداری</div></div></div>
+f-number	<div>/<font color="gray">ef´num´bər</font>/<br><div dir="rtl"><font color="green">اسم</font><br><div>(عکاسی و فیلم‌برداری و غیره) عدد اف (نسبت فاصلهٔ کانونی عدسی به قطر موثر دیافراگم)</div></div></div>
+G clef	<div><div dir="rtl"><div>رجوع شود به: <a href="bword://treble clef">treble clef</a></div></div></div>
+g-cal	<div><div dir="rtl"><font color="green">مخفف</font><br><div>گرم کالری (میزان انرژی لازم برای آنکه حرارت یک گرم آب یک درجه بالا برود)</div></div></div>
+H-hour	<div>/<font color="gray">āch´our´</font>/<br><div dir="rtl"><font color="green">اسم</font><br><div>رجوع شود به: <a href="bword://zero hour">zero hour</a></div></div></div>
+ha-ha	<div>/<font color="gray">hä´hä´</font>/<br><div dir="rtl"><ul><li><font color="green">حرف ندا،  اسم</font><br><div>رجوع شود به: ha</div></li><li><font color="green">اسم</font><br><div>(معماری - دیواری که در گودی به دور باغ و غیره می‌سازند تا در عین حفاظت جلو منظرهٔ خارج را نگیرد) دیوار کندک (haha هم می‌نویسند)</div></li></ul></div></div>
+I of M|IOM	<div><div dir="rtl"><font color="green">مخفف</font><br><div>(انگلیس) جزیرهٔ من</div></div></div>
+iambic	<div>/<font color="gray">ī am´bik</font>/<br><div dir="rtl"><font color="green">صفت،  اسم</font><br><ol><li><div>وابسته به ایامب (یکان شعری دارای یک هجای غیرموکد و سپس یک هجای موکد)، وابسته به وتد مجموع، ایامبیک</div></li><li><div>(معمولا جمع) شعری که بر این وزن نوشته شده باشد</div></li></ol></div></div>
+J particle	<div><div dir="rtl"><div>رجوع شود به: <a href="bword://psi particle">psi particle</a></div></div></div>
+j'accuse	<div>/<font color="gray">zhå küz´</font>/<br><div dir="rtl"><font color="green">اسم</font><br><div>(فرانسه: من متهم می‌کنم) اعتراض شدید، اتهام، تقصیر گذاری</div></div></div>
+K ration	<div><div dir="rtl"><div>(امریکا – جنگ دوم جهانی) جیرهٔ پیش آماد (خوراک از پیش پخته که در جبهه به سربازان می‌دادند)</div></div></div>
+kabala|kabbala	<div>/<font color="gray">kab´ə lə</font>/,  /<font color="gray">kə bä´lə</font>/<br><div dir="rtl"><font color="green">اسم</font><br><div>رجوع شود به: <a href="bword://cabala">cabala</a></div></div></div>
+L asparaginase	<div>/<font color="gray">el´as par´ə ji nēs´</font>/<br><div dir="rtl"><font color="green">اسم</font><br><div>(دارو‌سازی) ال اسپاراجیناس (در درمان سرطان خون به‌کار می‌رود)</div></div></div>
+la-di-da	<div>/<font color="gray">lä´dē dä´</font>/<br><div dir="rtl"><font color="green">صفت،  حرف ندا،  اسم</font><br><ol><li><div>(عامیانه)</div></li><li><div>(کسی که با لفظ قلم یا خیلی مصنوعی و با ژست حرف می‌زند) مغلق‌گو، پزو، پزی</div></li><li><div>طرز حرف زدن پر ژست و افاده، ناز و غمزه در حرف زدن</div></li><li><div>(ندا حاکی از تمسخر یا تقلید از آدم تهی و متظاهر) آره جونی‌! (la-de-da هم می‌نویسند)</div></li></ol></div></div>
+M-day	<div>/<font color="gray">em´dā´</font>/<br><div dir="rtl"><font color="green">اسم</font><br><div>روز آغاز آمادگی برای جنگ</div></div></div>
+ma'am	<div>/<font color="gray">mam</font>/<br><div dir="rtl"><font color="green">اسم</font><br><div>(عامیانه - در خطاب) مادام، خانم</div><div class="example" style="padding: 10px 0px;"><div lang="en" dir="ltr">thank you, ma'am!</div><div lang="fa" dir="rtl">سپاسگزارم خانم‌!</div></div></div></div>
+N Eng	<div><div dir="rtl"><font color="green">مخفف</font><br><div>New England</div></div></div>
+nabob	<div>/<font color="gray">nā´bäb´</font>/<br><div dir="rtl"><font color="green">اسم</font><br><ol><li><div>(از عربی: نواب)</div></li><li><div>(هندوستان دوران مغولان) استاندار</div></li><li><div>(هند) آدم پولدار و پر نفوذ</div></li></ol></div></div>
+O level	<div><div dir="rtl"><ol><li><div>(انگلیس)</div></li><li><div>آزمون پایان دبیرستان و ورود به دانشگاه در سطح عادی</div></li><li><div>نمرهٔ قبولی در این امتحانات</div></li></ol></div></div>
+o'clock	<div>/<font color="gray">ə kläk´</font>/,  /<font color="gray">ō-</font>/<br><div dir="rtl"><font color="green">قید</font><br><ol><li><div>طبق ساعت، ساعت</div><div class="example" style="padding: 10px 0px;"><div lang="en" dir="ltr">ten o'clock at night</div><div lang="fa" dir="rtl">ساعت ده شب</div></div></li><li><div>(برای نشان دادن جهت حرکت هواپیما و غیره بر حسب شماره‌های صفحهٔ ساعت) سوی</div><div class="example" style="padding: 10px 0px;"><div lang="en" dir="ltr">enemy fighter planes are approaching from 12 o'clock</div><div lang="fa" dir="rtl">جنگنده‌های دشمن دارند از جلو نزدیک می‌شوند.</div></div></li></ol></div></div>
+P & L	<div><div dir="rtl"><font color="green">مخفف</font><br><div>سود و زیان</div></div></div>
+p-n junction	<div><div dir="rtl"><div>(الکترونیک) پیوند پی - ان، پیوندگاه پی - ان</div></div></div>
+Q and A|Q &A	<div><div dir="rtl"><font color="green">مخفف</font><br><div>پرسش و پاسخ، سین‌جیم، سوال و جواب</div></div></div>
+qanat	<div>/<font color="gray">kä´nät´</font>/<br><div dir="rtl"><font color="green">اسم</font><br><div>(از ریشهٔ فارسی: کندآب) قنات، کاریز</div></div></div>
+R & D	<div><div dir="rtl"><font color="green">مخفف</font><br><div>پژوهش و گسترش (توسعه)</div></div></div>
+r-color	<div>/<font color="gray">är´kul´ər</font>/<br><div dir="rtl"><font color="green">اسم</font><br><div>(زبان‌شناسی) واکهٔ r مانند، r - واکه</div></div></div>
+S & L	<div><div dir="rtl"><font color="green">مخفف</font><br><div>(آمریکا) بانک پس‌انداز و وام خانه‌سازی</div></div></div>
+s'il vous plaît	<div>/<font color="gray">sē vōō ple´</font>/,  /<font color="gray">sēl</font>/<br><div dir="rtl"><div>(فرانسه) لطفا، خواهش می‌کنم، بفرمایید، اگر میل شما باشد</div></div></div>
+T cell	<div><div dir="rtl"><div>(زیست‌شناسی) یاختهٔ آویشنگ</div></div></div>
+ta-ta	<div>/<font color="gray">tä tä´</font>/<br><div dir="rtl"><font color="green">حرف ندا</font><br><div>(انگلیس - عامیانه) خداحافظ‌!</div></div></div>
+U bolt	<div><div dir="rtl"><div>پیچ رکابی، کرپی</div></div></div>
+übermensch	<div>/<font color="gray">ü´bər mensh´</font>/<br><div dir="rtl"><font color="green">اسم،  جمع</font><br><div>(آلمانی) سوپرمن، ابرمرد</div></div></div>
+ubi supra	<div>/<font color="gray">ōō´ bē sōō´ prə</font>/<br><div dir="rtl"><div>(لاتین) در محل فوق‌الذکر</div></div></div>
+v imp	<div><div dir="rtl"><font color="green">مخفف</font><br><div>impersonal verb</div></div></div>
+V Rev	<div><div dir="rtl"><font color="green">مخفف</font><br><div>Very Reverent</div></div></div>
+wa-wa	<div>/<font color="gray">wä´wä´</font>/<br><div dir="rtl"><font color="green">اسم</font><br><div>رجوع شود به: <a href="bword://wah-wah">wah-wah</a></div></div></div>
+Wabash	<div>/<font color="gray">wô´bash´</font>/<br><div dir="rtl"><div>رودخانهٔ واباش (در ایالت اوهایو - امریکا)</div></div></div>
+X chromosome	<div><div dir="rtl"><div>(زادشناسی - یکی از کروموزوم‌های جنسی) فامتن ایکس، کروموزوم ایکس</div></div></div>
+x div|XD	<div><div dir="rtl"><div>(سهام و غیره) بی سود، بدون بهره</div></div></div>
+Y chromosome	<div><div dir="rtl"><div>کروموزوم Y (رجوع شود به: <a href="bword://sex chromosome">sex chromosome</a>)</div></div></div>
+y-axis	<div>/<font color="gray">wī´ak´sis</font>/<br><div dir="rtl"><font color="green">اسم،  جمع</font><br><div>(ریاضی - هندسه) محور عرض‌ها، محورy</div></div></div>
+z-axis	<div>/<font color="gray">zē´ak´sis</font>/<br><div dir="rtl"><font color="green">اسم،  جمع</font><br><div>(هندسه) محور z، محور، آسه</div></div></div>
+Zaanstad	<div>/<font color="gray">zän´stät´</font>/<br><div dir="rtl"><div>شهر زانستاد (در باختر هلند)</div></div></div>
+آ ت‌ پ‌(زیست‌ شناسی‌)	<div><div><a href="bword://ATP">ATP</a></div></div>
+ائتلاف‌	<div><ol><li><div><a href="bword://alliance">alliance</a></div></li><li><div><a href="bword://coalition">coalition</a></div></li><li><div><a href="bword://combination">combination</a></div></li><li><div><a href="bword://combine">combine</a></div></li><li><div><a href="bword://fusion">fusion</a></div></li></ol></div>
+ب‌ ب‌	<div><div><a href="bword://tot">tot</a></div></div>
+پ‌ هاش‌ (شیمی‌)	<div><div><a href="bword://pH">pH</a></div></div>
+تا آن‌ زمان‌	<div><div><a href="bword://theretofore">theretofore</a></div></div>
+ثابت‌	<div><ol><li><div><a href="bword://changeless">changeless</a></div></li><li><div><a href="bword://constant">constant</a></div></li><li><div><a href="bword://firm">firm</a></div></li><li><div><a href="bword://fixed">fixed</a></div></li><li><div><a href="bword://flat">flat</a></div></li><li><div><a href="bword://immobile">immobile</a></div></li><li><div><a href="bword://immovable">immovable</a></div></li><li><div><a href="bword://incessant">incessant</a></div></li><li><div><a href="bword://indissoluble">indissoluble</a></div></li><li><div>indissolubly</div></li><li><div><a href="bword://inflexible">inflexible</a></div></li><li><div><a href="bword://invariable">invariable</a></div></li><li><div><a href="bword://regular">regular</a></div></li><li><div><a href="bword://rigid">rigid</a></div></li><li><div><a href="bword://set">set</a></div></li><li><div><a href="bword://stable">stable</a></div></li><li><div><a href="bword://static">static</a></div></li><li><div><a href="bword://stationary">stationary</a></div></li><li><div><a href="bword://steadfast">steadfast</a></div></li><li><div><a href="bword://steady">steady</a></div></li><li><div>unchangeable</div></li><li><div><a href="bword://uniform">uniform</a></div></li></ol></div>
+جا (عامیانه‌)	<div><div><a href="bword://slot">slot</a></div></div>
+چاب‌ (جانورشناسی‌)	<div><div><a href="bword://chub">chub</a></div></div>
+حائل‌	<div><ol><li><div><a href="bword://bulkhead">bulkhead</a></div></li><li><div><a href="bword://divide">divide</a></div></li><li><div><a href="bword://separation">separation</a></div></li></ol></div>
+خائن‌	<div><ol><li><div>betrayer</div></li><li><div><a href="bword://collaborationist">collaborationist</a></div></li><li><div><a href="bword://disloyal">disloyal</a></div></li><li><div><a href="bword://faithless">faithless</a></div></li><li><div><a href="bword://false">false</a></div></li><li><div><a href="bword://falsehearted">falsehearted</a></div></li><li><div><a href="bword://foul">foul</a></div></li><li><div><a href="bword://recreant">recreant</a></div></li><li><div><a href="bword://insidious">insidious</a></div></li><li><div><a href="bword://Judas">Judas</a></div></li><li><div><a href="bword://perfidious">perfidious</a></div></li><li><div><a href="bword://quisling">quisling</a></div></li><li><div><a href="bword://sneaky">sneaky</a></div></li><li><div><a href="bword://traitor">traitor</a></div></li><li><div><a href="bword://traitorous">traitorous</a></div></li><li><div><a href="bword://treacherous">treacherous</a></div></li><li><div><a href="bword://turncoat">turncoat</a></div></li><li><div><a href="bword://two-faced">two-faced</a></div></li></ol></div>
+د! (خودمانی‌)	<div><div><a href="bword://hooey">hooey</a></div></div>
+ذائقه‌	<div><ol><li><div><a href="bword://palate">palate</a></div></li><li><div><a href="bword://relish">relish</a></div></li><li><div><a href="bword://taste">taste</a></div></li></ol></div>
+ر (موسیقی‌)	<div><div><a href="bword://re">re</a></div></div>
+زائد (چیز)	<div><div><a href="bword://superfluity">superfluity</a></div></div>
+ژابو (پوشاک‌)	<div><div><a href="bword://jabot">jabot</a></div></div>
+س‌! (ندا برای‌ جلب‌ توجه‌ یا صدا زدن‌)	<div><div><a href="bword://psst">psst</a></div></div>
+ش‌! (حرف‌ ندا)	<div><div><a href="bword://hist">hist</a></div></div>
+صابون‌	<div><div><a href="bword://soap">soap</a></div></div>
+ضابطه‌	<div><ol><li><div><a href="bword://criterion">criterion</a></div></li><li><div><a href="bword://norm">norm</a></div></li><li><div><a href="bword://standard">standard</a></div></li></ol></div>
+طابق‌ النعل‌ بالنعل‌	<div><ol><li><div><a href="bword://textual">textual</a></div></li><li><div><a href="bword://verbatim">verbatim</a></div></li></ol></div>
+ظالم‌	<div><ol><li><div><a href="bword://barbarian">barbarian</a></div></li><li><div>atrociousness</div></li><li><div><a href="bword://barbaric">barbaric</a></div></li><li><div><a href="bword://barbarous">barbarous</a></div></li><li><div><a href="bword://cruel">cruel</a></div></li><li><div><a href="bword://fell">fell</a></div></li><li><div><a href="bword://ferocious">ferocious</a></div></li><li><div><a href="bword://heavy-handed">heavy-handed</a></div></li><li><div>inclemency</div></li><li><div><a href="bword://inclement">inclement</a></div></li><li><div><a href="bword://inhuman">inhuman</a></div></li><li><div><a href="bword://iniquitous">iniquitous</a></div></li><li><div><a href="bword://merciless">merciless</a></div></li><li><div><a href="bword://oppressive">oppressive</a></div></li><li><div><a href="bword://pitiless">pitiless</a></div></li><li><div><a href="bword://remorseless">remorseless</a></div></li><li><div><a href="bword://savage">savage</a></div></li><li><div><a href="bword://truculent">truculent</a></div></li><li><div><a href="bword://tyrannical">tyrannical</a></div></li><li><div><a href="bword://tyrant">tyrant</a></div></li><li><div><a href="bword://unfeeling">unfeeling</a></div></li><li><div><a href="bword://unmerciful">unmerciful</a></div></li><li><div><a href="bword://unsparing">unsparing</a></div></li></ol></div>
+عائله‌	<div><div><a href="bword://dependent">dependent</a></div></div>
+غائله‌	<div><ol><li><div><a href="bword://rebellion">rebellion</a></div></li><li><div><a href="bword://tumult">tumult</a></div></li><li><div><a href="bword://unrest">unrest</a></div></li></ol></div>
+فا (موسیقی‌ – سلفژ)	<div><div><a href="bword://fa">fa</a></div></div>
+قائل‌ شدن‌	<div><div><a href="bword://attach">attach</a></div></div>
+کائنات‌	<div><ol><li><div><a href="bword://cosmos">cosmos</a></div></li><li><div><a href="bword://creation">creation</a></div></li><li><div><a href="bword://universe">universe</a></div></li></ol></div>
+گابلین‌	<div><div><a href="bword://hobgoblin">hobgoblin</a></div></div>
+لا (چوب‌ یا پارچه‌ و غیره‌)	<div><div><a href="bword://ply">ply</a></div></div>
+م‌ م‌ (حرف‌ ندا)	<div><div><a href="bword://hmm">hmm</a></div></div>
+نا آراسته‌	<div><div><a href="bword://inchoate">inchoate</a></div></div>
+ها (حرف‌ ندا حاکی‌ از شگفتی‌ یا خشم‌)	<div><div><a href="bword://ha">ha</a></div></div>
+و السان‌ ها (جانور‌شناسی‌)	<div><div><a href="bword://cetacean">cetacean</a></div></div>
+یا ... یا	<div><div><a href="bword://either">either</a></div></div>
