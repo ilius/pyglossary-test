@@ -1,10 +1,10 @@
 #!/bin/bash
 
-#pyglossary "006-en-oxfjord_v10.6_c0_t2.dictionary" "006-en-oxfjord_v10.6_c0_t2.txt"
+pyglossary "006-en-oxfjord_v10.6_c0_t2.dictionary" "006-en-oxfjord_v10.6_c0_t2.txt"
 # [ERROR] WRONG priority or parental control:44 (section: 0x15e), skipping KeyText.data file
 
 
-#pyglossary "006-en-oxfjord_v10.6_c1_t2.dictionary" "006-en-oxfjord_v10.6_c1_t2.txt"
+pyglossary "006-en-oxfjord_v10.6_c1_t2.dictionary" "006-en-oxfjord_v10.6_c1_t2.txt"
 # [ERROR] WRONG priority or parental control:44 (section: 0x15e), skipping KeyText.data file
 
 
