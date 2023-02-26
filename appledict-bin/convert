@@ -1,33 +1,34 @@
 #!/bin/bash
+set -x
 
-pyglossary "002-simple.dictionary" "002-simple.txt"
+pyglossary "002-simple.dictionary" "002-simple.txt" "$@"
 
-pyglossary "006-en-oxfjord_v10.5_c0_t0.dictionary" "006-en-oxfjord_v10.5_c0_t0.txt"
-pyglossary "006-en-oxfjord_v10.5_c1_t0.dictionary" "006-en-oxfjord_v10.5_c1_t0.txt"
+pyglossary "006-en-oxfjord_v10.5_c0_t0.dictionary" "006-en-oxfjord_v10.5_c0_t0.txt" "$@"
+pyglossary "006-en-oxfjord_v10.5_c1_t0.dictionary" "006-en-oxfjord_v10.5_c1_t0.txt" "$@"
 
-pyglossary "006-en-oxfjord_v10.6_c0_t0.dictionary" "006-en-oxfjord_v10.6_c0_t0.txt"
-pyglossary "006-en-oxfjord_v10.6_c0_t1.dictionary" "006-en-oxfjord_v10.6_c0_t1.txt"
+pyglossary "006-en-oxfjord_v10.6_c0_t0.dictionary" "006-en-oxfjord_v10.6_c0_t0.txt" "$@"
+pyglossary "006-en-oxfjord_v10.6_c0_t1.dictionary" "006-en-oxfjord_v10.6_c0_t1.txt" "$@"
 
-pyglossary "006-en-oxfjord_v10.6_c0_t3.dictionary" "006-en-oxfjord_v10.6_c0_t3.txt"
-pyglossary "006-en-oxfjord_v10.6_c1_t0.dictionary" "006-en-oxfjord_v10.6_c1_t0.txt"
-pyglossary "006-en-oxfjord_v10.6_c1_t1.dictionary" "006-en-oxfjord_v10.6_c1_t1.txt"
+pyglossary "006-en-oxfjord_v10.6_c0_t3.dictionary" "006-en-oxfjord_v10.6_c0_t3.txt" "$@"
+pyglossary "006-en-oxfjord_v10.6_c1_t0.dictionary" "006-en-oxfjord_v10.6_c1_t0.txt" "$@"
+pyglossary "006-en-oxfjord_v10.6_c1_t1.dictionary" "006-en-oxfjord_v10.6_c1_t1.txt" "$@"
 
-pyglossary "006-en-oxfjord_v10.6_c1_t3.dictionary" "006-en-oxfjord_v10.6_c1_t3.txt"
-pyglossary "006-en-oxfjord_v10.6_c2_t0.dictionary" "006-en-oxfjord_v10.6_c2_t0.txt"
-pyglossary "006-en-oxfjord_v10.6_c2_t1.dictionary" "006-en-oxfjord_v10.6_c2_t1.txt"
+pyglossary "006-en-oxfjord_v10.6_c1_t3.dictionary" "006-en-oxfjord_v10.6_c1_t3.txt" "$@"
+pyglossary "006-en-oxfjord_v10.6_c2_t0.dictionary" "006-en-oxfjord_v10.6_c2_t0.txt" "$@"
+pyglossary "006-en-oxfjord_v10.6_c2_t1.dictionary" "006-en-oxfjord_v10.6_c2_t1.txt" "$@"
 
-pyglossary "006-en-oxfjord_v10.6_c2_t3.dictionary" "006-en-oxfjord_v10.6_c2_t3.txt"
+pyglossary "006-en-oxfjord_v10.6_c2_t3.dictionary" "006-en-oxfjord_v10.6_c2_t3.txt" "$@"
 
-pyglossary "006-en-oxfjord_v10.11_c2_t3.dictionary" "006-en-oxfjord_v10.11_c2_t3.txt"
+pyglossary "006-en-oxfjord_v10.11_c2_t3.dictionary" "006-en-oxfjord_v10.11_c2_t3.txt" "$@"
 
-pyglossary "006-en-oxfjord_v10.6_c0_t2.dictionary" "006-en-oxfjord_v10.6_c0_t2.txt"
+pyglossary "006-en-oxfjord_v10.6_c0_t2.dictionary" "006-en-oxfjord_v10.6_c0_t2.txt" "$@"
 # previously: [ERROR] WRONG priority or parental control:44 (section: 0x15e), skipping KeyText.data file
 
 
-pyglossary "006-en-oxfjord_v10.6_c1_t2.dictionary" "006-en-oxfjord_v10.6_c1_t2.txt"
+pyglossary "006-en-oxfjord_v10.6_c1_t2.dictionary" "006-en-oxfjord_v10.6_c1_t2.txt" "$@"
 # previously: [ERROR] WRONG priority or parental control:44 (section: 0x15e), skipping KeyText.data file
 
-pyglossary "006-en-oxfjord_v10.6_c2_t2.dictionary" "006-en-oxfjord_v10.6_c2_t2.txt"
+pyglossary "006-en-oxfjord_v10.6_c2_t2.dictionary" "006-en-oxfjord_v10.6_c2_t2.txt" "$@"
 # previously:
 #  File "/home/s/pyglossary/pyglossary/plugins/appledict_bin/appledict_file_tools.py", line 55, in read_2_bytes_here
 #    return ord(higher_byte) * 0x100 + ord(lower_byte)
