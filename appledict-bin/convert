@@ -42,3 +42,21 @@ convert "006-en-oxfjord_v10.6_c2_t2"
 #    return ord(higher_byte) * 0x100 + ord(lower_byte)
 # TypeError: ord() expected a character, but string of length 0 found
 
+
+
+# "006-en-oxfjord_v10.5_c0_t0.txt": "2d3844bf",
+# "006-en-oxfjord_v10.5_c1_t0.txt": "2d3844bf",
+# "006-en-oxfjord_v10.6_c0_t0.txt": "2d3844bf",
+# "006-en-oxfjord_v10.6_c0_t1.txt": "2d3844bf",
+# "006-en-oxfjord_v10.6_c0_t3.txt": "2d3844bf",
+# "006-en-oxfjord_v10.6_c1_t0.txt": "2d3844bf",
+# "006-en-oxfjord_v10.6_c1_t1.txt": "2d3844bf",
+# "006-en-oxfjord_v10.6_c1_t3.txt": "2d3844bf",
+# "006-en-oxfjord_v10.6_c2_t0.txt": "2d3844bf",
+# "006-en-oxfjord_v10.6_c2_t1.txt": "2d3844bf",
+# "006-en-oxfjord_v10.6_c2_t3.txt": "2d3844bf",
+# "006-en-oxfjord_v10.11_c2_t3.txt": "2d3844bf",
+
+# "006-en-oxfjord_v10.6_c0_t2.txt": "8b372838",
+# "006-en-oxfjord_v10.6_c1_t2.txt": "8b372838",
+# "006-en-oxfjord_v10.6_c2_t2.txt": "8b372838",
