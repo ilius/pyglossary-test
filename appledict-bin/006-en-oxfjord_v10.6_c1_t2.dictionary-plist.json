@@ -1,0 +1,105 @@
+{
+	"IDXDictionaryIndexes": [
+		{
+			"IDXIndexSupportDataID": false,
+			"IDXIndexWritable": false,
+			"IDXIndexPath": "KeyText.index",
+			"IDXIndexAccessMethod": "com.apple.TrieAccessMethod",
+			"IDXIndexName": "DCSKeywordIndex",
+			"IDXIndexDataSizeLength": 2,
+			"IDXIndexBigEndian": false,
+			"TrieIndexCompressionType": 2,
+			"IDXIndexDataFields": {
+				"IDXExternalDataFields": [
+					{
+						"IDXDataFieldName": "DCSExternalBodyID",
+						"IDXDataSize": 4,
+						"IDXIndexName": "DCSBodyDataIndex"
+					}
+				],
+				"IDXVariableDataFields": [
+					{
+						"IDXDataFieldName": "DCSKeyword",
+						"IDXDataSizeLength": 2
+					},
+					{
+						"IDXDataFieldName": "DCSHeadword",
+						"IDXDataSizeLength": 2
+					},
+					{
+						"IDXDataFieldName": "DCSEntryTitle",
+						"IDXDataSizeLength": 2
+					}
+				]
+			},
+			"IDXIndexKeyMatchingMethods": [
+				"IDXExactMatch",
+				"IDXPrefixMatch",
+				"IDXCommonPrefixMatch",
+				"IDXWildcardMatch",
+				"IDXAllMatch"
+			],
+			"TrieAuxiliaryDataOptions": {
+				"HeapDataCompressionType": 3,
+				"IDXIndexPath": "KeyText.data"
+			}
+		},
+		{
+			"IDXIndexSupportDataID": false,
+			"IDXIndexWritable": false,
+			"IDXIndexPath": "EntryID.index",
+			"IDXIndexAccessMethod": "com.apple.TrieAccessMethod",
+			"IDXIndexName": "DCSReferenceIndex",
+			"IDXIndexDataSizeLength": 2,
+			"IDXIndexBigEndian": false,
+			"TrieIndexCompressionType": 2,
+			"IDXIndexDataFields": {
+				"IDXExternalDataFields": [
+					{
+						"IDXDataFieldName": "DCSExternalBodyID",
+						"IDXDataSize": 4,
+						"IDXIndexName": "DCSBodyDataIndex"
+					}
+				]
+			},
+			"IDXIndexKeyMatchingMethods": [
+				"IDXExactMatch"
+			],
+			"TrieAuxiliaryDataOptions": {
+				"IDXIndexPath": "EntryID.data"
+			}
+		},
+		{
+			"IDXIndexPath": "Body.data",
+			"IDXIndexAccessMethod": "com.apple.HeapAccessMethod",
+			"IDXIndexName": "DCSBodyDataIndex",
+			"IDXIndexBigEndian": false,
+			"IDXIndexDataFields": {
+				"IDXVariableDataFields": [
+					{
+						"IDXDataFieldName": "DCSBodyData",
+						"IDXDataSizeLength": 4
+					}
+				]
+			},
+			"IDXIndexWritable": false,
+			"HeapDataCompressionType": 1,
+			"IDXIndexSupportDataID": true
+		}
+	],
+	"CFBundleIdentifier": "com.apple.dictionary.ODE",
+	"DCSDictionaryManufacturerName": "Apple Inc..",
+	"CFBundleInfoDictionaryVersion": "6.0",
+	"DCSDictionaryCSS": "DefaultStyle.css",
+	"DCSDictionaryDefaultPrefs": {},
+	"DCSDictionaryXSL": "",
+	"CFBundleShortVersionString": "1.0",
+	"DCSBuildToolVersion": 3,
+	"CFBundleDisplayName": "Oxford Dictionary of English",
+	"DCSDictionaryPrefsHTML": "",
+	"IDXDictionaryVersion": 2,
+	"DCSDictionaryCopyright": "Oxford Dictionary of English | Copyright \u00a9 2010, 2022 by Oxford University Press. All rights reserved..",
+	"CFBundleDevelopmentRegion": "English",
+	"DCSDictionarySortAllowed_iOS": true,
+	"CFBundleName": "oxford_orig-src"
+}

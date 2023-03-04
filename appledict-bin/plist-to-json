@@ -1,0 +1,5 @@
+#!/bin/bash
+
+for DIR in *.dictionary ; do
+    python ~/pyglossary/scripts/plist-to-json.py $DIR/Contents/Info.plist > $DIR-plist.json
+done
