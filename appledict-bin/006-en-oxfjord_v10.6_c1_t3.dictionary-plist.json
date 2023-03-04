@@ -1,24 +1,33 @@
 {
+	"CFBundleDevelopmentRegion": "English",
+	"CFBundleDisplayName": "Oxford Dictionary of English",
+	"CFBundleIdentifier": "com.apple.dictionary.ODE",
+	"CFBundleInfoDictionaryVersion": "6.0",
+	"CFBundleName": "oxford_orig-src",
+	"CFBundleShortVersionString": "1.0",
+	"DCSBuildToolVersion": 3,
+	"DCSDictionaryCSS": "DefaultStyle.css",
+	"DCSDictionaryCopyright": "Oxford Dictionary of English | Copyright \u00a9 2010, 2022 by Oxford University Press. All rights reserved..",
+	"DCSDictionaryDefaultPrefs": {},
+	"DCSDictionaryManufacturerName": "Apple Inc..",
+	"DCSDictionaryPrefsHTML": "",
+	"DCSDictionaryXSL": "",
 	"IDXDictionaryIndexes": [
 		{
-			"IDXIndexWritable": false,
-			"IDXIndexPath": "KeyText.index",
 			"IDXIndexAccessMethod": "com.apple.TrieAccessMethod",
-			"IDXIndexName": "DCSKeywordIndex",
-			"IDXIndexDataSizeLength": 2,
 			"IDXIndexBigEndian": false,
 			"IDXIndexDataFields": {
-				"IDXFixedDataFields": [
-					{
-						"IDXDataFieldName": "DCSPrivateFlag",
-						"IDXDataSize": 2
-					}
-				],
 				"IDXExternalDataFields": [
 					{
 						"IDXDataFieldName": "DCSExternalBodyID",
 						"IDXDataSize": 4,
 						"IDXIndexName": "DCSBodyDataIndex"
+					}
+				],
+				"IDXFixedDataFields": [
+					{
+						"IDXDataFieldName": "DCSPrivateFlag",
+						"IDXDataSize": 2
 					}
 				],
 				"IDXVariableDataFields": [
@@ -44,6 +53,7 @@
 					}
 				]
 			},
+			"IDXIndexDataSizeLength": 2,
 			"IDXIndexKeyMatchingMethods": [
 				"IDXExactMatch",
 				"IDXPrefixMatch",
@@ -51,17 +61,16 @@
 				"IDXWildcardMatch",
 				"IDXAllMatch"
 			],
+			"IDXIndexName": "DCSKeywordIndex",
+			"IDXIndexPath": "KeyText.index",
 			"IDXIndexSupportDataID": false,
+			"IDXIndexWritable": false,
 			"TrieAuxiliaryDataOptions": {
 				"IDXIndexPath": "KeyText.data"
 			}
 		},
 		{
-			"IDXIndexWritable": false,
-			"IDXIndexPath": "EntryID.index",
 			"IDXIndexAccessMethod": "com.apple.TrieAccessMethod",
-			"IDXIndexName": "DCSReferenceIndex",
-			"IDXIndexDataSizeLength": 2,
 			"IDXIndexBigEndian": false,
 			"IDXIndexDataFields": {
 				"IDXExternalDataFields": [
@@ -72,18 +81,21 @@
 					}
 				]
 			},
+			"IDXIndexDataSizeLength": 2,
 			"IDXIndexKeyMatchingMethods": [
 				"IDXExactMatch"
 			],
+			"IDXIndexName": "DCSReferenceIndex",
+			"IDXIndexPath": "EntryID.index",
 			"IDXIndexSupportDataID": false,
+			"IDXIndexWritable": false,
 			"TrieAuxiliaryDataOptions": {
 				"IDXIndexPath": "EntryID.data"
 			}
 		},
 		{
-			"IDXIndexPath": "Body.data",
+			"HeapDataCompressionType": 1,
 			"IDXIndexAccessMethod": "com.apple.HeapAccessMethod",
-			"IDXIndexName": "DCSBodyDataIndex",
 			"IDXIndexBigEndian": false,
 			"IDXIndexDataFields": {
 				"IDXVariableDataFields": [
@@ -93,23 +105,11 @@
 					}
 				]
 			},
-			"IDXIndexWritable": false,
-			"HeapDataCompressionType": 1,
-			"IDXIndexSupportDataID": true
+			"IDXIndexName": "DCSBodyDataIndex",
+			"IDXIndexPath": "Body.data",
+			"IDXIndexSupportDataID": true,
+			"IDXIndexWritable": false
 		}
 	],
-	"CFBundleIdentifier": "com.apple.dictionary.ODE",
-	"DCSDictionaryManufacturerName": "Apple Inc..",
-	"CFBundleInfoDictionaryVersion": "6.0",
-	"DCSDictionaryCSS": "DefaultStyle.css",
-	"DCSDictionaryDefaultPrefs": {},
-	"DCSDictionaryXSL": "",
-	"CFBundleShortVersionString": "1.0",
-	"DCSBuildToolVersion": 3,
-	"CFBundleDisplayName": "Oxford Dictionary of English",
-	"DCSDictionaryPrefsHTML": "",
-	"IDXDictionaryVersion": 1,
-	"DCSDictionaryCopyright": "Oxford Dictionary of English | Copyright \u00a9 2010, 2022 by Oxford University Press. All rights reserved..",
-	"CFBundleDevelopmentRegion": "English",
-	"CFBundleName": "oxford_orig-src"
+	"IDXDictionaryVersion": 1
 }

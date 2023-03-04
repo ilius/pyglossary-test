@@ -1,24 +1,38 @@
 {
+	"CFBundleDevelopmentRegion": "English",
+	"CFBundleIdentifier": "com.apple.dictionary.MySample",
+	"CFBundleInfoDictionaryVersion": "6.0",
+	"CFBundleName": "MyDictionary",
+	"CFBundleShortVersionString": "1.0",
+	"DCSBuildToolVersion": 3,
+	"DCSDictionaryCSS": "DefaultStyle.css",
+	"DCSDictionaryCopyright": "Copyright \u00a9 2007 Apple Inc.",
+	"DCSDictionaryDefaultPrefs": {
+		"display-column": "1",
+		"display-picture": "1",
+		"pronunciation": "0",
+		"version": "1"
+	},
+	"DCSDictionaryFrontMatterReferenceID": "front_back_matter",
+	"DCSDictionaryManufacturerName": "Apple Inc.",
+	"DCSDictionaryPrefsHTML": "MyDictionary_prefs.html",
+	"DCSDictionaryXSL": "MyDictionary.xsl",
 	"IDXDictionaryIndexes": [
 		{
-			"IDXIndexWritable": false,
-			"IDXIndexPath": "KeyText.index",
 			"IDXIndexAccessMethod": "com.apple.TrieAccessMethod",
-			"IDXIndexName": "DCSKeywordIndex",
-			"IDXIndexDataSizeLength": 2,
 			"IDXIndexBigEndian": false,
 			"IDXIndexDataFields": {
-				"IDXFixedDataFields": [
-					{
-						"IDXDataFieldName": "DCSPrivateFlag",
-						"IDXDataSize": 2
-					}
-				],
 				"IDXExternalDataFields": [
 					{
 						"IDXDataFieldName": "DCSExternalBodyID",
 						"IDXDataSize": 4,
 						"IDXIndexName": "DCSBodyDataIndex"
+					}
+				],
+				"IDXFixedDataFields": [
+					{
+						"IDXDataFieldName": "DCSPrivateFlag",
+						"IDXDataSize": 2
 					}
 				],
 				"IDXVariableDataFields": [
@@ -44,6 +58,7 @@
 					}
 				]
 			},
+			"IDXIndexDataSizeLength": 2,
 			"IDXIndexKeyMatchingMethods": [
 				"IDXExactMatch",
 				"IDXPrefixMatch",
@@ -51,17 +66,16 @@
 				"IDXWildcardMatch",
 				"IDXAllMatch"
 			],
+			"IDXIndexName": "DCSKeywordIndex",
+			"IDXIndexPath": "KeyText.index",
 			"IDXIndexSupportDataID": false,
+			"IDXIndexWritable": false,
 			"TrieAuxiliaryDataOptions": {
 				"IDXIndexPath": "KeyText.data"
 			}
 		},
 		{
-			"IDXIndexWritable": false,
-			"IDXIndexPath": "EntryID.index",
 			"IDXIndexAccessMethod": "com.apple.TrieAccessMethod",
-			"IDXIndexName": "DCSReferenceIndex",
-			"IDXIndexDataSizeLength": 2,
 			"IDXIndexBigEndian": false,
 			"IDXIndexDataFields": {
 				"IDXExternalDataFields": [
@@ -72,18 +86,21 @@
 					}
 				]
 			},
+			"IDXIndexDataSizeLength": 2,
 			"IDXIndexKeyMatchingMethods": [
 				"IDXExactMatch"
 			],
+			"IDXIndexName": "DCSReferenceIndex",
+			"IDXIndexPath": "EntryID.index",
 			"IDXIndexSupportDataID": false,
+			"IDXIndexWritable": false,
 			"TrieAuxiliaryDataOptions": {
 				"IDXIndexPath": "EntryID.data"
 			}
 		},
 		{
-			"IDXIndexPath": "Body.data",
+			"HeapDataCompressionType": 1,
 			"IDXIndexAccessMethod": "com.apple.HeapAccessMethod",
-			"IDXIndexName": "DCSBodyDataIndex",
 			"IDXIndexBigEndian": false,
 			"IDXIndexDataFields": {
 				"IDXVariableDataFields": [
@@ -93,28 +110,11 @@
 					}
 				]
 			},
-			"IDXIndexWritable": false,
-			"HeapDataCompressionType": 1,
-			"IDXIndexSupportDataID": true
+			"IDXIndexName": "DCSBodyDataIndex",
+			"IDXIndexPath": "Body.data",
+			"IDXIndexSupportDataID": true,
+			"IDXIndexWritable": false
 		}
 	],
-	"CFBundleIdentifier": "com.apple.dictionary.MySample",
-	"DCSDictionaryManufacturerName": "Apple Inc.",
-	"CFBundleInfoDictionaryVersion": "6.0",
-	"DCSDictionaryCSS": "DefaultStyle.css",
-	"DCSDictionaryDefaultPrefs": {
-		"pronunciation": "0",
-		"display-column": "1",
-		"display-picture": "1",
-		"version": "1"
-	},
-	"DCSDictionaryXSL": "MyDictionary.xsl",
-	"CFBundleShortVersionString": "1.0",
-	"DCSBuildToolVersion": 3,
-	"DCSDictionaryPrefsHTML": "MyDictionary_prefs.html",
-	"IDXDictionaryVersion": 1,
-	"DCSDictionaryCopyright": "Copyright \u00a9 2007 Apple Inc.",
-	"CFBundleDevelopmentRegion": "English",
-	"DCSDictionaryFrontMatterReferenceID": "front_back_matter",
-	"CFBundleName": "MyDictionary"
+	"IDXDictionaryVersion": 1
 }
