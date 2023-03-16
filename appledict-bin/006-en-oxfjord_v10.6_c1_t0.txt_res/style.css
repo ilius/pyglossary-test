@@ -6,8 +6,8 @@
 body
 {
 	font-size: 12pt;
-	/* font: -apple-system-body; */
-	font-family: -apple-system;
+	/* font: "Helvetica Neue"; */
+	font-family: "Helvetica Neue";
 	margin-left: 0.9em;
 	margin-right: 0.9em;
 	margin-top: 1.0em;
@@ -31,7 +31,7 @@ html.apple_client-panel body
 
 a
 {
-	color: -webkit-link;
+	color: rgb(0, 0, 238);
 	text-decoration: none;
 }
 
@@ -49,7 +49,7 @@ a
 
 a:hover
 {
-	color: -webkit-link;
+	color: rgb(0, 0, 238);
 	text-decoration: underline;
 }
 
@@ -171,7 +171,7 @@ span.wbb:before
 	content: '\a0\7c\a0';
 	font-size: 70%;
 	vertical-align: 5%;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 	margin-left: -0.15em;
 	margin-right: -0.15em;
 }
@@ -875,8 +875,8 @@ span.x_xo0 > span.x_xoLblBlk
 	font-size: 90%;
 	display: block;
 	padding-bottom: 0.3em;
-	border-bottom: solid thin -apple-system-tertiary-label;
-	color: -apple-system-secondary-label;
+	border-bottom: solid thin rgba(0, 0, 0, 0.26);
+	color: rgba(0, 0, 0, 0.498);
 	margin-top: 2em;
 	margin-bottom: 0.5em;
 }
@@ -889,7 +889,7 @@ div.xrgBlock.x_xoLblBlkTop,
 span.x_xo0.x_xoLblBlkTop
 {
 	margin-top: 3em;
-	border-top: solid thin -apple-system-tertiary-label;
+	border-top: solid thin rgba(0, 0, 0, 0.26);
 	margin-bottom: 1em;
 }
 html.apple_client-panel div.xrgBlock.x_xoLblBlkTop,
@@ -1224,7 +1224,7 @@ span.hg span.vg.x_weak,
 span.hg span.vg.x_weak span.v
 {
 	font-size: 100%;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 
 span.gramb span.hvg span.hv
@@ -1234,7 +1234,7 @@ span.gramb span.hvg span.hv
 span.x_xh0 span.vg
 {
 	font-weight: 200;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 
 span.x_xh0 span.vg span.v
@@ -1276,7 +1276,7 @@ span.hwg span.infg span.gp.tg_inf,
 span.hw span.gp.tg_hw,
 span.hvg span.hv span.gp.tg_hv
 {
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 
 /*
@@ -1567,14 +1567,14 @@ span.ph.x_rr,
 span.sn.x_rr,
 span.gr.x_rr
 {
-	border: solid 1px -apple-system-secondary-label;
+	border: solid 1px rgba(0, 0, 0, 0.498);
 	/* margin-left: 0.12em; */
 	margin-right: 0.18em;
 	margin-top: 0.18em;
 	margin-bottom: 0.18em;
 	padding: 1px 1px 1px 1px;
 	font-size: 70%;
-	-webkit-border-radius: 2px;
+	5: 2px;
 	vertical-align: 5%;
 }
 span.lbl.x_rr
@@ -1604,11 +1604,11 @@ span.gr.x_rr
 
 span.lbl.x_rrbd
 {
-	border: solid -apple-system-secondary-label;
+	border: solid rgba(0, 0, 0, 0.498);
 	border-width: 2px;
 	padding: 2px 4px 1px 4px;
-	-webkit-border-radius: 3px;
-	color: -apple-system-secondary-label;
+	5: 3px;
+	color: rgba(0, 0, 0, 0.498);
 	font-weight: 600;
 	font-size: 70%;
 	margin-right: 0.5em;
@@ -1644,7 +1644,7 @@ span.pr,
 span.prx
 {
 	font-weight: normal;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 	/*
 	font-family: 'Times New Roman';
 	*/
@@ -1655,7 +1655,7 @@ span.x_xh0 span.gp.tg_prx,
 span.x_xd0 span.x_xdh span.gp.tg_pr,
 span.x_xd0 span.x_xdh span.gp.tg_prx
 {
-	color: -apple-system-tertiary-label;
+	color: rgba(0, 0, 0, 0.26);
 }
 
 span.hg span.pr,
@@ -1716,7 +1716,7 @@ span.ph
 span.cnt
 {
 	font-weight: 200;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 span.cnt.x_rr
 {
@@ -1725,8 +1725,8 @@ span.cnt.x_rr
 	padding-left: 0.2em;
 	padding-right: 0.2em;
 	color: text;
-	border: solid 1px -apple-system-secondary-label;
-	-webkit-border-radius: 2px;
+	border: solid 1px rgba(0, 0, 0, 0.498);
+	5: 2px;
 	font-size: 70%;
 	/* vertical-align: 10%; */
 }
@@ -1739,16 +1739,16 @@ span.cnt.x_rr
 span.sn
 {
 	font-weight: 600;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 span.sn.x_rrbg
 {
-	Background: -apple-system-secondary-label;
-	border: solid -apple-system-secondary-label;
+	Background: rgba(0, 0, 0, 0.498);
+	border: solid rgba(0, 0, 0, 0.498);
 	border-width: 0px;
 	padding: 3px 2px 1px 2px;
-	-webkit-border-radius: 2px;
-	color: -apple-system-text-background;
+	5: 2px;
+	color: rgb(255, 255, 255);
 	font-weight: 600;
 	font-size: 70%;
 	vertical-align: 10%;
@@ -1784,21 +1784,21 @@ span.eg span.ref
 span.eg span.general-text.t_eg_pr
 {
 	font-weight: 200;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 /* TR */
 span.eg span.general-text.t_eg_pri
 {
 	font-style: italic;
 	font-weight: 200;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 span.gp.t_arrow,
 span.general-text.t_arrow
 {
 	font-size: 90%;
 	vertical-align: -2%;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 
 
@@ -1807,7 +1807,7 @@ span.exg span.ex
 {
 	font-style: normal;
 	font-weight: 500;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 span.exg span.ex span.bold
 {
@@ -1823,12 +1823,12 @@ span.exg span.ex span.ge,
 span.exg span.ex span.sj
 {
 	font-weight: normal;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 span.hwg span.reg
 {
 	font-size: 170%;
-	color: -apple-system-tertiary-label;
+	color: rgba(0, 0, 0, 0.26);
 }
 html.apple_client-panel span.hwg span.reg
 {
@@ -1839,12 +1839,12 @@ span.hwg span.pr span.reg,
 span.hwg span.prx span.reg
 {
 	font-size: 100%;
-	color: -apple-system-tertiary-label;
+	color: rgba(0, 0, 0, 0.26);
 }
 
 span.lbl
 {
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 span.pronBlock span.lbl
 {
@@ -1854,12 +1854,12 @@ span.pronBlock span.lbl
 
 span.lbl.x_sqb
 {
-	background: -apple-system-secondary-label;
-	border: solid -apple-system-secondary-label;
+	background: rgba(0, 0, 0, 0.498);
+	border: solid rgba(0, 0, 0, 0.498);
 	border-width: 0px;
 	padding: 2px 4px 2px 4px;
 	font-size: 80%;
-	color: -apple-system-text-background;
+	color: rgb(255, 255, 255);
 	font-weight: 600;
 	margin-right: 1em;
 	vertical-align: 5%;
@@ -1879,15 +1879,15 @@ span.cntxt
 	padding: 0.33em;
 	margin-top: 0.3em;
 	*/
-	border: solid 1px -apple-system-tertiary-label;
+	border: solid 1px rgba(0, 0, 0, 0.26);
 	padding: 0.13em 0.49em 0.13em 0.49em;
-	-webkit-border-radius: 3px;
+	5: 3px;
 	margin-top: 0.1em;
 }
 span.note span.lbl,
 span.cntxt span.lbl
 {
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 span.note.x_nb
 {
@@ -1945,7 +1945,7 @@ span.etym	{font-weight:normal;}
 */
 span.etym > span.lbl
 {
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 span.etym span.dgg
 {
@@ -1963,7 +1963,7 @@ span.lg,
 span.gg
 {
 	font-style: italic;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 	font-size: 94%;
 	/*
 	margin-right: 0.3em;
@@ -2006,7 +2006,7 @@ span.con
 {
 	font-style: normal;
 	font-weight: 600;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 
 
@@ -2082,7 +2082,7 @@ span.hwtrans	 { font-weight: normal;}
 span.oup_label
 {
 	font-style: italic;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 span.oup_label.x_ni
 {
@@ -2244,7 +2244,7 @@ span.usageLbl
 {
 	font-weight: normal;
 	font-size: 90%;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 span.hw span.usageLbl
 {
@@ -2257,7 +2257,7 @@ span.general-text.t_label_block
 {
 	font-variant: small-caps;
 	margin-right: 0.3em;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 span.general-text.t_label_block
 {
@@ -2273,7 +2273,7 @@ span.etym span.gp.t_label,
 span.dgg span.gp.t_label
 {
 	margin-right: 0.3em;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 
 span.hw span.general-text.en_er,
@@ -2315,7 +2315,7 @@ span.pvsec span.gramb span.semb span.pgr,
 span.pvsec span.gramb span.pgr
 {
 	font-weight: 600;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 
 span.cb span.csec span.cwg span.cw,
@@ -2328,14 +2328,14 @@ span.csec span.cwg span.cw
 span.ind,
 span.gr
 {
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 
 span.lev,
 span.fld
 {
 	font-size: 90%;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 
 /*
@@ -2357,7 +2357,7 @@ span.trgg.x_xd2 > span.trg > span.trans span.trans.ty_pinyin
 	font-weight: normal;
 	margin-left: 0.2em;
 	margin-right: 0.2em;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 }
 
 
@@ -2368,9 +2368,9 @@ span.box
 	background-color: window;
 	padding: 0.33em 0.49em 0.33em 0.49em;
 	*/
-	border: solid 1px -apple-system-tertiary-label;
+	border: solid 1px rgba(0, 0, 0, 0.26);
 	padding: 0.13em 0.49em 0.13em 0.49em;
-	-webkit-border-radius: 3px;
+	5: 3px;
 	margin-top: 0.1em;
 }
 html.apple_client-panel span.box
@@ -2406,7 +2406,7 @@ span.synGroup > span.syn.t_core > span.gp
 span.antList > span.gp.ty_label.tg_antList
 {
 	font-variant: small-caps;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 	font-size: 80%;
 }	/* ANTONYMS */
 
@@ -2430,7 +2430,7 @@ span.feature-title
 {
 	display: block;
 
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 	font-weight: 500;
 	font-size: 90%;
 	line-height : 23px;
@@ -2441,11 +2441,11 @@ span.feature-title
 	
 	border-style : solid;
 	border-width : 1px 1px 1px 1px;
-	border-color : -apple-system-tertiary-label;
-	-webkit-border-top-left-radius: 4px;
-	-webkit-border-top-right-radius: 4px;
-	-webkit-border-bottom-left-radius: 0px;
-	-webkit-border-bottom-right-radius: 0px;
+	border-color : rgba(0, 0, 0, 0.26);
+	5: 4px;
+	5: 4px;
+	5: 0px;
+	5: 0px;
 }
 
 html.apple_client-panel span.feature-title
@@ -2457,7 +2457,7 @@ span.feature-body
 {
 	display: block;
 
-	color: -apple-system-label;
+	color: rgba(0, 0, 0, 0.847);
 
 	padding-left : 10px;
 	padding-right : 10px;
@@ -2466,11 +2466,11 @@ span.feature-body
 
 	border-style : solid;
 	border-width : 0px 1px 1px 1px;
-	border-color : -apple-system-tertiary-label;
-	-webkit-border-top-left-radius: 0px;
-	-webkit-border-top-right-radius: 0px;
-	-webkit-border-bottom-left-radius: 4px;
-	-webkit-border-bottom-right-radius: 4px;
+	border-color : rgba(0, 0, 0, 0.26);
+	5: 0px;
+	5: 0px;
+	5: 4px;
+	5: 4px;
 }
 
 span.feature-body table
@@ -2486,7 +2486,7 @@ span.feature-caption
 {
 	display: block;
 
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 	font-weight: normal;
 	font-size: 90%;
 
@@ -2568,9 +2568,9 @@ span.feature.t_encyclopaedic
 	margin-right: 1em;
 	margin-top: 1em;
 	margin-bottom: 2em;
-	border: solid 1px -apple-system-tertiary-label;
+	border: solid 1px rgba(0, 0, 0, 0.26);
 	padding: 0.13em 0.49em 0.13em 0.49em;
-	-webkit-border-radius: 3px;
+	5: 3px;
 	/* margin-top: 0.1em; */
 }
 
@@ -2721,7 +2721,7 @@ span.brb:before
 	content: '\a0\a6\a0';
 	font-size: 70%;
 	vertical-align: 5%;
-	color: -apple-system-secondary-label;
+	color: rgba(0, 0, 0, 0.498);
 	margin-left: -0.15em;
 	margin-right: -0.15em;
 }
