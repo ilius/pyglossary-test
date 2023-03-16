@@ -5,7 +5,8 @@ EXTRA_ARGS="$@"
 
 function convert() {
 	echo "$1.dictionary"
-	pyglossary "$1.dictionary" "$1.txt" $EXTRA_ARGS
+	pyglossary "$1.dictionary" "$1.txt" \
+		'--read-options=html_full=false' $EXTRA_ARGS
 	echo
 }
 
