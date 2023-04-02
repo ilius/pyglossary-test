@@ -15,7 +15,7 @@ $PG 100-en-fa.txt 100-en-fa-remove_html_all-v2.txt --remove-html-all
 $PG 100-en-de-v4.txt 100-en-de-v4.csv
 $PG 100-en-de-v4.txt 100-en-de-v4.json
 $PG 100-en-de-v4.txt 100-en-de-v4.info
-$PG 100-en-de-v4.txt 100-en-de-v4.sd/100-en-de.ifo --write-options=dictzip=False
+$PG 100-en-de-v4.txt 100-en-de-v4.sd/100-en-de-v4.ifo --write-options=dictzip=False
 $PG 100-en-de-v4.txt 100-en-de-v4-remove_font_b.txt --remove-html 'font,b'
 
 $PG 100-ja-en.txt 100-ja-en.csv
