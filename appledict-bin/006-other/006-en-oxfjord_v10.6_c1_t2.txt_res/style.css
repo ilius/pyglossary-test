@@ -83,7 +83,7 @@ tr
 {
 	/* font-size: 80%; */
 	width: 30%;
-	-webkit-hyphens: auto;
+	hyphens: auto;
 }
 
 td
@@ -1206,7 +1206,7 @@ span.hg span.gp.t_hw
 	/*
 	line-height: 130%;
 	*/
-	-webkit-hyphens: auto;
+	hyphens: auto;
 }
 span.hvg > span.hm
 {
