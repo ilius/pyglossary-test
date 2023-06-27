@@ -1,0 +1,9 @@
+#!/bin/bash
+set -x
+
+for F in *.dsl */*.dsl ; do
+	echo $F
+	pg $F "${F%.*}.txt" "$@" || git checkout $F.txt $F.info
+	echo
+	echo
+done
