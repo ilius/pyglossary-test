@@ -1,0 +1,17 @@
+#NAME "multiline paragraph"
+#INDEX_LANGUAGE "English"
+#CONTENTS_LANGUAGE "English"
+
+unclosed m5 paragraph that spans over 3 lines
+   [m1]Pretext (indented with 1 space)
+   [m5]Paragraph indented with 5 spaces: Line 1.
+   Paragraph indented with 5 spaces: Line 2.
+   Paragraph indented with 5 spaces: Line 3.
+   [m0]Aftertext (no indent)
+
+closed m5 paragraph that spans over 3 lines
+   [m1]Pretext (indented with 1 space)[/m]
+   [m5]Paragraph indented with 5 spaces: Line 1.
+   Paragraph indented with 5 spaces: Line 2.
+   Paragraph indented with 5 spaces: Line 3.[/m]
+   Aftertext (no indent)
