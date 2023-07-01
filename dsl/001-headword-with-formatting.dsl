@@ -1,6 +1,11 @@
-#NAME	"headword with formatting"
-#INDEX_LANGUAGE	"Bashkir"
-#CONTENTS_LANGUAGE	"Basque"
+#NAME   "Dictionary: formatted headwords (En-En)"
+#INDEX_LANGUAGE   "English"
+#CONTENTS_LANGUAGE   "English"
 
-{[c slategray]}{to }{[/c]}tell {[c slategray]}smb{[/c]} how to do {[c slategray]}smth{[/c]}
-	[m1][trn]рассказать кому-либо, как что-либо делать[/trn][/m]
+{[c slategray]}{to }{[/c]}tell {[c violet]}smb{[/c]} {[u]}how{[/u]} to do {[c violet]}smth{[/c]} {[sub]subscript[/sub]}
+   [m1]1. main meaning[/m]
+   [m2]a. first submeaning[/m]
+   [m2]b. second submeaning[/m]
+
+test link
+   [ref]tell smb how to do smth[/ref]
