@@ -10,14 +10,16 @@ example
 sample {unsorted part} card
 {the }sample headword
    •• [b]Special symbols that might require escaping:[/b]
-   0. Escaping symbol symbol \\
+   0. Escaping with backslash symbol \\
    [m4]\\\\ • \\[/m]
    [m4]\\a • \a (escaping non-escapable characters will just ignore slash)[/m]
    1. Tilde \~ and caret ^
    [m4]I love this \~ • I love this ~ (The tilde replaces the first headword.)[/m]
    [m4]I love this \^\~ • I love this ^~ (The tilde replaces the first headword and caret makes first letter uppercase. The caret works only in combination with tilda.)[/m]
-   2. At-sign: \@ ([b]Note:[/b] Sub-entries are currently not supported by GoldenDict.)
-   3. Brackets: \[ \] \{ \}
+   2. At-sign: \\\@ • \@
+   3. Brackets:
+   [m4]With backslash: \\\[ \\\] \\{ \\} \\\<< \\\>> • \[ \] \{ \} \<< \>>[/m]
+   [m4]Square bracket doubling: \[\[text in brackets\]\] • [[text in brackets]] [/m]
    \ 
    •• [b]Basic formatting:[/b]
    \[b\]bold text\[/b\] • [b]bold text[/b]
