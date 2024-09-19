@@ -1,0 +1,9 @@
+##name	DSL dict with empty lines
+##sourceLang	English
+##targetLang	English
+test 1	<p style="padding-left:1em;margin:0">Test paragraph 1<p style="padding-left:0.3em;margin:0">
+test 2	<p style="padding-left:1em;margin:0">Test paragraph 2<p style="padding-left:0.3em;margin:0">
+test 3	<p style="padding-left:1em;margin:0">Test paragraph 3<p style="padding-left:0.3em;margin:0">
+test 4	<p style="padding-left:1em;margin:0">Test paragraph 4<p style="padding-left:0.3em;margin:0">
+test 5	<p style="padding-left:1em;margin:0">Test paragraph 5<p style="padding-left:0.3em;margin:0">
+test 6	<p style="padding-left:1em;margin:0">Test paragraph 6<p style="padding-left:0.3em;margin:0">
