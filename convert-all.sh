@@ -8,6 +8,7 @@ $PG 100-en-fa.txt 100-en-fa.csv
 $PG 100-en-fa.txt 100-en-fa.json
 $PG 100-en-fa.txt 100-en-fa.info
 $PG 100-en-fa.txt 100-en-fa-sd-v2/100-en-fa.ifo --write-options=dictzip=False
+$PG 100-en-fa-sd-v2/100-en-fa.ifo 100-en-fa-sd-v2.txt
 $PG 100-en-fa.txt 100-en-fa-lower.txt --lower
 $PG 100-en-fa.txt 100-en-fa-rtl.txt --rtl
 $PG 100-en-fa.txt 100-en-fa-remove_html_all-v3.txt --remove-html-all
