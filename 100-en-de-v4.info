@@ -17,5 +17,6 @@
 	"defi_tag": "div=262, font=163, br=143, li=109, ol=43",
 	"defi_first_tag": "div=100",
 	"style": "",
-	"source_script": "Latin=98, None=2"
+	"source_script": "Latin=98, None=2",
+	"read_options": {}
 }

@@ -1,5 +1,6 @@
 {
 	"name": "Sample: Japanese-English FreeDict Dictionary",
+	"input_file_size": "31199",
 	"edition": "0.1",
 	"copyright": "Copyright (C) 1994-2016 by various authors listed below.\nAvailable under the terms of the <a href=\"http://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-Share Alike Licence (V3.0)</a>.",
 	"publisher": "FreeDict",
@@ -9,11 +10,13 @@
 	"targetLang": "English",
 	"word_count": 100,
 	"bword_count": 33,
+	"non_lowercase_word_count": 8,
 	"data_entry_count": 0,
 	"data_entry_extension_count": "",
 	"defi_format": "h=100",
 	"defi_tag": "div=533, li=321, font=157, ol=112, a=33",
 	"defi_first_tag": "div=100",
 	"style": "",
-	"source_script": "CJK=100"
+	"source_script": "CJK=100",
+	"read_options": {}
 }
