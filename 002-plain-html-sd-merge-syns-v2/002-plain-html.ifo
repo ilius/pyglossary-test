@@ -1,0 +1,9 @@
+StarDict's dict ifo file
+version=3.0.0
+bookname=002-plain-html
+wordcount=2
+idxfilesize=32
+author=Saeed
+email=test@test
+website=test.com
+description=Test glossary with 2 entries: html and plaintext
