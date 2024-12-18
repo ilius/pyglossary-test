@@ -7,7 +7,7 @@ $PG 004-bar.txt 004-bar.sd/004-bar.ifo --write-options=dictzip=False
 $PG 100-en-fa.txt 100-en-fa.csv
 $PG 100-en-fa.txt 100-en-fa.json
 $PG 100-en-fa.txt 100-en-fa.info
-$PG 100-en-fa.txt 100-en-fa.sd/100-en-fa.ifo --write-options=dictzip=False
+$PG 100-en-fa.txt 100-en-fa-sd-v2/100-en-fa.ifo --write-options=dictzip=False
 $PG 100-en-fa.txt 100-en-fa-lower.txt --lower
 $PG 100-en-fa.txt 100-en-fa-rtl.txt --rtl
 $PG 100-en-fa.txt 100-en-fa-remove_html_all-v3.txt --remove-html-all
@@ -18,7 +18,7 @@ $PG 300-rand-en-fa.txt 300-rand-en-fa-prefix3-v2.epub --write-options group_by_p
 $PG 100-en-de-v4.txt 100-en-de-v4.csv
 $PG 100-en-de-v4.txt 100-en-de-v4.json
 $PG 100-en-de-v4.txt 100-en-de-v4.info
-$PG 100-en-de-v4.txt 100-en-de-v4.sd/100-en-de-v4.ifo --write-options=dictzip=False
+$PG 100-en-de-v4.txt 100-en-de-v4-sd-v2/100-en-de-v4.ifo --write-options=dictzip=False
 $PG 100-en-de-v4.txt 100-en-de-v4-remove_font_b.txt --remove-html 'font,b'
 
 $PG 100-ja-en.txt 100-ja-en.csv
