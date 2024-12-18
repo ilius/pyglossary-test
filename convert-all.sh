@@ -22,10 +22,12 @@ $PG 100-en-de-v4.txt 100-en-de-v4.info
 $PG 100-en-de-v4.txt 100-en-de-v4-sd-v2/100-en-de-v4.ifo --write-options=dictzip=False
 $PG 100-en-de-v4.txt 100-en-de-v4-remove_font_b.txt --remove-html 'font,b'
 
-$PG 100-en-fa.txt 100-en-fa-sd-merge-syns-v2/100-en-fa.ifo --write-format StardictMergeSyns --write-options=dictzip=False
-$PG 100-en-de-v4.txt 100-en-de-v4-sd-merge-syns-v2/100-en-de-v4.ifo --write-format StardictMergeSyns --write-options=dictzip=False
-$PG 002-plain-html.txt 002-plain-html-sd-merge-syns-v2/002-plain-html.ifo --write-format StardictMergeSyns --write-options=dictzip=False
-$PG 004-plain-html-alts.txt 004-plain-html-alts-sd-merge-syns-v2/004-plain-html-alts.ifo --write-format StardictMergeSyns --write-options=dictzip=False
+$MERGE_SYNS_ARGS="--write-format StardictMergeSyns --write-options=dictzip=False"
+
+$PG 100-en-fa.txt 100-en-fa-sd-merge-syns-v2/100-en-fa.ifo $MERGE_SYNS_ARGS
+$PG 100-en-de-v4.txt 100-en-de-v4-sd-merge-syns-v2/100-en-de-v4.ifo $MERGE_SYNS_ARGS
+$PG 002-plain-html.txt 002-plain-html-sd-merge-syns-v2/002-plain-html.ifo $MERGE_SYNS_ARGS
+$PG 004-plain-html-alts.txt 004-plain-html-alts-sd-merge-syns-v2/004-plain-html-alts.ifo $MERGE_SYNS_ARGS
 
 $PG 100-ja-en.txt 100-ja-en.csv
 $PG 100-ja-en.txt 100-ja-en.json
