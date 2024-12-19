@@ -5,3 +5,5 @@ $PG 10-kaikki-fa-PlacesInIran.jsonl 10-kaikki-fa-PlacesInIran-category.txt --rea
 
 $PG 10-kaikki-fa-pos-adv.jsonl 10-kaikki-fa-pos-adv.txt
 $PG 10-kaikki-fa-pos-adv.jsonl 10-kaikki-fa-pos-adv-word_title.txt --read-options=word_title=1
+
+$PG 03-kaikki-fa-selection.jsonl 03-kaikki-fa-selection.txt
