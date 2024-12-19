@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Selection from FreeDict dictionaries</title>
+				<respStmt>
+					<!--for the freedict database-->
+					<resp>Maintainer</resp>
+					<name>[up for grabs]</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>0.0.1</edition>
+			</editionStmt>
+			<extent>9 headwords</extent>
+			<publicationStmt>
+				<publisher>FreeDict</publisher>
+				<availability status="free">
+					<p>Copyright (C) 1999-2024 by various authors listed below.</p>
+					<p>Available under the terms of the <ref target="https://www.gnu.org/licenses/gpl-2.0.html">GNU General Public License ver. 2.0 and any later version</ref>.</p>
+					<p>This program is free software; you can redistribute it and/or modify it under the
+                  terms of the GNU General Public License as published by the Free Software
+                  Foundation; either version 2 of the License, or (at your option) any later
+                  version.</p>
+					<p>This program is distributed in the hope that it will be useful, but WITHOUT ANY
+                  WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+                  PARTICULAR PURPOSE. See the GNU General Public License for more details.</p>
+					<p>You should have received a copy of the GNU General Public License along with this
+                  program; if not, write to the Free Software Foundation, Inc., 59 Temple Place -
+                  Suite 330, Boston, MA 02111-1307, USA.</p>
+				</availability>
+				<pubPlace>
+					<ref target="http://freedict.org/">http://freedict.org/</ref>
+				</pubPlace>
+				<date when="2024-12-19">2024-12-19</date>
+			</publicationStmt>
+			<notesStmt>
+				<note type="status">too small</note>
+			</notesStmt>
+			<sourceDesc>
+				Selected from: <ptr target="https://github.com/freedict/fd-dictionaries/"/>
+				for testing PyGlossary
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>This dictionary comes to you through nice people making it available for free and for
+        good. It is part of the FreeDict project, <ref target="http://freedict.org/">http://freedict.org/</ref>. This project aims to make translating
+        dictionaries available for free. Your contributions are welcome!</p>
+			</projectDesc>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<entry>
+				<form>
+					<orth>Adán</orth>
+				</form>
+				<sense>
+					<cit type="trans">
+						<quote>Adam</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry xml:id="enye">
+				<form xml:lang="sw">
+					<orth>enye</orth>
+				</form>
+				<gramGrp>
+					<pos>cop</pos>
+					<subc>poss</subc>
+				</gramGrp>
+				<sense>
+					<def>having</def>
+					<def>with</def>
+					<note type="gram">the forms of -enye display pronominal agreement</note>
+				</sense>
+			</entry>
+			<entry>
+				<form>
+					<orth>abeceda</orth>
+				</form>
+				<gramGrp>
+					<pos>n</pos>
+					<gen>f</gen>
+					<num>sg</num>
+				</gramGrp>
+				<sense>
+					<cit type="trans">
+						<quote>alphabet</quote>
+					</cit>
+					<cit type="example">
+						<quote>Slovenska abeceda ima 25 črk.</quote>
+						<cit type="trans">
+							<quote>The Slovenian alphabet has 25 letters.</quote>
+						</cit>
+					</cit>
+				</sense>
+			</entry>
+			<entry xml:id="adhuhuri">
+				<form xml:lang="sw" type="N">
+					<orth>adhuhuri</orth>
+				</form>
+				<gramGrp>
+					<pos>n</pos>
+				</gramGrp>
+				<sense>
+					<def>midday</def>
+					<note type="def">period between noon and 2 p.m.</note>
+				</sense>
+			</entry>
+			<entry xml:id="adui">
+				<form xml:lang="sw">
+					<orth>adui</orth>
+				</form>
+				<xr type="plural-form">
+					<ref target="#maadui">maadui</ref>
+				</xr>
+				<gramGrp>
+					<pos>n</pos>
+				</gramGrp>
+				<sense xml:id="adui.1" n="1">
+					<def>enemy</def>
+				</sense>
+				<sense xml:id="adui.2" n="2">
+					<def>opponent</def>
+					<note type="dom">in games or sports</note>
+				</sense>
+			</entry>
+			<entry xml:id="agano">
+				<form xml:lang="sw">
+					<orth>agano</orth>
+				</form>
+				<xr type="plural-form">
+					<ref target="#maagano">maagano</ref>
+				</xr>
+				<gramGrp>
+					<pos>n</pos>
+				</gramGrp>
+				<sense xml:id="agano.1" n="1">
+					<def>promise</def>
+				</sense>
+				<sense xml:id="agano.2" n="2">
+					<def>agreement, contract</def>
+					<xr type="cf">See also: <ref target="#ahadi">ahadi</ref>
+               </xr>
+				</sense>
+			</entry>
+			<entry xml:id="a1000230">
+				<form type="k_ele">
+					<orth>明かん</orth>
+				</form>
+				<form type="r_ele">
+					<orth>あかん</orth>
+				</form>
+				<form type="r_ele">
+					<orth>アカン</orth>
+					<lbl type="re_nokanji"/>
+				</form>
+				<sense>
+					<note type="pos">expressions (phrases, clauses, etc.)</note>
+					<note>word usually written using kana alone</note>
+					<usg type="geo">Kansai-ben</usg>
+					<cit type="trans">
+						<quote>useless</quote>
+					</cit>
+					<cit type="trans">
+						<quote>no good</quote>
+					</cit>
+					<cit type="trans">
+						<quote>hopeless</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry xml:id="a1002480">
+				<form type="k_ele">
+					<orth>お転婆</orth>
+				</form>
+				<form type="k_ele">
+					<orth>御転婆</orth>
+				</form>
+				<form type="r_ele">
+					<orth>おてんば</orth>
+				</form>
+				<sense>
+					<note type="pos">adjectival nouns or quasi-adjectives (keiyodoshi)</note>
+					<note type="pos">noun (common) (futsuumeishi)</note>
+					<note>word usually written using kana alone</note>
+					<lang xml:lang="dut">ontembaar</lang>
+					<cit type="trans">
+						<quote>tomboy</quote>
+					</cit>
+				</sense>
+			</entry>
+			<entry>
+				<form>
+					<orth>abolishment</orth>
+					<pron>ə'bɔlıʃmənt</pron>
+				</form>
+				<gramGrp>
+					<pos>n</pos>
+				</gramGrp>
+				<sense>
+					<cit type="trans">
+						<quote>panaikinimas</quote>
+					</cit>
+					<xr>
+						<ref>abolition</ref>
+					</xr>
+				</sense>
+			</entry>
+		</body>
+	</text>
+</TEI>
