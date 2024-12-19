@@ -12,6 +12,8 @@ $PG 100-en-fa-sd-v2/100-en-fa.ifo 100-en-fa-sd-v2.txt
 $PG 100-en-fa.txt 100-en-fa-lower.txt --lower
 $PG 100-en-fa.txt 100-en-fa-rtl.txt --rtl
 $PG 100-en-fa.txt 100-en-fa-remove_html_all-v3.txt --remove-html-all
+$PG 100-en-fa.txt 100-en-fa-sort-headword.txt --sort --sort-key=headword
+$PG 100-en-fa.txt 100-en-fa-sort-headword-fa.txt --sort --sort-key=headword:fa
 
 $PG 100-en-fa.txt 100-en-fa-prefix3-v2.epub --write-options group_by_prefix_length=3
 $PG 300-rand-en-fa.txt 300-rand-en-fa-prefix3-v2.epub --write-options group_by_prefix_length=3
@@ -43,7 +45,3 @@ $PG stardict-mixed-types-2.xml stardict-mixed-types-2.sd/stardict-mixed-types-2.
 	--read-format StardictTextual \
 	--write-options=dictzip=False
 $PG stardict-mixed-types-2.sd/stardict-mixed-types-2.ifo stardict-mixed-types-2.sd.txt
-
-
-
-
