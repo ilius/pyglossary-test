@@ -1,0 +1,16 @@
+#!/bin/bash
+ser -e
+
+rm -rf META-INF/ OEBPS/ mimetype 100-en-fa.txt.epub.1 100-en-fa.txt.epub.2 2>/dev/null || true
+
+./to-epub 100-en-fa.txt
+unzip 100-en-fa.txt.epub
+mkdir 100-en-fa.txt.epub.1
+mv META-INF/ OEBPS/ mimetype 100-en-fa.txt.epub.1
+
+./to-epub 100-en-fa.txt
+unzip 100-en-fa.txt.epub
+mkdir 100-en-fa.txt.epub.2
+mv META-INF/ OEBPS/ mimetype 100-en-fa.txt.epub.2
+
+diff -r 100-en-fa.txt.epub.1 100-en-fa.txt.epub.2
