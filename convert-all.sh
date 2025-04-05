@@ -1,6 +1,9 @@
 #!/bin/bash
 PG="python $HOME/pyglossary/main.py"
 
+$PG 100-en-de.tei 100-en-de-v5.txt
+$PG freedict-sample-2024-12-19.tei freedict-sample-2024-12-19-v2.txt
+
 $PG 004-bar.txt 004-bar.json
 $PG 004-bar.txt 004-bar.sd/004-bar.ifo --write-options=dictzip=False
 
