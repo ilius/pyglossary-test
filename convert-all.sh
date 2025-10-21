@@ -21,6 +21,10 @@ $PG 100-en-fa.txt 100-en-fa-remove_html_all-v3.txt --remove-html-all
 $PG 100-en-fa.txt 100-en-fa-sort-headword.txt --sort --sort-key=headword
 $PG 100-en-fa.txt 100-en-fa-sort-headword-fa.txt --sort --sort-key=headword:fa
 
+mkdir -p 100-en-fa-sd-nostt
+$PG 100-en-fa.txt 100-en-fa-sd-nostt/100-en-fa.ifo \
+	"--write-options=dictzip=False;sametypesequence=None"
+
 $PG 100-en-fa.txt 100-en-fa-prefix3-v2.epub --write-options group_by_prefix_length=3
 $PG 300-rand-en-fa.txt 300-rand-en-fa-prefix3-v2.epub --write-options group_by_prefix_length=3
 
