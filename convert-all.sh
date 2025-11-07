@@ -4,6 +4,11 @@ set -x
 
 PG="python $HOME/pyglossary/main.py"
 
+$PG Currency_In_Each_Country.bgl Currency_In_Each_Country.txt
+$PG Farsi_Aviation_Dictionary.bgl Farsi_Aviation_Dictionary.txt
+$PG Flavours_of_Malaysia.bgl Flavours_of_Malaysia.txt
+$PG Solar_Physics_Glossary.bgl Solar_Physics_Glossary.txt
+
 $PG 100-en-de.tei 100-en-de-v5.txt
 $PG freedict-sample-2024-12-19.tei freedict-sample-2024-12-19-v2.txt
 
@@ -23,7 +28,7 @@ $PG 100-en-fa.txt 100-en-fa-sort-headword-fa.txt --sort --sort-key=headword:fa
 
 mkdir -p 100-en-fa-sd-nostt
 $PG 100-en-fa.txt 100-en-fa-sd-nostt/100-en-fa.ifo \
-	"--write-options=dictzip=False;sametypesequence=None"
+	"--write-options=dictzip=False;sametypesequence=-"
 
 $PG 100-en-fa.txt 100-en-fa-prefix3-v2.epub --write-options group_by_prefix_length=3
 $PG 300-rand-en-fa.txt 300-rand-en-fa-prefix3-v2.epub --write-options group_by_prefix_length=3
