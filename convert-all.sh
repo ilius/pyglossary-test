@@ -50,6 +50,7 @@ $PG 100-ja-en.txt 100-ja-en.csv
 $PG 100-ja-en.txt 100-ja-en.json
 $PG 100-ja-en.txt 100-ja-en.info
 $PG 100-ja-en.txt 100-ja-en.sd/100-ja-en.ifo --write-options=dictzip=False
+$PG 100-en-fa.txt 100-en-fa.txt-v3.sql 
 
 $PG stardict-xdxf-2.xml stardict-xdxf-2.xml-h.txt --read-format StardictTextual --read-options=xdxf_to_html=true
 $PG stardict-xdxf-2.xml stardict-xdxf-2.xml-x.txt --read-format StardictTextual --read-options=xdxf_to_html=false
