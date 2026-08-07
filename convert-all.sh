@@ -26,6 +26,8 @@ $PG 100-en-fa.txt 100-en-fa-remove_html_all-v3.txt --remove-html-all
 $PG 100-en-fa.txt 100-en-fa-sort-headword.txt --sort --sort-key=headword
 $PG 100-en-fa.txt 100-en-fa-sort-headword-fa.txt --sort --sort-key=headword:fa
 
+$PG 100-en-fa-2.dictunformat 100-en-fa-2.dictunformat.txt
+
 mkdir -p 100-en-fa-sd-nostt
 $PG 100-en-fa.txt 100-en-fa-sd-nostt/100-en-fa.ifo \
 	"--write-options=dictzip=False;sametypesequence=-"
