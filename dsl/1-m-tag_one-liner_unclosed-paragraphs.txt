@@ -1,0 +1,4 @@
+##name	m4 paragraph spanning over 3 separate lines
+##sourceLang	English
+##targetLang	English
+10 paragraphs spanning over 10 separate lines formatted as one-liner	<p style="padding-left:0.3em;margin:0">No indent<p style="padding-left:1em;margin:0">Indent: 1 space<p style="padding-left:2em;margin:0">Indent: 2 spaces<p style="padding-left:3em;margin:0">Indent: 3 spaces<p style="padding-left:4em;margin:0">Indent: 4 spaces<p style="padding-left:5em;margin:0">Indent: 5 spaces<p style="padding-left:6em;margin:0">Indent: 6 spaces<p style="padding-left:7em;margin:0">Indent: 7 spaces<p style="padding-left:8em;margin:0">Indent: 8 spaces<p style="padding-left:9em;margin:0">Indent: 9 spaces

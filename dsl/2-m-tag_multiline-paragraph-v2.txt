@@ -1,0 +1,5 @@
+##name	multiline paragraph
+##sourceLang	English
+##targetLang	English
+unclosed m5 paragraph that spans over 3 lines	<p style="padding-left:1em;margin:0">Pretext (indented with 1 space)<p style="padding-left:5em;margin:0">Paragraph indented with 5 spaces: Line 1.<br/>Paragraph indented with 5 spaces: Line 2.<br/>Paragraph indented with 5 spaces: Line 3.<p style="padding-left:0.3em;margin:0">Aftertext (no indent)
+closed m5 paragraph that spans over 3 lines	<p style="padding-left:1em;margin:0">Pretext (indented with 1 space)</p><p style="padding-left:5em;margin:0">Paragraph indented with 5 spaces: Line 1.<br/>Paragraph indented with 5 spaces: Line 2.<br/>Paragraph indented with 5 spaces: Line 3.</p><br/>Aftertext (no indent)
